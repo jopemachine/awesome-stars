@@ -756,6 +756,7 @@
 
 ## TypeScript 
 
+- [electron/electron-notarize](https://github.com/electron/electron-notarize) - Notarize your macOS Electron Apps
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [gregberge/xstyled](https://github.com/gregberge/xstyled) - A utility-first CSS-in-JS framework built for React. 💅👩‍🎤⚡️
 - [danvk/source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
