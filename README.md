@@ -37,6 +37,7 @@
   - [Swift](#swift)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
+  - [Vue](#vue)
   - [WebAssembly](#webassembly)
 
 ## ANTLR 
@@ -168,6 +169,11 @@
 
 ## JavaScript 
 
+- [fabiospampinato/atomically](https://github.com/fabiospampinato/atomically) - Write files atomically and reliably.
+- [sindresorhus/terminal-image-cli](https://github.com/sindresorhus/terminal-image-cli) - Display images in the terminal
+- [sindresorhus/p-state](https://github.com/sindresorhus/p-state) - Inspect the state of a promise
+- [fregante/setup-git-user](https://github.com/fregante/setup-git-user) - GitHub Action that sets the git user and email to enable commiting
+- [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
 - [fangwei716/30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native) - 30 days of React Native demos
 - [ehmicky/cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
@@ -546,7 +552,6 @@
 - [evernote/evernote-sdk-js](https://github.com/evernote/evernote-sdk-js) - Evernote SDK for JavaScript
 - [yeoman/yo](https://github.com/yeoman/yo) - CLI tool for running Yeoman generators
 - [sindresorhus/alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
-- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [pegjs/pegjs](https://github.com/pegjs/pegjs) - PEG.js: Parser generator for JavaScript
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
@@ -610,6 +615,9 @@
 
 ## Others 
 
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
+- [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
+- [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [bcoe/awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) - :two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code
 - [addyosmani/critical-path-css-tools](https://github.com/addyosmani/critical-path-css-tools) - Tools to prioritize above-the-fold (critical-path) CSS
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
@@ -756,6 +764,7 @@
 
 ## TypeScript 
 
+- [fregante/ghat](https://github.com/fregante/ghat) - 🛕 Reuse GitHub Actions workflows across repositories
 - [electron/electron-notarize](https://github.com/electron/electron-notarize) - Notarize your macOS Electron Apps
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [gregberge/xstyled](https://github.com/gregberge/xstyled) - A utility-first CSS-in-JS framework built for React. 💅👩‍🎤⚡️
@@ -847,6 +856,7 @@
 - [react-navigation/react-native-safe-area-view](https://github.com/react-navigation/react-native-safe-area-view) - ⚠️ Deprecated: use the successor react-native-safe-area-context instead!
 - [th3rdwave/react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [JXA-userland/JXA](https://github.com/JXA-userland/JXA) - JavaScript for Automation(JXA) packages for TypeScript/Node.js.
+- [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
@@ -863,6 +873,10 @@
 - [anzhihe/Efficient-office](https://github.com/anzhihe/Efficient-office) - Alfred-Workflows，Vim，Script，Mac
 - [dracula/vim](https://github.com/dracula/vim) - 🧛🏻‍♂️ Dark theme for Vim
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
+
+## Vue 
+
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 
 ## WebAssembly 
 
