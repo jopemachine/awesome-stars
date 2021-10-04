@@ -96,6 +96,7 @@
 
 - [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
+- [hyrious/github-markdown-css](https://github.com/hyrious/github-markdown-css) - sindresorhus/github-markdown-css, with dark theme support
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [chenjiahan/rodal](https://github.com/chenjiahan/rodal) - A React modal with animations.
 - [designmodo/html-website-templates](https://github.com/designmodo/html-website-templates) - Free static HTML website templates created using the Slides - https://designmodo.com/slides/
@@ -135,7 +136,6 @@
 ## HTML 
 
 - [tc39/template-for-proposals](https://github.com/tc39/template-for-proposals) - A template for ECMAScript proposals
-- [hyrious/github-markdown-css](https://github.com/hyrious/github-markdown-css) - sindresorhus/github-markdown-css, with dark theme support
 - [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [hjson/hjson](https://github.com/hjson/hjson) - Hjson, a user interface for JSON
 - [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
@@ -764,6 +764,7 @@
 
 ## TypeScript 
 
+- [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [fregante/ghat](https://github.com/fregante/ghat) - 🛕 Reuse GitHub Actions workflows across repositories
 - [electron/electron-notarize](https://github.com/electron/electron-notarize) - Notarize your macOS Electron Apps
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
