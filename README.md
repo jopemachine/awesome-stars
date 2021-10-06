@@ -391,7 +391,6 @@
 - [psperber/redux-persist-electron-storage](https://github.com/psperber/redux-persist-electron-storage) - Redux persist adapter for electron-store
 - [sindresorhus/electron-store](https://github.com/sindresorhus/electron-store) - Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
-- [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [oblador/react-native-animatable](https://github.com/oblador/react-native-animatable) - Standard set of easy to use animations and declarative transitions for React Native
 - [fram-x/FluidTransitions](https://github.com/fram-x/FluidTransitions) - Fluid Transitions for React Navigation
 - [cdvntr/react-native-confetti](https://github.com/cdvntr/react-native-confetti) - Raining confetti made with react native animations
@@ -808,6 +807,7 @@
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [colorfy-software/react-native-modalfy](https://github.com/colorfy-software/react-native-modalfy) - 🥞 Modal citizen of React Native.
 - [slorber/react-native-scroll-into-view](https://github.com/slorber/react-native-scroll-into-view) - Scroll a ReactNative View into the visible screen. Similar to DOMElement.scrollIntoView() browser function.
+- [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [IjzerenHein/react-navigation-shared-element](https://github.com/IjzerenHein/react-navigation-shared-element) - React Navigation bindings for react-native-shared-element 💫
 - [socketio/socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
 - [CharlesStover/use-force-update](https://github.com/CharlesStover/use-force-update) - React Hook to force your functional component to update.
@@ -852,7 +852,7 @@
 - [octokit/core.js](https://github.com/octokit/core.js) - Extendable client for GitHub's REST & GraphQL APIs
 - [sindresorhus/mem](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
-- [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [codemotionapps/react-native-dynamic](https://github.com/codemotionapps/react-native-dynamic) - Helper APIs to work with dark mode in React Native
 - [react-navigation/react-native-safe-area-view](https://github.com/react-navigation/react-native-safe-area-view) - ⚠️ Deprecated: use the successor react-native-safe-area-context instead!
 - [th3rdwave/react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
