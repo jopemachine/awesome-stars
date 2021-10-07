@@ -169,6 +169,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/p-throttle](https://github.com/sindresorhus/p-throttle) - Throttle promise-returning & async functions
 - [fabiospampinato/atomically](https://github.com/fabiospampinato/atomically) - Write files atomically and reliably.
 - [sindresorhus/terminal-image-cli](https://github.com/sindresorhus/terminal-image-cli) - Display images in the terminal
 - [sindresorhus/p-state](https://github.com/sindresorhus/p-state) - Inspect the state of a promise
