@@ -193,7 +193,7 @@
 - [annexare/Countries](https://github.com/annexare/Countries) - Countries, Languages & Continents data (capital and currency, native name, calling codes).
 - [jonschlinkert/delete](https://github.com/jonschlinkert/delete) - Delete files and folders and any intermediate directories if they exist (sync and async).
 - [timkendrick/recursive-copy](https://github.com/timkendrick/recursive-copy) - Simple, flexible file copy utility
-- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [cedmax/youmightnotneed](https://github.com/cedmax/youmightnotneed) - 🤯 A collection of `You might not need ${something}` resources
 - [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) - :rainbow: Decorate Dynamic GitHub Profile !!
 - [mmazzarolo/react-native-universal-monorepo](https://github.com/mmazzarolo/react-native-universal-monorepo) - React Native boilerplate supporting multiple platforms: Android, iOS, macOS, Windows, web, browser extensions, Electron.
@@ -764,6 +764,7 @@
 
 ## TypeScript 
 
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [fregante/ghat](https://github.com/fregante/ghat) - 🛕 Reuse GitHub Actions workflows across repositories
 - [electron/electron-notarize](https://github.com/electron/electron-notarize) - Notarize your macOS Electron Apps
