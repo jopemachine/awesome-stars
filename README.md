@@ -94,6 +94,7 @@
 
 ## CSS 
 
+- [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
 - [hyrious/github-markdown-css](https://github.com/hyrious/github-markdown-css) - sindresorhus/github-markdown-css, with dark theme support
@@ -614,6 +615,7 @@
 
 ## Others 
 
+- [baeharam/Must-Know-About-Frontend](https://github.com/baeharam/Must-Know-About-Frontend) - :mortar_board: 취준생이라면 알면 좋을 프론트엔드 관련 지식들
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
@@ -763,6 +765,8 @@
 
 ## TypeScript 
 
+- [vadimdemedes/dom-chef](https://github.com/vadimdemedes/dom-chef) - 🍔 Build DOM elements using JSX automatically
+- [mobxjs/mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [fregante/ghat](https://github.com/fregante/ghat) - 🛕 Reuse GitHub Actions workflows across repositories
