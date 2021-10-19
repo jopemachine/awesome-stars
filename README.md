@@ -97,7 +97,6 @@
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
-- [hyrious/github-markdown-css](https://github.com/hyrious/github-markdown-css) - sindresorhus/github-markdown-css, with dark theme support
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [chenjiahan/rodal](https://github.com/chenjiahan/rodal) - A React modal with animations.
 - [designmodo/html-website-templates](https://github.com/designmodo/html-website-templates) - Free static HTML website templates created using the Slides - https://designmodo.com/slides/
@@ -262,6 +261,7 @@
 - [hzoo/contributors-on-github](https://github.com/hzoo/contributors-on-github) - :cactus: Show stats about contributors on github
 - [sindresorhus/word-list](https://github.com/sindresorhus/word-list) - List of English words
 - [sindresorhus/p-any](https://github.com/sindresorhus/p-any) - Wait for any promise to be fulfilled
+- [hyrious/github-markdown-css](https://github.com/hyrious/github-markdown-css) - sindresorhus/github-markdown-css, with all variants
 - [sindresorhus/generate-github-markdown-css](https://github.com/sindresorhus/generate-github-markdown-css) - Generate the CSS for github-markdown-css
 - [sindresorhus/copy-text-to-clipboard](https://github.com/sindresorhus/copy-text-to-clipboard) - Copy text to the clipboard in modern browsers (0.2 kB)
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - JSX in Markdown for ambitious projects
@@ -767,6 +767,7 @@
 
 ## TypeScript 
 
+- [electron/universal](https://github.com/electron/universal) - 
 - [horiuchi/dtsgenerator](https://github.com/horiuchi/dtsgenerator) - TypeScript d.ts file generate from JSON Schema file
 - [drwpow/openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from Swagger OpenAPI specs
 - [vadimdemedes/dom-chef](https://github.com/vadimdemedes/dom-chef) - 🍔 Build DOM elements using JSX automatically
