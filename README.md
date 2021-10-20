@@ -169,6 +169,7 @@
 
 ## JavaScript 
 
+- [Kagami/ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Port of FFmpeg with Emscripten
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [Trott/slug](https://github.com/Trott/slug) - slugifies even utf-8 chars!
 - [sindresorhus/p-throttle](https://github.com/sindresorhus/p-throttle) - Throttle promise-returning & async functions
