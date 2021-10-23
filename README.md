@@ -169,6 +169,11 @@
 
 ## JavaScript 
 
+- [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
+- [ai/nanoid](https://github.com/ai/nanoid) - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
+- [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
+- [signavio/react-mentions](https://github.com/signavio/react-mentions) - @mention people in a textarea
+- [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for humans
 - [Kagami/ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Port of FFmpeg with Emscripten
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [Trott/slug](https://github.com/Trott/slug) - slugifies even utf-8 chars!
@@ -660,7 +665,6 @@
 - [sindresorhus/alfred-simple](https://github.com/sindresorhus/alfred-simple) - Simple theme for Alfred
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
-- [ndb796/Training-of-Hell](https://github.com/ndb796/Training-of-Hell) - 대학원생 지옥행 열차 탑승
 - [mingrammer/git-tips](https://github.com/mingrammer/git-tips) - :books: Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) - :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader:
@@ -768,6 +772,7 @@
 
 ## TypeScript 
 
+- [vvakame/typescript-formatter](https://github.com/vvakame/typescript-formatter) - Formatter of TypeScript code
 - [jamiebuilds/unstated-next](https://github.com/jamiebuilds/unstated-next) - 200 bytes to never think about React state management libraries ever again
 - [electron/universal](https://github.com/electron/universal) - 
 - [horiuchi/dtsgenerator](https://github.com/horiuchi/dtsgenerator) - TypeScript d.ts file generate from JSON Schema file
