@@ -169,6 +169,7 @@
 
 ## JavaScript 
 
+- [wix/eslint-plugin-lodash](https://github.com/wix/eslint-plugin-lodash) - ESLint rules for lodash
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
@@ -203,7 +204,7 @@
 - [timkendrick/recursive-copy](https://github.com/timkendrick/recursive-copy) - Simple, flexible file copy utility
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [cedmax/youmightnotneed](https://github.com/cedmax/youmightnotneed) - 🤯 A collection of `You might not need ${something}` resources
-- [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) - :rainbow: Decorate Dynamic GitHub Profile !!
+- [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) - :rainbow: Dynamic Coloful Image Render
 - [mmazzarolo/react-native-universal-monorepo](https://github.com/mmazzarolo/react-native-universal-monorepo) - React Native boilerplate supporting multiple platforms: Android, iOS, macOS, Windows, web, browser extensions, Electron.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [sindresorhus/get-range](https://github.com/sindresorhus/get-range) - Lazy number range generator
@@ -444,7 +445,6 @@
 - [yjs03057/33-js-concepts](https://github.com/yjs03057/33-js-concepts) - 모든 자바스크립트 개발자가 알아야 하는 33가지 개념
 - [alexanderdickson/Chip-8-Emulator](https://github.com/alexanderdickson/Chip-8-Emulator) - A Chip-8 Emulator
 - [wzhouwzhou/ytsearcher](https://github.com/wzhouwzhou/ytsearcher) - YTSearcher | 170k+ DL | 1000+ Dependents | NodeJS package providing an easy-to-use promise-based solution for getting youtube search results.
-- [reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for Redux
 - [mscdex/ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
 - [tj/connect-redis](https://github.com/tj/connect-redis) - Redis session store for Connect
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
@@ -846,6 +846,7 @@
 - [typestack/class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
 - [akito0107/catacli](https://github.com/akito0107/catacli) - 
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
+- [reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for Redux
 - [dsznajder/vscode-es7-javascript-react-snippets](https://github.com/dsznajder/vscode-es7-javascript-react-snippets) - Extension for Javascript/React snippets with search supporting ES7 and babel features
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [prisma-labs/graphql-request](https://github.com/prisma-labs/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
