@@ -173,6 +173,7 @@
 
 ## JavaScript 
 
+- [cssinjs/jss](https://github.com/cssinjs/jss) - JSS is an authoring tool for CSS which uses JavaScript as a host language.
 - [wix/eslint-plugin-lodash](https://github.com/wix/eslint-plugin-lodash) - ESLint rules for lodash
 - [testing-library/react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (108 bytes), secure, URL-friendly, unique string ID generator for JavaScript
