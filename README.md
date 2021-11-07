@@ -175,6 +175,7 @@
 
 ## JavaScript 
 
+- [redux-utilities/flux-standard-action](https://github.com/redux-utilities/flux-standard-action) - A human-friendly standard for Flux action objects.
 - [akiran/react-slick](https://github.com/akiran/react-slick) - React carousel component
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
@@ -732,6 +733,7 @@
 
 ## Rust 
 
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
