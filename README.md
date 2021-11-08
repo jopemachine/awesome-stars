@@ -389,7 +389,6 @@
 - [sindresorhus/p-cancelable](https://github.com/sindresorhus/p-cancelable) - Create a promise that can be canceled
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [aceakash/string-similarity](https://github.com/aceakash/string-similarity) - Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance.
-- [Izurii/easy-auto-launch](https://github.com/Izurii/easy-auto-launch) - 
 - [ilearnio/module-alias](https://github.com/ilearnio/module-alias) - Register aliases of directories and custom module paths in Node
 - [isaacs/minimatch](https://github.com/isaacs/minimatch) - a glob matcher in javascript
 - [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
@@ -633,6 +632,7 @@
 
 ## Others 
 
+- [WebAssembly/module-linking](https://github.com/WebAssembly/module-linking) - Proposal for allowing modules to define, import and export modules and instances
 - [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 - [baeharam/Must-Know-About-Frontend](https://github.com/baeharam/Must-Know-About-Frontend) - :mortar_board: 취준생이라면 알면 좋을 프론트엔드 관련 지식들
