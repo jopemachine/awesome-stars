@@ -175,6 +175,9 @@
 
 ## JavaScript 
 
+- [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
+- [webpack-contrib/copy-webpack-plugin](https://github.com/webpack-contrib/copy-webpack-plugin) - Copy files and directories with webpack
+- [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [redux-utilities/flux-standard-action](https://github.com/redux-utilities/flux-standard-action) - A human-friendly standard for Flux action objects.
 - [akiran/react-slick](https://github.com/akiran/react-slick) - React carousel component
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
@@ -632,6 +635,7 @@
 
 ## Others 
 
+- [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘
 - [WebAssembly/module-linking](https://github.com/WebAssembly/module-linking) - Proposal for allowing modules to define, import and export modules and instances
 - [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
 - [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
@@ -807,7 +811,7 @@
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [bytedance/debugtron](https://github.com/bytedance/debugtron) - Debug in-production Electron based app
 - [sindresorhus/gravatar-url](https://github.com/sindresorhus/gravatar-url) - Get the URL to a Gravatar image from an identifier, such as an email
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [andywer/threads.js](https://github.com/andywer/threads.js) - 🧵 Make web workers & worker threads as simple as a function call.
 - [nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples) - Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html
 - [fregante/select-dom](https://github.com/fregante/select-dom) - Lightweight querySelector/All wrapper that outputs an Array
