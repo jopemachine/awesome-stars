@@ -180,6 +180,10 @@
 
 ## JavaScript 
 
+- [tc39/proposal-observable](https://github.com/tc39/proposal-observable) - Observables for ECMAScript
+- [pieroxy/lz-string](https://github.com/pieroxy/lz-string) - LZ-based compression algorithm for JavaScript
+- [franciscop/legally](https://github.com/franciscop/legally) - :books: Check the licenses for the NPM packages that you use
+- [diegohaz/nod](https://github.com/diegohaz/nod) - Node.js module generator/boilerplate with Babel, Jest, Flow, Documentation and more
 - [zalmoxisus/redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension) - Redux DevTools extension.
 - [zalmoxisus/remote-redux-devtools](https://github.com/zalmoxisus/remote-redux-devtools) - Redux DevTools remotely.
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
