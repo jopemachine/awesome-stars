@@ -180,6 +180,7 @@
 
 ## JavaScript 
 
+- [wayfair/git-parse](https://github.com/wayfair/git-parse) - JavaScript library that generates an array of JavaScript objects, representing the current branch of a local git repository's commit history
 - [tc39/proposal-observable](https://github.com/tc39/proposal-observable) - Observables for ECMAScript
 - [pieroxy/lz-string](https://github.com/pieroxy/lz-string) - LZ-based compression algorithm for JavaScript
 - [franciscop/legally](https://github.com/franciscop/legally) - :books: Check the licenses for the NPM packages that you use
@@ -740,6 +741,7 @@
 
 ## Ruby 
 
+- [gjtorikian/jekyll-last-modified-at](https://github.com/gjtorikian/jekyll-last-modified-at) - A Jekyll plugin to show the last_modified_at time of a post.
 - [slashsbin/styleguide-git-commit-message](https://github.com/slashsbin/styleguide-git-commit-message) - /sBin/StyleGuide/Git/CommitMessage
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [github/markup](https://github.com/github/markup) - Determines which markup library to use to render a content file (e.g. README) on GitHub
@@ -783,6 +785,7 @@
 
 ## Shell 
 
+- [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [ralyodio/node-startup](https://github.com/ralyodio/node-startup) - Startup script for Linux-based systems for running node app when rebooting using an /etc/init.d script.
