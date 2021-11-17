@@ -180,6 +180,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin
 - [wayfair/git-parse](https://github.com/wayfair/git-parse) - JavaScript library that generates an array of JavaScript objects, representing the current branch of a local git repository's commit history
 - [tc39/proposal-observable](https://github.com/tc39/proposal-observable) - Observables for ECMAScript
 - [pieroxy/lz-string](https://github.com/pieroxy/lz-string) - LZ-based compression algorithm for JavaScript
