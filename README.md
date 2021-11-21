@@ -11,6 +11,7 @@
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
+  - [CMake](#cmake)
   - [CSS](#css)
   - [CoffeeScript](#coffeescript)
   - [Elixir](#elixir)
@@ -97,6 +98,10 @@
 - [koshort/pyeunjeon](https://github.com/koshort/pyeunjeon) - (deprecated) 은전한닢 프로젝트와 mecab 기반의 한국어 형태소 분석기의 독립형 python 인터페이스
 - [laurent22/fastcopy](https://github.com/laurent22/fastcopy) - FastCopy
 
+## CMake 
+
+- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight) - Next-generation HTML renderer for apps and games
+
 ## CSS 
 
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
@@ -180,6 +185,7 @@
 
 ## JavaScript 
 
+- [Elringus/DotNetJS](https://github.com/Elringus/DotNetJS) - Use .NET in any JavaScript environment: browsers, Node.js, VS Code web extensions, etc.
 - [pablosichert/react-truncate](https://github.com/pablosichert/react-truncate) - React component for truncating multi-line spans and adding an ellipsis.
 - [evoluteur/meet-the-fans](https://github.com/evoluteur/meet-the-fans) - Query and Visualize the network graph of your GitHub repositories, followers, stargazers, and forks.
 - [sideway/joi](https://github.com/sideway/joi) - The most powerful data validation library for JS
