@@ -185,6 +185,7 @@
 
 ## JavaScript 
 
+- [jamiebuilds/react-loadable](https://github.com/jamiebuilds/react-loadable) - :hourglass_flowing_sand: A higher order component for loading components with promises.
 - [Elringus/DotNetJS](https://github.com/Elringus/DotNetJS) - Use .NET in any JavaScript environment: browsers, Node.js, VS Code web extensions, etc.
 - [pablosichert/react-truncate](https://github.com/pablosichert/react-truncate) - React component for truncating multi-line spans and adding an ellipsis.
 - [evoluteur/meet-the-fans](https://github.com/evoluteur/meet-the-fans) - Query and Visualize the network graph of your GitHub repositories, followers, stargazers, and forks.
@@ -659,6 +660,7 @@
 
 ## Others 
 
+- [uyeong/NotoSans-subset](https://github.com/uyeong/NotoSans-subset) - Lightweight Hangul web font files
 - [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘
 - [WebAssembly/module-linking](https://github.com/WebAssembly/module-linking) - Proposal for allowing modules to define, import and export modules and instances
 - [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
@@ -817,6 +819,7 @@
 
 ## TypeScript 
 
+- [DylanVann/react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, performant React Native image component.
 - [reduxjs/redux-devtools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
 - [sindresorhus/hide-files-on-github](https://github.com/sindresorhus/hide-files-on-github) - Chrome extension - Hide nonessential files from the GitHub file browser
 - [fregante/webext-options-sync](https://github.com/fregante/webext-options-sync) - Helps you manage and autosave your extension's options. Chrome and Firefox.
