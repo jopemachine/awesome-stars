@@ -186,7 +186,7 @@
 ## JavaScript 
 
 - [jamiebuilds/react-loadable](https://github.com/jamiebuilds/react-loadable) - :hourglass_flowing_sand: A higher order component for loading components with promises.
-- [Elringus/DotNetJS](https://github.com/Elringus/DotNetJS) - Use .NET in any JavaScript environment: browsers, Node.js, VS Code web extensions, etc.
+- [Elringus/DotNetJS](https://github.com/Elringus/DotNetJS) - Use C# in any JavaScript environment: browsers, Node.js, VS Code web extensions, etc.
 - [pablosichert/react-truncate](https://github.com/pablosichert/react-truncate) - React component for truncating multi-line spans and adding an ellipsis.
 - [evoluteur/meet-the-fans](https://github.com/evoluteur/meet-the-fans) - Query and Visualize the network graph of your GitHub repositories, followers, stargazers, and forks.
 - [sideway/joi](https://github.com/sideway/joi) - The most powerful data validation library for JS
@@ -937,7 +937,7 @@
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
 - [react-native-webview/react-native-webview](https://github.com/react-native-webview/react-native-webview) - React Native Cross-Platform WebView
-- [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - 📊📈 React components for Chart.js, the most popular charting library
+- [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 - [mayajuni/async-await-mysql](https://github.com/mayajuni/async-await-mysql) - Typescript를 이용하여 async/await mysql 모듈
 - [wix/react-native-calendars](https://github.com/wix/react-native-calendars) - React Native Calendar Components 🗓️ 📆
 - [jsdevkr/react-multi-email](https://github.com/jsdevkr/react-multi-email) - :octocat: A simple react component to format multiple email as the user types.
