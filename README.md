@@ -185,6 +185,7 @@
 
 ## JavaScript 
 
+- [tmpvar/repl.history](https://github.com/tmpvar/repl.history) - persist a node repl's history
 - [jamiebuilds/react-loadable](https://github.com/jamiebuilds/react-loadable) - :hourglass_flowing_sand: A higher order component for loading components with promises.
 - [Elringus/DotNetJS](https://github.com/Elringus/DotNetJS) - Use C# in any JavaScript environment: browsers, Node.js, VS Code web extensions, etc.
 - [pablosichert/react-truncate](https://github.com/pablosichert/react-truncate) - React component for truncating multi-line spans and adding an ellipsis.
@@ -818,6 +819,7 @@
 
 ## TypeScript 
 
+- [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [DylanVann/react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, performant React Native image component.
 - [wayfair/git-parse](https://github.com/wayfair/git-parse) - JavaScript library that generates an array of JavaScript objects, representing the current branch of a local git repository's commit history
 - [reduxjs/redux-devtools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
