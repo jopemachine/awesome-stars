@@ -613,7 +613,6 @@
 - [marpple/FxJS](https://github.com/marpple/FxJS) - Functional Extensions Library for JavaScript
 - [jashkenas/underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
 - [marpple/partial.js](https://github.com/marpple/partial.js) - (deprecated)
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [jacklam718/react-native-dialog-component](https://github.com/jacklam718/react-native-dialog-component) - A react native dialog component support custom animation for IOS & Android.
 - [RNComponents/rn-spinner](https://github.com/RNComponents/rn-spinner) - An extensible number Spinner component for react-native.
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
@@ -810,6 +809,7 @@
 - [paulsri/alfred-airplay-selector](https://github.com/paulsri/alfred-airplay-selector) - Use Alfred to Toggle AirPlay on macOS
 - [godbout/alfred-airplay](https://github.com/godbout/alfred-airplay) - Extend your display to an AirPlay device directly from Alfred. No need for endless clicking here and there.
 - [react-native-community/rn-diff-purge](https://github.com/react-native-community/rn-diff-purge) - Easier React Native upgrades by clearly exposing changes from a version to another. :rocket: And what better way than to purge, init, then diff? Spoiler: there's no better way. 😎
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 
 ## Swift 
 
