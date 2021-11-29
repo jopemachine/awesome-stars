@@ -186,6 +186,7 @@
 
 ## JavaScript 
 
+- [mike-north/professional-ts](https://github.com/mike-north/professional-ts) - 
 - [techfolios/template](https://github.com/techfolios/template) - Technical Portfolio
 - [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
 - [tmpvar/repl.history](https://github.com/tmpvar/repl.history) - persist a node repl's history
@@ -823,6 +824,7 @@
 
 ## TypeScript 
 
+- [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [sindresorhus/p-memoize](https://github.com/sindresorhus/p-memoize) - Memoize promise-returning & async functions
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [DylanVann/react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) - 🚩 FastImage, performant React Native image component.
