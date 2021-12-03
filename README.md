@@ -109,6 +109,7 @@
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 - [adamschwartz/chrome-tabs](https://github.com/adamschwartz/chrome-tabs) - Chrome-style tabs in HTML/CSS.
 - [connors/photon](https://github.com/connors/photon) - The fastest way to build beautiful Electron apps using simple HTML and CSS
+- [hyrious/github-markdown-css](https://github.com/hyrious/github-markdown-css) - sindresorhus/github-markdown-css, with all variants
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [chenjiahan/rodal](https://github.com/chenjiahan/rodal) - A React modal with animations.
 - [designmodo/html-website-templates](https://github.com/designmodo/html-website-templates) - Free static HTML website templates created using the Slides - https://designmodo.com/slides/
@@ -315,7 +316,6 @@
 - [hzoo/contributors-on-github](https://github.com/hzoo/contributors-on-github) - :cactus: Show stats about contributors on github
 - [sindresorhus/word-list](https://github.com/sindresorhus/word-list) - List of English words
 - [sindresorhus/p-any](https://github.com/sindresorhus/p-any) - Wait for any promise to be fulfilled
-- [hyrious/github-markdown-css](https://github.com/hyrious/github-markdown-css) - sindresorhus/github-markdown-css, with all variants
 - [sindresorhus/generate-github-markdown-css](https://github.com/sindresorhus/generate-github-markdown-css) - Generate the CSS for github-markdown-css
 - [sindresorhus/copy-text-to-clipboard](https://github.com/sindresorhus/copy-text-to-clipboard) - Copy text to the clipboard in modern browsers (0.2 kB)
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
@@ -666,6 +666,7 @@
 
 ## Others 
 
+- [naver/nanumfont](https://github.com/naver/nanumfont) - 
 - [uyeong/NotoSans-subset](https://github.com/uyeong/NotoSans-subset) - Lightweight Hangul web font files
 - [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘
 - [WebAssembly/module-linking](https://github.com/WebAssembly/module-linking) - Proposal for allowing modules to define, import and export modules and instances
@@ -712,7 +713,6 @@
 - [sindresorhus/css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [sindresorhus/alfred-simple](https://github.com/sindresorhus/alfred-simple) - Simple theme for Alfred
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [mingrammer/git-tips](https://github.com/mingrammer/git-tips) - :books: Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) - :boy: :girl: Technical-Interview guidelines written for those who started studying programming. I wish you all the best. :space_invader:
@@ -774,6 +774,7 @@
 
 ## Rust 
 
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -809,6 +810,7 @@
 
 ## Shell 
 
+- [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action to deploy the Jekyll site conveniently for GitHub Pages.
 - [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
@@ -952,6 +954,7 @@
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
 - [react-native-webview/react-native-webview](https://github.com/react-native-webview/react-native-webview) - React Native Cross-Platform WebView
 - [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
