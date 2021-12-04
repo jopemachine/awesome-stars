@@ -41,6 +41,7 @@
   - [Swift](#swift)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
+  - [VimL](#viml)
   - [Vue](#vue)
   - [WebAssembly](#webassembly)
 
@@ -190,6 +191,7 @@
 
 ## JavaScript 
 
+- [jonschlinkert/reserved](https://github.com/jonschlinkert/reserved) - Reserved words that may not be used as variables, functions, methods, or object identifiers, since ECMAScript specifies special behavior for them.
 - [souporserious/react-measure](https://github.com/souporserious/react-measure) - 📏 Compute measurements of a React component.
 - [mike-north/professional-ts](https://github.com/mike-north/professional-ts) - 
 - [techfolios/template](https://github.com/techfolios/template) - Technical Portfolio
@@ -624,7 +626,7 @@
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [microsoft/Windows-universal-samples](https://github.com/microsoft/Windows-universal-samples) - API samples for the Universal Windows Platform.
-- [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - Markdown code style linter
+- [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - plugins to check (lint) markdown code style
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [StephenGrider/ReduxCasts](https://github.com/StephenGrider/ReduxCasts) - Modern React with Redux
@@ -732,6 +734,7 @@
 
 ## Python 
 
+- [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 - [ejwa/gitinspector](https://github.com/ejwa/gitinspector) - :bar_chart: The statistical analysis tool for git repositories
@@ -967,6 +970,14 @@
 
 ## Vim script 
 
+- [macvim-dev/macvim](https://github.com/macvim-dev/macvim) - Vim - the text editor - for macOS
+- [nathanaelkane/vim-indent-guides](https://github.com/nathanaelkane/vim-indent-guides) - A Vim plugin for visually displaying indent levels in code
+- [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
+- [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
+- [michaeljsmith/vim-indent-object](https://github.com/michaeljsmith/vim-indent-object) - Vim plugin that defines a new text object representing lines of code at the same indent level. Useful for python/vim scripts, etc.
+- [mg979/vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim
+- [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
+- [osyo-manga/vim-over](https://github.com/osyo-manga/vim-over) - :substitute preview
 - [ayu-theme/ayu-vim](https://github.com/ayu-theme/ayu-vim) - Modern theme for modern VIMs
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
 - [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
@@ -976,6 +987,11 @@
 - [anzhihe/Efficient-office](https://github.com/anzhihe/Efficient-office) - Alfred-Workflows，Vim，Script，Mac
 - [dracula/vim](https://github.com/dracula/vim) - 🧛🏻‍♂️ Dark theme for Vim
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
+
+## VimL 
+
+- [felixr/vim-multiedit](https://github.com/felixr/vim-multiedit) - multi-editing for vim
+- [vim-scripts/L9](https://github.com/vim-scripts/L9) - Vim-script library
 
 ## Vue 
 
