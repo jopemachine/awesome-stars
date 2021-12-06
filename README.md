@@ -664,6 +664,7 @@
 
 ## Objective-C 
 
+- [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [tonsky/AnyBar](https://github.com/tonsky/AnyBar) - OS X menubar status indicator
 - [Instabug/Instabug-React-Native](https://github.com/Instabug/Instabug-React-Native) - In-app feedback and bug reporting tool for React Native
 - [Danesz/TouchBarDisabler](https://github.com/Danesz/TouchBarDisabler) - TouchBarDisabler allows users to manually turn off the Touch Bar on 2016 MacBook Pro devices. You will be guided to turn off System Integrity Protection before using the app.
@@ -785,6 +786,7 @@
 
 ## Rust 
 
+- [wfxr/code-minimap](https://github.com/wfxr/code-minimap) - 🛰  A high performance code minimap render.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [AppFlowy-IO/appflowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
@@ -982,6 +984,19 @@
 
 ## Vim script 
 
+- [easymotion/vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
+- [godlygeek/tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
+- [vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes) - A collection of themes for vim-airline
+- [vim-autoformat/vim-autoformat](https://github.com/vim-autoformat/vim-autoformat) - Provide easy code formatting in Vim by integrating existing code formatters.
+- [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out
+- [simeji/winresizer](https://github.com/simeji/winresizer) - very simple vim plugin for easy resizing of your vim windows
+- [camspiers/lens.vim](https://github.com/camspiers/lens.vim) - A Vim Automatic Window Resizing Plugin
+- [wfxr/minimap.vim](https://github.com/wfxr/minimap.vim) - 📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
+- [romainl/vim-cool](https://github.com/romainl/vim-cool) - A very simple plugin that makes hlsearch more useful.
+- [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch) - eunuch.vim: Helpers for UNIX
+- [Raimondi/delimitMate](https://github.com/Raimondi/delimitMate) - Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.
+- [psliwka/vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right🥤
+- [johngrib/vim-f-hangul](https://github.com/johngrib/vim-f-hangul) - vim에서 f로 한글을 검색하자
 - [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - True Sublime Text style multiple selections for Vim
 - [Shougo/deol.nvim](https://github.com/Shougo/deol.nvim) - Dark powered shell interface for NeoVim and Vim8.
 - [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen) - pathogen.vim: manage your runtimepath
@@ -1026,6 +1041,7 @@
 
 ## VimL 
 
+- [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor
 - [felixr/vim-multiedit](https://github.com/felixr/vim-multiedit) - multi-editing for vim
 - [vim-scripts/L9](https://github.com/vim-scripts/L9) - Vim-script library
 
