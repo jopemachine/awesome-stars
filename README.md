@@ -29,6 +29,7 @@
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
+  - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Python](#python)
   - [Ren'Py](#ren'py)
@@ -195,6 +196,7 @@
 
 ## JavaScript 
 
+- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [jonschlinkert/reserved](https://github.com/jonschlinkert/reserved) - Reserved words that may not be used as variables, functions, methods, or object identifiers, since ECMAScript specifies special behavior for them.
 - [souporserious/react-measure](https://github.com/souporserious/react-measure) - 📏 Compute measurements of a React component.
@@ -491,7 +493,7 @@
 - [borisyankov/react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component
 - [sindresorhus/open](https://github.com/sindresorhus/open) - Open stuff like URLs, files, executables. Cross-platform.
 - [bcle/fuse4js](https://github.com/bcle/fuse4js) - FUSE bindings for Javascript and node.js
-- [dfahlander/Dexie.js](https://github.com/dfahlander/Dexie.js) - A Minimalistic Wrapper for IndexedDB
+- [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 - [doowb/npm-api](https://github.com/doowb/npm-api) - Node.js library for getting info from NPM’s API
 - [naoufal/react-native-payments](https://github.com/naoufal/react-native-payments) - Accept Payments with Apple Pay and Android Pay using the Payment Request API.
 - [yjs03057/33-js-concepts](https://github.com/yjs03057/33-js-concepts) - 모든 자바스크립트 개발자가 알아야 하는 33가지 개념
@@ -734,6 +736,10 @@
 - [zqzten/alfred-web-search-suggest](https://github.com/zqzten/alfred-web-search-suggest) - Alfred search suggest workflow for various popular websites.
 - [gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 4
 
+## Perl 
+
+- [k4rthik/git-cal](https://github.com/k4rthik/git-cal) - github like contributions calendar on terminal
+
 ## PowerShell 
 
 - [denoland/deno_install](https://github.com/denoland/deno_install) - Deno Binary Installer
@@ -829,6 +835,14 @@
 
 ## Shell 
 
+- [tmux-plugins/tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) - standard pane key-bindings for tmux
+- [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
+- [mafredri/zsh-async](https://github.com/mafredri/zsh-async) - Because your terminal should be able to perform tasks asynchronously without external tools!
+- [lukechilds/zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - Better completion for npm
+- [supercrabtree/k](https://github.com/supercrabtree/k) - k is the new l, yo
+- [NHDaly/tmux-better-mouse-mode](https://github.com/NHDaly/tmux-better-mouse-mode) - A tmux plugin to better manage and configure the mouse.
+- [tmux-plugins/tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight) - Plugin that highlights when you press tmux prefix key
+- [arcticicestudio/nord-tmux](https://github.com/arcticicestudio/nord-tmux) - An arctic, north-bluish clean and elegant tmux color theme.
 - [tmux-plugins/tmux-open](https://github.com/tmux-plugins/tmux-open) - Tmux key bindings for quick opening of a highlighted file or url
 - [tmux-plugins/tmux-copycat](https://github.com/tmux-plugins/tmux-copycat) - A plugin that enhances tmux search
 - [tmux-plugins/tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
@@ -869,6 +883,8 @@
 
 ## TypeScript 
 
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [PSeitz/ts-dependency-graph](https://github.com/PSeitz/ts-dependency-graph) - prints a dependency graph in dot format for your typescript project
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [sindresorhus/p-memoize](https://github.com/sindresorhus/p-memoize) - Memoize promise-returning & async functions
@@ -1083,6 +1099,7 @@
 
 ## VimL 
 
+- [jebaum/vim-tmuxify](https://github.com/jebaum/vim-tmuxify) - Vim plugin for handling tmux panes.
 - [vim-scripts/BufOnly.vim](https://github.com/vim-scripts/BufOnly.vim) - Delete all the buffers except the current/named buffer
 - [rking/ag.vim](https://github.com/rking/ag.vim) - Vim plugin for the_silver_searcher, 'ag', a replacement for the Perl module / CLI script 'ack'
 - [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor
