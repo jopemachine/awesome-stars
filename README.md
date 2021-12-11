@@ -883,6 +883,7 @@
 
 ## TypeScript 
 
+- [react-pdf-viewer/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - A React component to view a PDF document
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [PSeitz/ts-dependency-graph](https://github.com/PSeitz/ts-dependency-graph) - prints a dependency graph in dot format for your typescript project
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
