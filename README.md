@@ -196,6 +196,7 @@
 
 ## JavaScript 
 
+- [Gustu/string-to-color](https://github.com/Gustu/string-to-color) - Time invariant color from any object.
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD.
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [jonschlinkert/reserved](https://github.com/jonschlinkert/reserved) - Reserved words that may not be used as variables, functions, methods, or object identifiers, since ECMAScript specifies special behavior for them.
@@ -1007,7 +1008,7 @@
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
 - [react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
 - [react-native-webview/react-native-webview](https://github.com/react-native-webview/react-native-webview) - React Native Cross-Platform WebView
 - [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
