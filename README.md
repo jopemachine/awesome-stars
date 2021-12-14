@@ -196,6 +196,7 @@
 
 ## JavaScript 
 
+- [dominictarr/JSONStream](https://github.com/dominictarr/JSONStream) - rawStream.pipe(JSONStream.parse()).pipe(streamOfObjects)
 - [Khan/pull-request-comment-trigger](https://github.com/Khan/pull-request-comment-trigger) - A github action for detecting a "trigger" in a pull request description or comment
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [Gustu/string-to-color](https://github.com/Gustu/string-to-color) - Time invariant color from any object.
@@ -337,7 +338,7 @@
 - [sindresorhus/figures](https://github.com/sindresorhus/figures) - Unicode symbols with fallbacks for older terminals
 - [felixrieseberg/windows-shortcuts-ps](https://github.com/felixrieseberg/windows-shortcuts-ps) - Node.js: Read Windows shortcuts without native dependencies (Windows 7 and up)
 - [j201/windows-shortcuts](https://github.com/j201/windows-shortcuts) - A Node.js API for creating, editing, and reading Windows shortcuts (.lnk files).
-- [iqubex-technologies/pkgreview.dev](https://github.com/iqubex-technologies/pkgreview.dev) - The ratings and reviews website for code package managers
+- [kumarabhirup/pkgreview.dev](https://github.com/kumarabhirup/pkgreview.dev) - The ratings and reviews website for code package managers
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [hacksparrow/safe-eval](https://github.com/hacksparrow/safe-eval) - Safer version of eval()
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
@@ -886,6 +887,8 @@
 
 ## TypeScript 
 
+- [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
+- [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [react-pdf-viewer/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - A React component to view a PDF document
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [PSeitz/ts-dependency-graph](https://github.com/PSeitz/ts-dependency-graph) - prints a dependency graph in dot format for your typescript project
