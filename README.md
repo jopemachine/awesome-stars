@@ -197,6 +197,7 @@
 
 ## JavaScript 
 
+- [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [pvorb/node-md5](https://github.com/pvorb/node-md5) - a JavaScript function for hashing messages with MD5
 - [darkskyapp/string-hash](https://github.com/darkskyapp/string-hash) - Fast string hashing function for Node.JS.
 - [dominictarr/JSONStream](https://github.com/dominictarr/JSONStream) - rawStream.pipe(JSONStream.parse()).pipe(streamOfObjects)
@@ -890,8 +891,10 @@
 
 ## TypeScript 
 
+- [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
+- [microsoft/vscode-js-debug](https://github.com/microsoft/vscode-js-debug) - The VS Code JavaScript debugger
 - [KennethanCeyer/browser-detect](https://github.com/KennethanCeyer/browser-detect) - :globe_with_meridians: simplify detecting your browser.
-- [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
+- [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [thebuilder/react-intersection-observer](https://github.com/thebuilder/react-intersection-observer) - React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
