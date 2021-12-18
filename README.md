@@ -187,7 +187,6 @@
 - [arduino/Arduino](https://github.com/arduino/Arduino) - open-source electronics platform
 - [thegamenicorus/TurboModulePlayground](https://github.com/thegamenicorus/TurboModulePlayground) - Playing with React Native's new architecture:: JSI and TurboModules
 - [facebook/SoLoader](https://github.com/facebook/SoLoader) - Native code loader for Android
-- [OneSignal/react-native-onesignal](https://github.com/OneSignal/react-native-onesignal) - React Native Library for OneSignal Push Notifications Service
 - [react-native-geolocation/react-native-geolocation](https://github.com/react-native-geolocation/react-native-geolocation) - Geolocation APIs for React Native
 - [avishayil/react-native-restart](https://github.com/avishayil/react-native-restart) - React Native Package With One Purpose: To Restart Your React Native Project
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
@@ -197,6 +196,7 @@
 
 ## JavaScript 
 
+- [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [pvorb/node-md5](https://github.com/pvorb/node-md5) - a JavaScript function for hashing messages with MD5
 - [darkskyapp/string-hash](https://github.com/darkskyapp/string-hash) - Fast string hashing function for Node.JS.
@@ -1022,6 +1022,7 @@
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
+- [OneSignal/react-native-onesignal](https://github.com/OneSignal/react-native-onesignal) - React Native Library for OneSignal Push Notifications Service
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
 - [react-native-device-info/react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
 - [react-native-webview/react-native-webview](https://github.com/react-native-webview/react-native-webview) - React Native Cross-Platform WebView
