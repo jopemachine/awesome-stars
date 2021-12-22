@@ -76,7 +76,7 @@
 
 ## C# # 
 
-- [Elringus/DotNetJS](https://github.com/Elringus/DotNetJS) - Use C# in any JavaScript environment: browsers, Node.js, VS Code web extensions, etc.
+- [Elringus/DotNetJS](https://github.com/Elringus/DotNetJS) - Compile C# projects into single-file JavaScript library compatible with any environment: browser, web worker, Node.js, VS Code web extension, etc.
 - [DynamicTranslator/DynamicTranslator](https://github.com/DynamicTranslator/DynamicTranslator) - Instant translation application for windows in .NET :circus_tent:
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [ndb796/Unity-2D-Rhythm-Game](https://github.com/ndb796/Unity-2D-Rhythm-Game) - Unity로 개발한 2D Rhythm Game Project
@@ -84,6 +84,7 @@
 
 ## C++ 
 
+- [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [hyperledger/iroha](https://github.com/hyperledger/iroha) - Iroha - A simple, enterprise-grade decentralized ledger
 - [node-inspector/v8-profiler](https://github.com/node-inspector/v8-profiler) - node bindings for the v8 profiler
 - [nodejs/nan](https://github.com/nodejs/nan) - Native Abstractions for Node.js
@@ -198,6 +199,7 @@
 
 ## JavaScript 
 
+- [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [rsmbl/Resemble.js](https://github.com/rsmbl/Resemble.js) - Image analysis and comparison
 - [sindresorhus/pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
