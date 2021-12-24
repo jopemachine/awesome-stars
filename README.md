@@ -199,6 +199,7 @@
 
 ## JavaScript 
 
+- [fisshy/react-scroll](https://github.com/fisshy/react-scroll) - React scroll component
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
 - [rsmbl/Resemble.js](https://github.com/rsmbl/Resemble.js) - Image analysis and comparison
 - [sindresorhus/pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots
