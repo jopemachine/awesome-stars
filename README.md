@@ -199,6 +199,8 @@
 
 ## JavaScript 
 
+- [DrBoolean/immutable-ext](https://github.com/DrBoolean/immutable-ext) - fantasyland extensions for immutablejs
+- [salesforce/tough-cookie](https://github.com/salesforce/tough-cookie) - RFC6265 Cookies and CookieJar for Node.js
 - [lodash-archive/lodash-cli](https://github.com/lodash-archive/lodash-cli) - The Lodash command-line interface.
 - [fisshy/react-scroll](https://github.com/fisshy/react-scroll) - React scroll component
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
