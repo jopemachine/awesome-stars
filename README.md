@@ -519,7 +519,6 @@
 - [wzhouwzhou/ytsearcher](https://github.com/wzhouwzhou/ytsearcher) - YTSearcher | 170k+ DL | 1000+ Dependents | NodeJS package providing an easy-to-use promise-based solution for getting youtube search results.
 - [mscdex/ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
 - [tj/connect-redis](https://github.com/tj/connect-redis) - Redis session store for Connect
-- [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [axios/moxios](https://github.com/axios/moxios) - Mock axios requests for testing
 - [twitter/hogan.js](https://github.com/twitter/hogan.js) - A compiler for the Mustache templating language
@@ -903,6 +902,7 @@
 
 ## TypeScript 
 
+- [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
 - [microsoft/vscode-js-debug](https://github.com/microsoft/vscode-js-debug) - The VS Code JavaScript debugger
 - [KennethanCeyer/browser-detect](https://github.com/KennethanCeyer/browser-detect) - :globe_with_meridians: simplify detecting your browser.
@@ -1001,6 +1001,7 @@
 - [akito0107/catacli](https://github.com/akito0107/catacli) - 
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
 - [reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for Redux
+- [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [dsznajder/vscode-es7-javascript-react-snippets](https://github.com/dsznajder/vscode-es7-javascript-react-snippets) - Extension for Javascript/React snippets with search supporting ES7 and babel features
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [prisma-labs/graphql-request](https://github.com/prisma-labs/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps
