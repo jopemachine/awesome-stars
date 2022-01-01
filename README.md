@@ -198,6 +198,7 @@
 
 ## JavaScript 
 
+- [crabbly/Print.js](https://github.com/crabbly/Print.js) - A tiny javascript library to help printing from the web.
 - [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [DrBoolean/immutable-ext](https://github.com/DrBoolean/immutable-ext) - fantasyland extensions for immutablejs
@@ -1015,7 +1016,7 @@
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [react-native-seoul/react-native-kakao-login](https://github.com/react-native-seoul/react-native-kakao-login) - react-native native module for Kakao sign in.
 - [eveningkid/denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno
-- [asos-craigmorten/opine](https://github.com/asos-craigmorten/opine) - Fast, minimalist web framework for Deno ported from ExpressJS.
+- [cmorten/opine](https://github.com/cmorten/opine) - Fast, minimalist web framework for Deno ported from ExpressJS.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
