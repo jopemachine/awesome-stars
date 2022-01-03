@@ -198,6 +198,10 @@
 
 ## JavaScript 
 
+- [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
+- [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
+- [nkbt/react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) - Copy-to-clipboard React component
+- [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
 - [crabbly/Print.js](https://github.com/crabbly/Print.js) - A tiny javascript library to help printing from the web.
 - [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
@@ -277,7 +281,6 @@
 - [sindresorhus/load-json-file](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file
 - [sindresorhus/write-json-file](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
-- [annexare/Countries](https://github.com/annexare/Countries) - Countries, Languages & Continents data (capital and currency, native name, calling codes).
 - [jonschlinkert/delete](https://github.com/jonschlinkert/delete) - Delete files and folders and any intermediate directories if they exist (sync and async).
 - [timkendrick/recursive-copy](https://github.com/timkendrick/recursive-copy) - Simple, flexible file copy utility
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
@@ -942,6 +945,7 @@
 - [fregante/ghat](https://github.com/fregante/ghat) - 🛕 Reuse GitHub Actions workflows across repositories
 - [electron/electron-notarize](https://github.com/electron/electron-notarize) - Notarize your macOS Electron Apps
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
+- [annexare/Countries](https://github.com/annexare/Countries) - Countries, Languages & Continents data (capital and currency, native name, calling codes).
 - [gregberge/xstyled](https://github.com/gregberge/xstyled) - A utility-first CSS-in-JS framework built for React. 💅👩‍🎤⚡️
 - [Aminadav/react-useStateRef](https://github.com/Aminadav/react-useStateRef) - useRef and UseState together!
 - [danvk/source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
