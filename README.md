@@ -83,6 +83,7 @@
 
 ## C++ 
 
+- [chjj/pty.js](https://github.com/chjj/pty.js) - Bindings to forkpty(3) for node.js.
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [hyperledger/iroha](https://github.com/hyperledger/iroha) - Iroha - A simple, enterprise-grade decentralized ledger
 - [node-inspector/v8-profiler](https://github.com/node-inspector/v8-profiler) - node bindings for the v8 profiler
@@ -199,6 +200,12 @@
 
 ## JavaScript 
 
+- [sindresorhus/sparkly](https://github.com/sindresorhus/sparkly) - Generate sparklines ▁▂▃▅▂▇
+- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
+- [sindresorhus/rev-hash](https://github.com/sindresorhus/rev-hash) - Create a hash for file revving
+- [sindresorhus/yoctocolors](https://github.com/sindresorhus/yoctocolors) - The smallest and fastest command-line coloring package on the internet. Trust me.
+- [komagata/eastasianwidth](https://github.com/komagata/eastasianwidth) - Get East Asian Width from a character.
+- [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [lquixada/cross-fetch](https://github.com/lquixada/cross-fetch) - Universal WHATWG Fetch API for Node, Browsers and React Native.
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
@@ -487,7 +494,6 @@
 - [cdvntr/react-native-confetti](https://github.com/cdvntr/react-native-confetti) - Raining confetti made with react native animations
 - [bit2pixel/chrome-control](https://github.com/bit2pixel/chrome-control) - A JXA script and an Alfred Workflow for controlling Google Chrome
 - [kimdhoe/josa](https://github.com/kimdhoe/josa) - 명사에 맞는 조사를 찾아줍니다.
-- [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [shaodahong/alfred-code](https://github.com/shaodahong/alfred-code) - Use Alfred to quickly open the file in Code
 - [node-ffi-napi/ref-napi](https://github.com/node-ffi-napi/ref-napi) - Turn Buffer instances into "pointers"
 - [sindresorhus/env-paths](https://github.com/sindresorhus/env-paths) - Get paths for storing things like data, config, cache, etc
@@ -863,6 +869,7 @@
 
 ## Shell 
 
+- [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [tmux-plugins/tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) - standard pane key-bindings for tmux
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
 - [mafredri/zsh-async](https://github.com/mafredri/zsh-async) - Because your terminal should be able to perform tasks asynchronously without external tools!
@@ -995,6 +1002,7 @@
 - [slorber/react-native-scroll-into-view](https://github.com/slorber/react-native-scroll-into-view) - Scroll a ReactNative View into the visible screen. Similar to DOMElement.scrollIntoView() browser function.
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [IjzerenHein/react-navigation-shared-element](https://github.com/IjzerenHein/react-navigation-shared-element) - React Navigation bindings for react-native-shared-element 💫
+- [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [socketio/socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [CharlesStover/use-force-update](https://github.com/CharlesStover/use-force-update) - React Hook to force your functional component to update.
