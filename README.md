@@ -918,10 +918,11 @@
 
 ## TypeScript 
 
+- [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [sindresorhus/ts-extras](https://github.com/sindresorhus/ts-extras) - Essential utilities for TypeScript projects
-- [browserless/chrome](https://github.com/browserless/chrome) - Chrome as a service in docker. Run on our cloud, or bring your own
+- [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
 - [microsoft/vscode-js-debug](https://github.com/microsoft/vscode-js-debug) - The VS Code JavaScript debugger
