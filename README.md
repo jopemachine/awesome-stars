@@ -200,6 +200,8 @@
 
 ## JavaScript 
 
+- [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
+- [SamVerschueren/clinton](https://github.com/SamVerschueren/clinton) - Project style linter
 - [sindresorhus/sparkly](https://github.com/sindresorhus/sparkly) - Generate sparklines ▁▂▃▅▂▇
 - [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists
 - [sindresorhus/rev-hash](https://github.com/sindresorhus/rev-hash) - Create a hash for file revving
@@ -399,7 +401,7 @@
 - [santinic/how2](https://github.com/santinic/how2) - stackoverflow from the terminal
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
 - [sindresorhus/open-cli](https://github.com/sindresorhus/open-cli) - Open stuff like URLs, files, executables. Cross-platform.
-- [facebookincubator/idx](https://github.com/facebookincubator/idx) - Library for accessing arbitrarily nested, possibly nullable properties on a JavaScript object.
+- [facebook/idx](https://github.com/facebook/idx) - Library for accessing arbitrarily nested, possibly nullable properties on a JavaScript object.
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [nijikokun/generate-schema](https://github.com/nijikokun/generate-schema) - 🧞 Convert JSON Objects to MySQL, JSON Schema, Mongoose, Google BigQuery, Swagger, and more.
 - [sindresorhus/clean-stack](https://github.com/sindresorhus/clean-stack) - Clean up error stack traces
@@ -707,6 +709,7 @@
 
 ## Others 
 
+- [nodejs/TSC](https://github.com/nodejs/TSC) - The Node.js Technical Steering Committee
 - [naver/nanumfont](https://github.com/naver/nanumfont) - 
 - [uyeong/NotoSans-subset](https://github.com/uyeong/NotoSans-subset) - Lightweight Hangul web font files
 - [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘
