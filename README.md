@@ -648,7 +648,6 @@
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [pegjs/pegjs](https://github.com/pegjs/pegjs) - PEG.js: Parser generator for JavaScript
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
-- [fnando/i18n-js](https://github.com/fnando/i18n-js) - It's a small library to provide the I18n translations on the Javascript. It comes with Rails support.
 - [gopinav/React-Tutorials](https://github.com/gopinav/React-Tutorials) - Source code related to the YouTube tutorial series
 - [jekylltools/jekyll-tipue-search](https://github.com/jekylltools/jekyll-tipue-search) - Full-text search in Jekyll with Tipue Search. Github Pages compatible. (This repository is archived. Issues are disabled. Pull requests will be ignored.)
 - [redux-saga/redux-saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
@@ -827,6 +826,7 @@
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [github/markup](https://github.com/github/markup) - Determines which markup library to use to render a content file (e.g. README) on GitHub
 - [JeffGuKang/react-native-tutorial](https://github.com/JeffGuKang/react-native-tutorial) - React Native Tutorial For Beginners - 2019
+- [fnando/i18n-js](https://github.com/fnando/i18n-js) - It's a small library to provide the I18n translations on the Javascript. It comes with Rails support.
 - [mollax/fanatstical_korean_alfred_workflow](https://github.com/mollax/fanatstical_korean_alfred_workflow) - Fantastical 자연어 기반 일정 추가 workflow
 - [rtoshiro/alfred-workflows-addcalendarevent](https://github.com/rtoshiro/alfred-workflows-addcalendarevent) - Workflow for Alfred 2 (and 3) to add an event in Calendar.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
