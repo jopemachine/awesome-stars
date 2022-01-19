@@ -83,6 +83,7 @@
 
 ## C++ 
 
+- [encrypted-def/basic-algo-lecture](https://github.com/encrypted-def/basic-algo-lecture) - 바킹독의 실전 알고리즘 강의 자료
 - [chjj/pty.js](https://github.com/chjj/pty.js) - Bindings to forkpty(3) for node.js.
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [hyperledger/iroha](https://github.com/hyperledger/iroha) - Iroha - A simple, enterprise-grade decentralized ledger
