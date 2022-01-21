@@ -662,7 +662,6 @@
 - [marpple/partial.js](https://github.com/marpple/partial.js) - (deprecated)
 - [jacklam718/react-native-dialog-component](https://github.com/jacklam718/react-native-dialog-component) - A react native dialog component support custom animation for IOS & Android.
 - [RNComponents/rn-spinner](https://github.com/RNComponents/rn-spinner) - An extensible number Spinner component for react-native.
-- [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
 - [microsoft/Windows-universal-samples](https://github.com/microsoft/Windows-universal-samples) - API samples for the Universal Windows Platform.
 - [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - plugins to check (lint) markdown code style
@@ -1075,6 +1074,7 @@
 - [jsdevkr/react-multi-email](https://github.com/jsdevkr/react-multi-email) - :octocat: A simple react component to format multiple email as the user types.
 - [thomasJang/axui](https://github.com/thomasJang/axui) - :octocat: DataGrid, DataSheet for React
 - [jsdevkr/axui-datagrid](https://github.com/jsdevkr/axui-datagrid) - :octocat: DataGrid, DataSheet for React
+- [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
 
 ## Vim Snippet 
