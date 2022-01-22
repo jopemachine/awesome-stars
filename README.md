@@ -1137,7 +1137,7 @@
 - [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim
 - [elzr/vim-json](https://github.com/elzr/vim-json) - A better JSON for Vim: distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, quote concealing. Pathogen-friendly.
 - [leafgarland/typescript-vim](https://github.com/leafgarland/typescript-vim) - Typescript syntax files for Vim
-- [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown) - Markdown Vim Mode
+- [preservim/vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
 - [othree/html5.vim](https://github.com/othree/html5.vim) - HTML5 omnicomplete and syntax
 - [macvim-dev/macvim](https://github.com/macvim-dev/macvim) - Vim - the text editor - for macOS
 - [nathanaelkane/vim-indent-guides](https://github.com/nathanaelkane/vim-indent-guides) - A Vim plugin for visually displaying indent levels in code
