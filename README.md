@@ -199,6 +199,7 @@
 
 ## JavaScript 
 
+- [deoxxa/npmrc](https://github.com/deoxxa/npmrc) - Switch between different .npmrc files with ease and grace.
 - [yargs/cliui](https://github.com/yargs/cliui) - easily create complex multi-column command-line-interfaces.
 - [lukeed/escalade](https://github.com/lukeed/escalade) - A tiny (183B to 210B) and fast utility to ascend parent directories
 - [sindresorhus/get-stdin](https://github.com/sindresorhus/get-stdin) - Get stdin as a string or buffer
