@@ -199,6 +199,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [deoxxa/npmrc](https://github.com/deoxxa/npmrc) - Switch between different .npmrc files with ease and grace.
 - [yargs/cliui](https://github.com/yargs/cliui) - easily create complex multi-column command-line-interfaces.
 - [lukeed/escalade](https://github.com/lukeed/escalade) - A tiny (183B to 210B) and fast utility to ascend parent directories
@@ -862,7 +863,7 @@
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [heim-rs/heim](https://github.com/heim-rs/heim) - Cross-platform async library for system information fetching 🦀
 - [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
-- [denoland/rusty_v8](https://github.com/denoland/rusty_v8) - V8 javascript bindings for Rust
+- [denoland/rusty_v8](https://github.com/denoland/rusty_v8) - Rust bindings for the V8 JavaScript engine
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 
 ## SCSS 
