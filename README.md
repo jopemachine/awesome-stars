@@ -199,6 +199,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [deoxxa/npmrc](https://github.com/deoxxa/npmrc) - Switch between different .npmrc files with ease and grace.
 - [yargs/cliui](https://github.com/yargs/cliui) - easily create complex multi-column command-line-interfaces.
