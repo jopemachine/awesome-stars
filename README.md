@@ -66,7 +66,6 @@
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [navilera/Navilos](https://github.com/navilera/Navilos) - RTOS for various embedded platform
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [sindresorhus/win-wallpaper](https://github.com/sindresorhus/win-wallpaper) - Manage the desktop wallpaper on Windows
 - [memcached/memcached](https://github.com/memcached/memcached) - memcached development tree
 - [arduino/ArduinoCore-avr](https://github.com/arduino/ArduinoCore-avr) - The Official Arduino AVR core
@@ -150,6 +149,7 @@
 - [mdreizin/chrome-bookmarks-alfred-workflow](https://github.com/mdreizin/chrome-bookmarks-alfred-workflow) - Chrome/Canary/Chromium/Microsoft Edge bookmarks search workflow for Alfred
 - [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
 - [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [deanishe/alfred-services](https://github.com/deanishe/alfred-services) - Run macOS services from Alfred
 - [deanishe/awgo](https://github.com/deanishe/awgo) - Go library for Alfred 3 + 4 workflows
@@ -788,7 +788,6 @@
 ## Python 
 
 - [mazassumnida/mazassumnida](https://github.com/mazassumnida/mazassumnida) - Github 프로필에서 boj 프로필을 이쁘게 보여주는 프로젝트
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [djui/alias-tips](https://github.com/djui/alias-tips) - An oh-my-zsh plugin to help remembering those aliases you defined once
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
