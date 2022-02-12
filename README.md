@@ -564,6 +564,7 @@
 - [ardaogulcan/react-native-keyboard-accessory](https://github.com/ardaogulcan/react-native-keyboard-accessory) - A React Native Keyboard Accessory (View, Navigation) Component. Sticky views on keyboard.
 - [nodemailer/mailparser](https://github.com/nodemailer/mailparser) - Decode mime formatted e-mails
 - [chadxz/imap-simple](https://github.com/chadxz/imap-simple) - Wrapper over node-imap, providing a simpler api for common use cases
+- [denoland/deno_std](https://github.com/denoland/deno_std) - Deno standard library
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [jshanson7/react-native-swipeable](https://github.com/jshanson7/react-native-swipeable) - A powerful React Native swipe component.
@@ -1047,7 +1048,6 @@
 - [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio) - Creating an automatic portfolio based on Github profile
 - [SeanSobey/ChartjsNodeCanvas](https://github.com/SeanSobey/ChartjsNodeCanvas) - A node renderer for Chart.js using canvas.
 - [pankod/react-native-store-rating](https://github.com/pankod/react-native-store-rating) - Ratings and reviews influence how your app ranks in search results, and can affect whether someone downloads your app. Users can rate your app on a scale of desired amount of stars.
-- [denoland/deno_std](https://github.com/denoland/deno_std) - Deno standard library
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [react-native-seoul/react-native-kakao-login](https://github.com/react-native-seoul/react-native-kakao-login) - react-native native module for Kakao sign in.
 - [eveningkid/denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno
