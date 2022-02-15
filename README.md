@@ -243,7 +243,7 @@
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [jonschlinkert/reserved](https://github.com/jonschlinkert/reserved) - Reserved words that may not be used as variables, functions, methods, or object identifiers, since ECMAScript specifies special behavior for them.
 - [souporserious/react-measure](https://github.com/souporserious/react-measure) - 📏 Compute measurements of a React component.
-- [mike-north/professional-ts](https://github.com/mike-north/professional-ts) - 
+- [mike-north/professional-ts](https://github.com/mike-north/professional-ts) - Mike North's Production-Grade TypeScript course
 - [techfolios/template](https://github.com/techfolios/template) - Technical Portfolio
 - [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
 - [tmpvar/repl.history](https://github.com/tmpvar/repl.history) - persist a node repl's history
