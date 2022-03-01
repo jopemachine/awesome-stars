@@ -74,6 +74,7 @@
 
 ## C# # 
 
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
 - [DynamicTranslator/DynamicTranslator](https://github.com/DynamicTranslator/DynamicTranslator) - Instant translation application for windows in .NET :circus_tent:
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [ndb796/Unity-2D-Rhythm-Game](https://github.com/ndb796/Unity-2D-Rhythm-Game) - Unity로 개발한 2D Rhythm Game Project
@@ -81,6 +82,7 @@
 
 ## C++ 
 
+- [sharkdp/dbg-macro](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++
 - [encrypted-def/basic-algo-lecture](https://github.com/encrypted-def/basic-algo-lecture) - 바킹독의 실전 알고리즘 강의 자료
 - [chjj/pty.js](https://github.com/chjj/pty.js) - Bindings to forkpty(3) for node.js.
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
@@ -187,6 +189,7 @@
 - [facebookarchive/react-native-fbsdk](https://github.com/facebookarchive/react-native-fbsdk) - A React Native wrapper around the Facebook SDKs for Android and iOS.  Provides access to Facebook login, sharing, graph requests, app events etc.
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [DJI-Mobile-SDK-Tutorials/Android-SimulatorDemo](https://github.com/DJI-Mobile-SDK-Tutorials/Android-SimulatorDemo) - This demo shows you how to use the DJISimulator of DJI Mobile SDK.
+- [th3rdwave/react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [arduino/Arduino](https://github.com/arduino/Arduino) - open-source electronics platform
 - [thegamenicorus/TurboModulePlayground](https://github.com/thegamenicorus/TurboModulePlayground) - Playing with React Native's new architecture:: JSI and TurboModules
 - [facebook/SoLoader](https://github.com/facebook/SoLoader) - Native code loader for Android
@@ -199,6 +202,7 @@
 
 ## JavaScript 
 
+- [joonas-yoon/boj-extended](https://github.com/joonas-yoon/boj-extended) - 백준 온라인 저지(BOJ)를 확장된 기능과 함께 사용해보세요. 기능 요청과 버그 제보는 언제나 환영합니다.
 - [tschaub/es-main](https://github.com/tschaub/es-main) - Test if an ES module is run directly (require.main replacement)
 - [bcoe/c8](https://github.com/bcoe/c8) - output coverage reports using Node.js' built in coverage
 - [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
@@ -788,6 +792,7 @@
 
 ## Python 
 
+- [ISKU/BOJ-AutoCommit](https://github.com/ISKU/BOJ-AutoCommit) - When you solve the problem of Baekjoon Online Judge, it automatically commits and pushes to the remote repository.
 - [mazassumnida/mazassumnida](https://github.com/mazassumnida/mazassumnida) - Github 프로필에서 boj 프로필을 이쁘게 보여주는 프로젝트
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [djui/alias-tips](https://github.com/djui/alias-tips) - An oh-my-zsh plugin to help remembering those aliases you defined once
@@ -1069,7 +1074,6 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [codemotionapps/react-native-dynamic](https://github.com/codemotionapps/react-native-dynamic) - Helper APIs to work with dark mode in React Native
 - [react-navigation/react-native-safe-area-view](https://github.com/react-navigation/react-native-safe-area-view) - ⚠️ Deprecated: use the successor react-native-safe-area-context instead!
-- [th3rdwave/react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [JXA-userland/JXA](https://github.com/JXA-userland/JXA) - JavaScript for Automation(JXA) packages for TypeScript/Node.js.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
