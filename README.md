@@ -189,7 +189,6 @@
 - [facebookarchive/react-native-fbsdk](https://github.com/facebookarchive/react-native-fbsdk) - A React Native wrapper around the Facebook SDKs for Android and iOS.  Provides access to Facebook login, sharing, graph requests, app events etc.
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [DJI-Mobile-SDK-Tutorials/Android-SimulatorDemo](https://github.com/DJI-Mobile-SDK-Tutorials/Android-SimulatorDemo) - This demo shows you how to use the DJISimulator of DJI Mobile SDK.
-- [th3rdwave/react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [arduino/Arduino](https://github.com/arduino/Arduino) - open-source electronics platform
 - [thegamenicorus/TurboModulePlayground](https://github.com/thegamenicorus/TurboModulePlayground) - Playing with React Native's new architecture:: JSI and TurboModules
 - [facebook/SoLoader](https://github.com/facebook/SoLoader) - Native code loader for Android
@@ -720,6 +719,7 @@
 
 ## Others 
 
+- [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
 - [nodejs/mentorship](https://github.com/nodejs/mentorship) - Node.js Mentorship Program Initiative
 - [nodejs/TSC](https://github.com/nodejs/TSC) - The Node.js Technical Steering Committee
 - [naver/nanumfont](https://github.com/naver/nanumfont) - 
@@ -1074,6 +1074,7 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [codemotionapps/react-native-dynamic](https://github.com/codemotionapps/react-native-dynamic) - Helper APIs to work with dark mode in React Native
 - [react-navigation/react-native-safe-area-view](https://github.com/react-navigation/react-native-safe-area-view) - ⚠️ Deprecated: use the successor react-native-safe-area-context instead!
+- [th3rdwave/react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
 - [JXA-userland/JXA](https://github.com/JXA-userland/JXA) - JavaScript for Automation(JXA) packages for TypeScript/Node.js.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view) - React Native wrapper for the Android ViewPager and iOS UIPageViewController.
