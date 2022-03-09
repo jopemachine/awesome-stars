@@ -201,6 +201,9 @@
 
 ## JavaScript 
 
+- [vadimdemedes/ink-select-input](https://github.com/vadimdemedes/ink-select-input) - Select input component for Ink
+- [vadimdemedes/import-jsx](https://github.com/vadimdemedes/import-jsx) - Require and transpile JSX on the fly
+- [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link) - Link component for Ink
 - [sindresorhus/cpy-cli](https://github.com/sindresorhus/cpy-cli) - Copy files
 - [joonas-yoon/boj-extended](https://github.com/joonas-yoon/boj-extended) - 백준 온라인 저지(BOJ)를 확장된 기능과 함께 사용해보세요. 기능 요청과 버그 제보는 언제나 환영합니다.
 - [tschaub/es-main](https://github.com/tschaub/es-main) - Test if an ES module is run directly (require.main replacement)
