@@ -201,6 +201,7 @@
 
 ## JavaScript 
 
+- [xojs/eslint-config-xo-react](https://github.com/xojs/eslint-config-xo-react) - ESLint shareable config for React to be used with eslint-config-xo
 - [vadimdemedes/ink-select-input](https://github.com/vadimdemedes/ink-select-input) - Select input component for Ink
 - [vadimdemedes/import-jsx](https://github.com/vadimdemedes/import-jsx) - Require and transpile JSX on the fly
 - [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link) - Link component for Ink
