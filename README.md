@@ -407,7 +407,7 @@
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [kyungw00k/alfred-kozip-workflow](https://github.com/kyungw00k/alfred-kozip-workflow) - :package: 도로명/지번 한영 주소 검색을 Alfred에서!
 - [kbshl/alfred-vscode](https://github.com/kbshl/alfred-vscode) - Alfred 3 workflow that allows you to browse and open Visual Studio Code projects or simply open specified folders/files
-- [bchatard/alfred-jetbrains](https://github.com/bchatard/alfred-jetbrains) - Alfred3 workflow to easily open your projects with your favorite JetBrains product.
+- [bchatard/alfred-jetbrains](https://github.com/bchatard/alfred-jetbrains) - Alfred4 workflow to easily open your projects with your favorite JetBrains product.
 - [pyrho/alfred-firefoxtabswitch](https://github.com/pyrho/alfred-firefoxtabswitch) - An Alfred workflow for quickly switching between Firefox tabs
 - [AndrewRedican/react-json-editor-ajrm](https://github.com/AndrewRedican/react-json-editor-ajrm) - A modular, easy to use, react component, to view, edit, and debug javascript objects.
 - [json-editor/json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
