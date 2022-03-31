@@ -733,6 +733,8 @@
 
 ## Others 
 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [Integerous/goQuality-dev-contents](https://github.com/Integerous/goQuality-dev-contents) - { 고퀄리티 :zap: 개발 컨텐츠 모음 }
 - [avajs/ava-docs](https://github.com/avajs/ava-docs) - Localized docs for AVA
 - [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
 - [nodejs/mentorship](https://github.com/nodejs/mentorship) - Node.js Mentorship Program Initiative
@@ -808,6 +810,7 @@
 
 ## Python 
 
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [ISKU/BOJ-AutoCommit](https://github.com/ISKU/BOJ-AutoCommit) - When you solve the problem of Baekjoon Online Judge, it automatically commits and pushes to the remote repository.
 - [mazassumnida/mazassumnida](https://github.com/mazassumnida/mazassumnida) - Github 프로필에서 boj 프로필을 이쁘게 보여주는 프로젝트
 - [djui/alias-tips](https://github.com/djui/alias-tips) - An oh-my-zsh plugin to help remembering those aliases you defined once
