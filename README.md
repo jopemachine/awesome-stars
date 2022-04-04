@@ -201,6 +201,10 @@
 
 ## JavaScript 
 
+- [mysticatea/eslint-utils](https://github.com/mysticatea/eslint-utils) - Utilities for ESLint plugins and custom rules.
+- [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential.
+- [SamVerschueren/clean-regexp](https://github.com/SamVerschueren/clean-regexp) - Clean up regular expressions
+- [DmitrySoshnikov/regexp-tree](https://github.com/DmitrySoshnikov/regexp-tree) - Regular expressions processor in JavaScript
 - [concordancejs/concordance](https://github.com/concordancejs/concordance) - Compare, format, diff and serialize any JavaScript value
 - [sindresorhus/aggregate-error](https://github.com/sindresorhus/aggregate-error) - Create an error from multiple errors
 - [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, sourcegraph, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers. Please follow gray-matter's author: https://github.com/jonschlinkert
@@ -735,6 +739,7 @@
 
 ## Others 
 
+- [sindresorhus/alfred-plash](https://github.com/sindresorhus/alfred-plash) - Alfred workflow to control the Plash app
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Integerous/goQuality-dev-contents](https://github.com/Integerous/goQuality-dev-contents) - { 고퀄리티 :zap: 개발 컨텐츠 모음 }
 - [avajs/ava-docs](https://github.com/avajs/ava-docs) - Localized docs for AVA
@@ -952,12 +957,14 @@
 
 ## Swift 
 
+- [sindresorhus/Plash](https://github.com/sindresorhus/Plash) - 💦 Make any website your Mac desktop wallpaper
 - [sindresorhus/Blear](https://github.com/sindresorhus/Blear) - iOS app that transforms your photos into stunning blurry wallpapers for your device
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
 - [gureum/gureum](https://github.com/gureum/gureum) - 더 편리한 macOS 한글 입력기
 
 ## TypeScript 
 
+- [cspotcode/outdent](https://github.com/cspotcode/outdent) - Remove indentation from ES6 template strings
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [dividab/tsconfig-paths](https://github.com/dividab/tsconfig-paths) - Load node modules according to tsconfig paths, in run-time or via API.
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
