@@ -201,6 +201,7 @@
 
 ## JavaScript 
 
+- [estools/esquery](https://github.com/estools/esquery) - ECMAScript AST query library.
 - [mysticatea/eslint-utils](https://github.com/mysticatea/eslint-utils) - Utilities for ESLint plugins and custom rules.
 - [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential.
 - [SamVerschueren/clean-regexp](https://github.com/SamVerschueren/clean-regexp) - Clean up regular expressions
@@ -599,7 +600,7 @@
 - [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 - [tulios/kafkajs](https://github.com/tulios/kafkajs) - A modern Apache Kafka client for node.js
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
-- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, Microsoft SQL Server & DB2
+- [sequelize/sequelize](https://github.com/sequelize/sequelize) - An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js | Postgres, MySQL, MariaDB, SQLite, MSSQL, Snowflake & DB2
 - [node-inspector/node-inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Blink Developer Tools
 - [expressjs/morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
 - [gruntjs/grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
@@ -739,6 +740,7 @@
 
 ## Others 
 
+- [limetext/lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [sindresorhus/alfred-plash](https://github.com/sindresorhus/alfred-plash) - Alfred workflow to control the Plash app
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [Integerous/goQuality-dev-contents](https://github.com/Integerous/goQuality-dev-contents) - { 고퀄리티 :zap: 개발 컨텐츠 모음 }
