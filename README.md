@@ -164,6 +164,7 @@
 
 ## HTML 
 
+- [tc39/proposal-error-cause](https://github.com/tc39/proposal-error-cause) - TC39 proposal for accumulating errors
 - [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
 - [tc39/template-for-proposals](https://github.com/tc39/template-for-proposals) - A template for ECMAScript proposals
@@ -201,6 +202,7 @@
 
 ## JavaScript 
 
+- [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [estools/esquery](https://github.com/estools/esquery) - ECMAScript AST query library.
 - [mysticatea/eslint-utils](https://github.com/mysticatea/eslint-utils) - Utilities for ESLint plugins and custom rules.
 - [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential.
@@ -591,7 +593,6 @@
 - [chadxz/imap-simple](https://github.com/chadxz/imap-simple) - Wrapper over node-imap, providing a simpler api for common use cases
 - [denoland/deno_std](https://github.com/denoland/deno_std) - Deno standard library
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [jshanson7/react-native-swipeable](https://github.com/jshanson7/react-native-swipeable) - A powerful React Native swipe component.
 - [RIAEvangelist/node-ipc](https://github.com/RIAEvangelist/node-ipc) - Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP. Giving lightning speed on Linux, Mac, and Windows. Neural Networking in Node.JS
 - [mohebifar/react-native-copilot](https://github.com/mohebifar/react-native-copilot) - Step-by-step walkthrough for your react native app
@@ -740,6 +741,7 @@
 
 ## Others 
 
+- [estree/estree](https://github.com/estree/estree) - The ESTree Spec
 - [limetext/lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text
 - [sindresorhus/alfred-plash](https://github.com/sindresorhus/alfred-plash) - Alfred workflow to control the Plash app
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -819,6 +821,7 @@
 
 ## Python 
 
+- [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [ISKU/BOJ-AutoCommit](https://github.com/ISKU/BOJ-AutoCommit) - When you solve the problem of Baekjoon Online Judge, it automatically commits and pushes to the remote repository.
 - [mazassumnida/mazassumnida](https://github.com/mazassumnida/mazassumnida) - Github 프로필에서 boj 프로필을 이쁘게 보여주는 프로젝트
