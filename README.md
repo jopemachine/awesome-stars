@@ -181,6 +181,7 @@
 
 ## Java 
 
+- [pvorb/npm-stat.com](https://github.com/pvorb/npm-stat.com) - download statistics for npm packages
 - [neolord0/hwplib](https://github.com/neolord0/hwplib) - hwp library for java
 - [mohammad-haque/react-native-webview-custom-font](https://github.com/mohammad-haque/react-native-webview-custom-font) - A simple app to demonstrate use of custom font in react-native-webview
 - [react-native-video/react-native-video](https://github.com/react-native-video/react-native-video) - A &lt;Video /&gt; component for react-native
