@@ -529,7 +529,6 @@
 - [inxilpro/node-app-root-path](https://github.com/inxilpro/node-app-root-path) - Determine the root path to your project
 - [oldj/node-font-list](https://github.com/oldj/node-font-list) - Get the list of fonts installed in the system.
 - [rocketlaunchr/electron-alert](https://github.com/rocketlaunchr/electron-alert) - SweetAlert2 for Electron applications
-- [TanStack/react-table](https://github.com/TanStack/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for React
 - [psperber/redux-persist-electron-storage](https://github.com/psperber/redux-persist-electron-storage) - Redux persist adapter for electron-store
 - [sindresorhus/electron-store](https://github.com/sindresorhus/electron-store) - Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
@@ -680,6 +679,7 @@
 - [manosim/alfred-react-native](https://github.com/manosim/alfred-react-native) - Access the React Native Documentation from Alfred
 - [SamVerschueren/alfred-fkill](https://github.com/SamVerschueren/alfred-fkill) - Alfred 3 workflow to fabulously search and kill processes
 - [swagger-api/swagger-node](https://github.com/swagger-api/swagger-node) - Swagger module for node.js
+- [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Documentation and source code for PopClip extensions.
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
 - [vendia/serverless-express](https://github.com/vendia/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
 - [e-/Hangul.js](https://github.com/e-/Hangul.js) - 한글 자음/모음 분리/조합 자바스크립트 라이브러리. 자바스크립트 한글 오토마타 구현체입니다.
@@ -857,7 +857,6 @@
 - [deanishe/alfred-workflow](https://github.com/deanishe/alfred-workflow) - Full-featured library for writing Alfred 3 & 4 workflows
 - [snooze92/alfred-epoch-converter](https://github.com/snooze92/alfred-epoch-converter) - Makes it easy to work with epoch timestamps!
 - [ndb796/PyQt5-Tutorial](https://github.com/ndb796/PyQt5-Tutorial) - PyQt5 강의 목적의 저장소입니다.
-- [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Documentation and source code for PopClip extensions.
 - [wrjlewis/notion-search-alfred-workflow](https://github.com/wrjlewis/notion-search-alfred-workflow) - An Alfred workflow to search Notion with instant results
 
 ## Ren'Py 
@@ -979,6 +978,7 @@
 
 ## TypeScript 
 
+- [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime) - Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [cspotcode/outdent](https://github.com/cspotcode/outdent) - Remove indentation from ES6 template strings
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
@@ -1068,6 +1068,7 @@
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [bluebill1049/react-simple-animate](https://github.com/bluebill1049/react-simple-animate) - 🎯 React UI animation made easy
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
+- [TanStack/react-table](https://github.com/TanStack/react-table) - ⚛️ Hooks for building fast and extendable tables and datagrids for TS/JS, React, Vue, Solid
 - [colorfy-software/react-native-modalfy](https://github.com/colorfy-software/react-native-modalfy) - 🥞 Modal citizen of React Native.
 - [slorber/react-native-scroll-into-view](https://github.com/slorber/react-native-scroll-into-view) - Scroll a ReactNative View into the visible screen. Similar to DOMElement.scrollIntoView() browser function.
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
