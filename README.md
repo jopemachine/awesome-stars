@@ -441,7 +441,7 @@
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [mheap/octokit-commit-multiple-files](https://github.com/mheap/octokit-commit-multiple-files) - Octokit plugin to create/update multiple files at once
 - [doowb/download-stats](https://github.com/doowb/download-stats) - Get and calculate npm download stats for npm modules.
-- [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - Various awesome ESLint rules
+- [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [santinic/how2](https://github.com/santinic/how2) - stackoverflow from the terminal
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
