@@ -31,7 +31,6 @@
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Python](#python)
-  - [Ren'Py](#ren'py)
   - [Rich Text Format](#rich-text-format)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -862,10 +861,6 @@
 - [ndb796/PyQt5-Tutorial](https://github.com/ndb796/PyQt5-Tutorial) - PyQt5 강의 목적의 저장소입니다.
 - [wrjlewis/notion-search-alfred-workflow](https://github.com/wrjlewis/notion-search-alfred-workflow) - An Alfred workflow to search Notion with instant results
 
-## Ren'Py 
-
-- [IJEMIN/RenPy-Yandere-Girl](https://github.com/IJEMIN/RenPy-Yandere-Girl) - All source codes used in "얀데레 아가씨"
-
 ## Rich Text Format 
 
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
@@ -1150,6 +1145,7 @@
 
 ## Vim script 
 
+- [jpalardy/vim-slime](https://github.com/jpalardy/vim-slime) - A vim plugin to give you some slime. (Emacs)
 - [Konfekt/vim-alias](https://github.com/Konfekt/vim-alias) - versatile Vim command-line aliases
 - [tmux-plugins/vim-tmux](https://github.com/tmux-plugins/vim-tmux) - vim plugin for tmux.conf
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
@@ -1226,6 +1222,7 @@
 
 ## VimL 
 
+- [PeterRincker/vim-argumentative](https://github.com/PeterRincker/vim-argumentative) - Argumentative aids with manipulating and moving between function arguments.
 - [jebaum/vim-tmuxify](https://github.com/jebaum/vim-tmuxify) - Vim plugin for handling tmux panes.
 - [vim-scripts/BufOnly.vim](https://github.com/vim-scripts/BufOnly.vim) - Delete all the buffers except the current/named buffer
 - [rking/ag.vim](https://github.com/rking/ag.vim) - Vim plugin for the_silver_searcher, 'ag', a replacement for the Perl module / CLI script 'ack'
