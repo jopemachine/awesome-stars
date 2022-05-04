@@ -55,6 +55,7 @@
 
 ## C 
 
+- [libhangul/libhangul](https://github.com/libhangul/libhangul) - A library to support hangul input method logic
 - [t2linux/apple-bce-drv](https://github.com/t2linux/apple-bce-drv) - Apple BCE (Buffer Copy Engine) and associated subsystems drivers for T2-based Macs
 - [thlorenz/learnuv](https://github.com/thlorenz/learnuv) - Learn uv for fun and profit, a self guided workshop to the library that powers Node.js.
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
@@ -184,7 +185,6 @@
 
 - [pvorb/npm-stat.com](https://github.com/pvorb/npm-stat.com) - download statistics for npm packages
 - [neolord0/hwplib](https://github.com/neolord0/hwplib) - hwp library for java
-- [mohammad-haque/react-native-webview-custom-font](https://github.com/mohammad-haque/react-native-webview-custom-font) - A simple app to demonstrate use of custom font in react-native-webview
 - [react-native-video/react-native-video](https://github.com/react-native-video/react-native-video) - A &lt;Video /&gt; component for react-native
 - [zmxv/react-native-sound](https://github.com/zmxv/react-native-sound) - React Native module for playing sound clips
 - [revtel/react-native-nfc-manager](https://github.com/revtel/react-native-nfc-manager) - React Native NFC module for Android & iOS
@@ -205,6 +205,7 @@
 
 ## JavaScript 
 
+- [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [oliver-moran/jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [kevva/npm-user-packages](https://github.com/kevva/npm-user-packages) - Get packages by a npm user
@@ -963,9 +964,7 @@
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [sindresorhus/run-node](https://github.com/sindresorhus/run-node) - Run the Node.js binary no matter what
 - [jenv/jenv](https://github.com/jenv/jenv) - Manage your Java environment
-- [paulsri/alfred-airplay-selector](https://github.com/paulsri/alfred-airplay-selector) - Use Alfred to Toggle AirPlay on macOS
 - [godbout/alfred-airplay](https://github.com/godbout/alfred-airplay) - Extend your display to an AirPlay device directly from Alfred. No need for endless clicking here and there.
-- [react-native-community/rn-diff-purge](https://github.com/react-native-community/rn-diff-purge) - Easier React Native upgrades by clearly exposing changes from a version to another. :rocket: And what better way than to purge, init, then diff? Spoiler: there's no better way. 😎
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 
 ## Swift 
@@ -1145,6 +1144,10 @@
 
 ## Vim script 
 
+- [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript) - Vastly improved Javascript indentation and syntax support in Vim.
+- [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status
+- [tpope/vim-obsession](https://github.com/tpope/vim-obsession) - obsession.vim: continuously updated session files
+- [dyng/ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) - A text searching plugin mimics Ctrl-Shift-F on Sublime Text 2
 - [jpalardy/vim-slime](https://github.com/jpalardy/vim-slime) - A vim plugin to give you some slime. (Emacs)
 - [Konfekt/vim-alias](https://github.com/Konfekt/vim-alias) - versatile Vim command-line aliases
 - [tmux-plugins/vim-tmux](https://github.com/tmux-plugins/vim-tmux) - vim plugin for tmux.conf
@@ -1216,12 +1219,12 @@
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
-- [anzhihe/Efficient-office](https://github.com/anzhihe/Efficient-office) - Alfred-Workflows，Vim，Script，Mac
 - [dracula/vim](https://github.com/dracula/vim) - 🧛🏻‍♂️ Dark theme for Vim
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 
 ## VimL 
 
+- [xolox/vim-misc](https://github.com/xolox/vim-misc) - Miscellaneous auto-load Vim scripts
 - [PeterRincker/vim-argumentative](https://github.com/PeterRincker/vim-argumentative) - Argumentative aids with manipulating and moving between function arguments.
 - [jebaum/vim-tmuxify](https://github.com/jebaum/vim-tmuxify) - Vim plugin for handling tmux panes.
 - [vim-scripts/BufOnly.vim](https://github.com/vim-scripts/BufOnly.vim) - Delete all the buffers except the current/named buffer
