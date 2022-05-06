@@ -1145,6 +1145,7 @@
 
 ## Vim script 
 
+- [ojroques/vim-scrollstatus](https://github.com/ojroques/vim-scrollstatus) - A Vim plugin to display a scrollbar in the statusline
 - [tmux-plugins/vim-tmux-focus-events](https://github.com/tmux-plugins/vim-tmux-focus-events) - Make terminal vim and tmux work better together.
 - [tpope/vim-markdown](https://github.com/tpope/vim-markdown) - Vim Markdown runtime files
 - [tiagofumo/vim-nerdtree-syntax-highlight](https://github.com/tiagofumo/vim-nerdtree-syntax-highlight) - Extra syntax and highlight for nerdtree files
