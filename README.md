@@ -41,7 +41,6 @@
   - [TypeScript](#typescript)
   - [Vim Snippet](#vim-snippet)
   - [Vim script](#vim-script)
-  - [VimL](#viml)
   - [Vue](#vue)
   - [WebAssembly](#webassembly)
 
@@ -55,6 +54,7 @@
 
 ## C 
 
+- [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [libhangul/libhangul](https://github.com/libhangul/libhangul) - A library to support hangul input method logic
 - [t2linux/apple-bce-drv](https://github.com/t2linux/apple-bce-drv) - Apple BCE (Buffer Copy Engine) and associated subsystems drivers for T2-based Macs
 - [thlorenz/learnuv](https://github.com/thlorenz/learnuv) - Learn uv for fun and profit, a self guided workshop to the library that powers Node.js.
@@ -95,7 +95,7 @@
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [JoshuaWise/better-sqlite3](https://github.com/JoshuaWise/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [microsoft/VCSamples](https://github.com/microsoft/VCSamples) - Samples for VC++
-- [jkriege2/JKQtPlotter](https://github.com/jkriege2/JKQtPlotter) - an extensive Qt5 & Qt6 Plotter framework (including a feature-richt plotter widget, a speed-optimized, but limited variant and a LaTeX equation renderer!), written fully in C/C++ and without external dependencies
+- [jkriege2/JKQtPlotter](https://github.com/jkriege2/JKQtPlotter) - an extensive Qt5 & Qt6 Plotter framework (including a feature-richt plotter widget, a speed-optimized, but limited variant and a LaTeX equation renderer!), written fully in C/C++ and without external
 - [ChaiScript/ChaiScript](https://github.com/ChaiScript/ChaiScript) - Embedded Scripting Language Designed for C++
 - [esp8266/Arduino](https://github.com/esp8266/Arduino) - ESP8266 core for Arduino
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
@@ -144,7 +144,7 @@
 
 ## Go 
 
-- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
+- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 - [therecipe/qt](https://github.com/therecipe/qt) - Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
@@ -205,6 +205,7 @@
 
 ## JavaScript 
 
+- [fantasyland/fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [oliver-moran/jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
@@ -221,8 +222,8 @@
 - [DmitrySoshnikov/regexp-tree](https://github.com/DmitrySoshnikov/regexp-tree) - Regular expressions processor in JavaScript
 - [concordancejs/concordance](https://github.com/concordancejs/concordance) - Compare, format, diff and serialize any JavaScript value
 - [sindresorhus/aggregate-error](https://github.com/sindresorhus/aggregate-error) - Create an error from multiple errors
-- [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, sourcegraph, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers. Please follow gray-matter's author: https://github.com/jonschlinkert
-- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, hygen, hardhat, AWS Amplify, GitHub Actions Toolkit, @airbnb/nimbus, and many others! Please follow Enquirer's author: https://github.com/jonschlinkert
+- [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, s
+- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
 - [sindresorhus/gh-got](https://github.com/sindresorhus/gh-got) - Convenience wrapper for Got to interact with the GitHub API
 - [sindresorhus/leven](https://github.com/sindresorhus/leven) - Measure the difference between two strings with the fastest JS implementation of the Levenshtein distance algorithm
 - [sindresorhus/cli-cursor](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor
@@ -547,7 +548,6 @@
 - [sindresorhus/electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for Electron apps and modules
 - [reiinakano/arbitrary-image-stylization-tfjs](https://github.com/reiinakano/arbitrary-image-stylization-tfjs) - Arbitrary style transfer using TensorFlow.js
 - [sindresorhus/capture-website-cli](https://github.com/sindresorhus/capture-website-cli) - Capture screenshots of websites from the command-line
-- [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS
 - [documentationjs/documentation](https://github.com/documentationjs/documentation) - :book: documentation for modern JavaScript
 - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
@@ -751,6 +751,7 @@
 
 ## Others 
 
+- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [naver/fe-news](https://github.com/naver/fe-news) - FE 기술 소식 큐레이션 뉴스레터
 - [estree/estree](https://github.com/estree/estree) - The ESTree Spec
@@ -869,6 +870,7 @@
 
 ## Ruby 
 
+- [universal-ctags/homebrew-universal-ctags](https://github.com/universal-ctags/homebrew-universal-ctags) - Homebrew Tap for Universal Ctags on OSX
 - [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) - Tracking the key metrics of my life
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
@@ -952,7 +954,7 @@
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [b4b4r07/enhancd](https://github.com/b4b4r07/enhancd) - :rocket: A next-generation cd command with your interactive filter
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
@@ -1145,6 +1147,10 @@
 
 ## Vim script 
 
+- [editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) - EditorConfig plugin for Vim
+- [mbbill/undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM
+- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
+- [preservim/tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
 - [ojroques/vim-scrollstatus](https://github.com/ojroques/vim-scrollstatus) - A Vim plugin to display a scrollbar in the statusline
 - [tmux-plugins/vim-tmux-focus-events](https://github.com/tmux-plugins/vim-tmux-focus-events) - Make terminal vim and tmux work better together.
 - [tpope/vim-markdown](https://github.com/tpope/vim-markdown) - Vim Markdown runtime files
@@ -1153,15 +1159,18 @@
 - [pangloss/vim-javascript](https://github.com/pangloss/vim-javascript) - Vastly improved Javascript indentation and syntax support in Vim.
 - [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status
 - [tpope/vim-obsession](https://github.com/tpope/vim-obsession) - obsession.vim: continuously updated session files
+- [xolox/vim-misc](https://github.com/xolox/vim-misc) - Miscellaneous auto-load Vim scripts
 - [dyng/ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) - A text searching plugin mimics Ctrl-Shift-F on Sublime Text 2
 - [jpalardy/vim-slime](https://github.com/jpalardy/vim-slime) - A vim plugin to give you some slime. (Emacs)
+- [PeterRincker/vim-argumentative](https://github.com/PeterRincker/vim-argumentative) - Argumentative aids with manipulating and moving between function arguments.
+- [jebaum/vim-tmuxify](https://github.com/jebaum/vim-tmuxify) - Vim plugin for handling tmux panes.
 - [Konfekt/vim-alias](https://github.com/Konfekt/vim-alias) - versatile Vim command-line aliases
 - [tmux-plugins/vim-tmux](https://github.com/tmux-plugins/vim-tmux) - vim plugin for tmux.conf
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [Quramy/tsuquyomi](https://github.com/Quramy/tsuquyomi) - A Vim plugin for TypeScript
-- [Shougo/vimproc.vim](https://github.com/Shougo/vimproc.vim) - Interactive command execution in Vim.
 - [wesQ3/vim-windowswap](https://github.com/wesQ3/vim-windowswap) - Swap your windows without ruining your layout
 - [sjl/gundo.vim](https://github.com/sjl/gundo.vim) - A git mirror of gundo.vim
+- [vim-scripts/BufOnly.vim](https://github.com/vim-scripts/BufOnly.vim) - Delete all the buffers except the current/named buffer
 - [sgur/ctrlp-extensions.vim](https://github.com/sgur/ctrlp-extensions.vim) - Plugins for ctrlp.vim
 - [tacahiroy/ctrlp-funky](https://github.com/tacahiroy/ctrlp-funky) - A super simple function navigator for ctrlp.vim
 - [FooSoft/vim-argwrap](https://github.com/FooSoft/vim-argwrap) - Wrap and unwrap function arguments, lists, and dictionaries in Vim
@@ -1173,11 +1182,13 @@
 - [tpope/vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with "."
 - [chrisbra/NrrwRgn](https://github.com/chrisbra/NrrwRgn) - A Narrow Region Plugin for vim (like Emacs Narrow Region)
 - [mileszs/ack.vim](https://github.com/mileszs/ack.vim) - Vim plugin for the Perl module / CLI script 'ack'
+- [rking/ag.vim](https://github.com/rking/ag.vim) - Vim plugin for the_silver_searcher, 'ag', a replacement for the Perl module / CLI script 'ack'
 - [airblade/vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root.
 - [easymotion/vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
 - [godlygeek/tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
 - [vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes) - A collection of themes for vim-airline
 - [vim-autoformat/vim-autoformat](https://github.com/vim-autoformat/vim-autoformat) - Provide easy code formatting in Vim by integrating existing code formatters.
+- [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor
 - [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out
 - [simeji/winresizer](https://github.com/simeji/winresizer) - very simple vim plugin for easy resizing of your vim windows
 - [camspiers/lens.vim](https://github.com/camspiers/lens.vim) - A Vim Automatic Window Resizing Plugin
@@ -1211,7 +1222,6 @@
 - [leafgarland/typescript-vim](https://github.com/leafgarland/typescript-vim) - Typescript syntax files for Vim
 - [preservim/vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
 - [othree/html5.vim](https://github.com/othree/html5.vim) - HTML5 omnicomplete and syntax
-- [macvim-dev/macvim](https://github.com/macvim-dev/macvim) - Vim - the text editor - for macOS
 - [nathanaelkane/vim-indent-guides](https://github.com/nathanaelkane/vim-indent-guides) - A Vim plugin for visually displaying indent levels in code
 - [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
@@ -1219,6 +1229,8 @@
 - [mg979/vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim
 - [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 - [osyo-manga/vim-over](https://github.com/osyo-manga/vim-over) - :substitute preview
+- [felixr/vim-multiedit](https://github.com/felixr/vim-multiedit) - multi-editing for vim
+- [vim-scripts/L9](https://github.com/vim-scripts/L9) - Vim-script library
 - [ayu-theme/ayu-vim](https://github.com/ayu-theme/ayu-vim) - Modern theme for modern VIMs
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
 - [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
@@ -1227,17 +1239,6 @@
 - [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 - [dracula/vim](https://github.com/dracula/vim) - 🧛🏻‍♂️ Dark theme for Vim
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
-
-## VimL 
-
-- [xolox/vim-misc](https://github.com/xolox/vim-misc) - Miscellaneous auto-load Vim scripts
-- [PeterRincker/vim-argumentative](https://github.com/PeterRincker/vim-argumentative) - Argumentative aids with manipulating and moving between function arguments.
-- [jebaum/vim-tmuxify](https://github.com/jebaum/vim-tmuxify) - Vim plugin for handling tmux panes.
-- [vim-scripts/BufOnly.vim](https://github.com/vim-scripts/BufOnly.vim) - Delete all the buffers except the current/named buffer
-- [rking/ag.vim](https://github.com/rking/ag.vim) - Vim plugin for the_silver_searcher, 'ag', a replacement for the Perl module / CLI script 'ack'
-- [altercation/vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - precision colorscheme for the vim text editor
-- [felixr/vim-multiedit](https://github.com/felixr/vim-multiedit) - multi-editing for vim
-- [vim-scripts/L9](https://github.com/vim-scripts/L9) - Vim-script library
 
 ## Vue 
 
