@@ -36,6 +36,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [Scheme](#scheme)
 - [Shell](#shell)
 - [Swift](#swift)
 - [TypeScript](#typescript)
@@ -199,7 +200,7 @@
 - [arduino/Arduino](https://github.com/arduino/Arduino) - open-source electronics platform
 - [thegamenicorus/TurboModulePlayground](https://github.com/thegamenicorus/TurboModulePlayground) - Playing with React Native's new architecture:: JSI and TurboModules
 - [facebook/SoLoader](https://github.com/facebook/SoLoader) - Native code loader for Android
-- [react-native-geolocation/react-native-geolocation](https://github.com/react-native-geolocation/react-native-geolocation) - Geolocation APIs for React Native
+- [michalchudziak/react-native-geolocation](https://github.com/michalchudziak/react-native-geolocation) - Geolocation APIs for React Native
 - [avishayil/react-native-restart](https://github.com/avishayil/react-native-restart) - React Native Package With One Purpose: To Restart Your React Native Project
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [openjdk-mirror/jdk7u-jdk](https://github.com/openjdk-mirror/jdk7u-jdk) - 
@@ -895,6 +896,7 @@
 
 ## Rust 
 
+- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like UI library for desktop, web, mobile, SSR, liveview, and more.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
@@ -929,6 +931,10 @@
 
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
 - [azouaoui-med/react-pro-sidebar](https://github.com/azouaoui-med/react-pro-sidebar) - Customizable and responsive react sidebar library with dropdown menus and unlimited number of nested submenus
+
+## Scheme 
+
+- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 
 ## Shell 
 
@@ -983,6 +989,7 @@
 
 ## TypeScript 
 
+- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime) - Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [cspotcode/outdent](https://github.com/cspotcode/outdent) - Remove indentation from ES6 template strings
