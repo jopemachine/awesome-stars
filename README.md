@@ -193,7 +193,7 @@
 - [facebookarchive/react-native-fbsdk](https://github.com/facebookarchive/react-native-fbsdk) - A React Native wrapper around the Facebook SDKs for Android and iOS.  Provides access to Facebook login, sharing, graph requests, app events etc.
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [DJI-Mobile-SDK-Tutorials/Android-SimulatorDemo](https://github.com/DJI-Mobile-SDK-Tutorials/Android-SimulatorDemo) - This demo shows you how to use the DJISimulator of DJI Mobile SDK.
-- [arduino/Arduino](https://github.com/arduino/Arduino) - open-source electronics platform
+- [arduino/Arduino](https://github.com/arduino/Arduino) - Arduino IDE 1.x
 - [thegamenicorus/TurboModulePlayground](https://github.com/thegamenicorus/TurboModulePlayground) - Playing with React Native's new architecture:: JSI and TurboModules
 - [facebook/SoLoader](https://github.com/facebook/SoLoader) - Native code loader for Android
 - [michalchudziak/react-native-geolocation](https://github.com/michalchudziak/react-native-geolocation) - Geolocation APIs for React Native
@@ -205,6 +205,7 @@
 
 ## JavaScript 
 
+- [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [fantasyland/fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
 - [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️
@@ -618,7 +619,7 @@
 - [klaussinani/tusk](https://github.com/klaussinani/tusk) - Refined Evernote desktop app
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [sindresorhus/make-synchronous](https://github.com/sindresorhus/make-synchronous) - Make an asynchronous function synchronous
-- [micromark/micromark](https://github.com/micromark/micromark) - the smallest commonmark (optionally gfm) compliant markdown parser that exists; new basis for @unifiedjs (hundreds of projects w/ billions of downloads for dealing w/ content)
+- [micromark/micromark](https://github.com/micromark/micromark) - the smallest commonmark (optionally gfm) compliant markdown parser that exists; new foundation for @unifiedjs (hundreds of projects w/ billions of downloads for dealing w/ content)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [codecov/codecov-node](https://github.com/codecov/codecov-node) - Global coverage report uploader for Codecov in NodeJS
 - [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
@@ -1008,6 +1009,7 @@
 
 ## TypeScript 
 
+- [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [wakatime/vscode-wakatime](https://github.com/wakatime/vscode-wakatime) - Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
