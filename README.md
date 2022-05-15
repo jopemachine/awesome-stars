@@ -63,7 +63,7 @@
 - [kwhat/libuiohook](https://github.com/kwhat/libuiohook) - A multi-platform C library to provide global keyboard and mouse hooks from userland.
 - [octalmage/robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
 - [wilix-team/iohook](https://github.com/wilix-team/iohook) - Node.js global keyboard and mouse listener.
-- [pdpdds/SkyOS](https://github.com/pdpdds/SkyOS) - C++ OS
+- [pdpdds/SkyOS](https://github.com/pdpdds/SkyOS) - SkyOS32 is a 32-bit operating system under development in C ++ in a Visual Studio environment.
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [navilera/Navilos](https://github.com/navilera/Navilos) - RTOS for various embedded platform
@@ -205,6 +205,7 @@
 
 ## JavaScript 
 
+- [pomber/didact](https://github.com/pomber/didact) - A DIY guide to build your own React
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [fantasyland/fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
