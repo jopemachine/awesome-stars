@@ -154,6 +154,7 @@
 
 ## Go 
 
+- [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go
 - [erning/gorun](https://github.com/erning/gorun) - gorun is a tool enabling one to put a "bang line" in the source code of a Go program to run it, or to run such a source code file explicitly. It was created in an attempt to make experimenting with Go
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
