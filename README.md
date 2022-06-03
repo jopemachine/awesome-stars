@@ -182,6 +182,7 @@
 
 ## HTML 
 
+- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [tc39/proposal-error-cause](https://github.com/tc39/proposal-error-cause) - TC39 proposal for accumulating errors
 - [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
@@ -306,7 +307,7 @@
 - [jonschlinkert/reserved](https://github.com/jonschlinkert/reserved) - Reserved words that may not be used as variables, functions, methods, or object identifiers, since ECMAScript specifies special behavior for them.
 - [souporserious/react-measure](https://github.com/souporserious/react-measure) - 📏 Compute measurements of a React component.
 - [mike-north/professional-ts](https://github.com/mike-north/professional-ts) - Mike North's Production-Grade TypeScript course
-- [techfolios/template](https://github.com/techfolios/template) - Technical Portfolio
+- [techfolios/template-old](https://github.com/techfolios/template-old) - Technical Portfolio
 - [ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide) - 📗 How to write cross-platform Node.js code
 - [tmpvar/repl.history](https://github.com/tmpvar/repl.history) - persist a node repl's history
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
@@ -749,6 +750,7 @@
 
 ## Lua 
 
+- [tami5/sqlite.lua](https://github.com/tami5/sqlite.lua) - SQLite/LuaJIT binding for lua and neovim
 - [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A small, documented, and featureful neovim starter config
 - [svermeulen/vimpeccable](https://github.com/svermeulen/vimpeccable) - Neovim plugin that allows you to easily map keys directly to lua code inside your init.lua
@@ -813,7 +815,6 @@
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
-- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [naver/fe-news](https://github.com/naver/fe-news) - FE 기술 소식 큐레이션 뉴스레터
 - [estree/estree](https://github.com/estree/estree) - The ESTree Spec
