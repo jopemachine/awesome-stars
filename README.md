@@ -818,6 +818,7 @@
 
 ## Others 
 
+- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
 - [eendroroy/alacritty-theme](https://github.com/eendroroy/alacritty-theme) - Collection of Alacritty color schemes
 - [godbout/kindaVim.theapp](https://github.com/godbout/kindaVim.theapp) - Vim Mode for macOS
 - [naver/d2codingfont](https://github.com/naver/d2codingfont) - D2 Coding 글꼴
