@@ -659,7 +659,6 @@
 - [nbubna/Case](https://github.com/nbubna/Case) - String case utitility: convert, identify, flip, extend
 - [sindresorhus/trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash
 - [sindresorhus/yn](https://github.com/sindresorhus/yn) - Parse yes/no like values
-- [abelljs/abell](https://github.com/abelljs/abell) - a Static-Site-Generator for JavaScript Developers. Build fast, vanilla websites in the syntax you almost already know. [In alpha] 🌀
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [jergason/recursive-readdir](https://github.com/jergason/recursive-readdir) - Node.js module to list all files in a directory or any subdirectories.
@@ -1230,6 +1229,7 @@
 - [oakserver/oak](https://github.com/oakserver/oak) - A middleware framework for handling HTTP with Deno 🐿️ 🦕
 - [anc95/inquirer-file-tree-selection](https://github.com/anc95/inquirer-file-tree-selection) - inquirer prompt for select a file or dir by file tree
 - [octokit/core.js](https://github.com/octokit/core.js) - Extendable client for GitHub's REST & GraphQL APIs
+- [abelljs/abell](https://github.com/abelljs/abell) - a Static-Site-Generator for JavaScript Developers. Build fast, vanilla websites in the syntax you almost already know. [In alpha] 🌀
 - [sindresorhus/mem](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
