@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ANTLR](#antlr)
 - [Assembly](#assembly)
 - [AutoIt](#autoit)
 - [C](#c)
@@ -13,7 +14,6 @@
 - [CMake](#cmake)
 - [CSS](#css)
 - [CoffeeScript](#coffeescript)
-- [Dart](#dart)
 - [Elixir](#elixir)
 - [Fennel](#fennel)
 - [Fortran](#fortran)
@@ -45,6 +45,10 @@
 - [Vim script](#vim-script)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
+
+## ANTLR 
+
+- [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
 
 ## Assembly 
 
@@ -135,10 +139,6 @@
 - [Teamwork/node-auto-launch](https://github.com/Teamwork/node-auto-launch) - Launch applications or executables at login (Mac, Windows, and Linux)
 - [f/omelette](https://github.com/f/omelette) - Omelette is a simple, template based autocompletion tool for Node and Deno projects with super easy API. (For Bash, Zsh and Fish)
 - [node-cache/node-cache](https://github.com/node-cache/node-cache) - a node internal (in-memory) caching module
-
-## Dart 
-
-- [antlr/grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
 
 ## Elixir 
 
@@ -801,6 +801,7 @@
 
 ## Markdown 
 
+- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## OCaml 
@@ -818,7 +819,6 @@
 
 ## Others 
 
-- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other resources for Fish. 🐚
 - [eendroroy/alacritty-theme](https://github.com/eendroroy/alacritty-theme) - Collection of Alacritty color schemes
 - [godbout/kindaVim.theapp](https://github.com/godbout/kindaVim.theapp) - Vim Mode for macOS
 - [naver/d2codingfont](https://github.com/naver/d2codingfont) - D2 Coding 글꼴
