@@ -225,6 +225,7 @@
 
 ## JavaScript 
 
+- [yeoman/update-notifier](https://github.com/yeoman/update-notifier) - Update notifications for your CLI app
 - [ehmicky/nvexeca](https://github.com/ehmicky/nvexeca) - nvm + execa = nvexeca
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
