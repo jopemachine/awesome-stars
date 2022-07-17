@@ -1023,6 +1023,7 @@
 
 ## Shell 
 
+- [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.
 - [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - Augment your fish command line with fzf key bindings.
 - [jethrokuan/z](https://github.com/jethrokuan/z) - Pure-fish z directory jumping
