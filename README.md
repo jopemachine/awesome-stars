@@ -574,6 +574,7 @@
 - [bit2pixel/chrome-control](https://github.com/bit2pixel/chrome-control) - A JXA script and an Alfred Workflow for controlling Google Chrome
 - [kimdhoe/josa](https://github.com/kimdhoe/josa) - 명사에 맞는 조사를 찾아줍니다.
 - [shaodahong/alfred-code](https://github.com/shaodahong/alfred-code) - Use Alfred to quickly open the file in Code
+- [CharlesStover/use-force-update](https://github.com/CharlesStover/use-force-update) - React Hook to force your functional component to update.
 - [node-ffi-napi/ref-napi](https://github.com/node-ffi-napi/ref-napi) - Turn Buffer instances into "pointers"
 - [sindresorhus/env-paths](https://github.com/sindresorhus/env-paths) - Get paths for storing things like data, config, cache, etc
 - [pranesh239/use-key-capture](https://github.com/pranesh239/use-key-capture) - Makes listening to key press event easy.
@@ -1198,7 +1199,6 @@
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [socketio/socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
-- [CharlesStover/use-force-update](https://github.com/CharlesStover/use-force-update) - React Hook to force your functional component to update.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 - [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
