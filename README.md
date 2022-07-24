@@ -1077,7 +1077,7 @@
 - [sindresorhus/run-node](https://github.com/sindresorhus/run-node) - Run the Node.js binary no matter what
 - [jenv/jenv](https://github.com/jenv/jenv) - Manage your Java environment
 - [godbout/alfred-airplay](https://github.com/godbout/alfred-airplay) - Extend your display to an AirPlay device directly from Alfred. No need for endless clicking here and there.
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 
 ## Swift 
 
