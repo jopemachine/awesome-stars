@@ -575,7 +575,7 @@
 - [bit2pixel/chrome-control](https://github.com/bit2pixel/chrome-control) - A JXA script and an Alfred Workflow for controlling Google Chrome
 - [kimdhoe/josa](https://github.com/kimdhoe/josa) - 명사에 맞는 조사를 찾아줍니다.
 - [shaodahong/alfred-code](https://github.com/shaodahong/alfred-code) - Use Alfred to quickly open the file in Code
-- [CharlesStover/use-force-update](https://github.com/CharlesStover/use-force-update) - React Hook to force your functional component to update.
+- [CharlesStover/use-force-update](https://github.com/CharlesStover/use-force-update) - React Hook to force your function component to update
 - [node-ffi-napi/ref-napi](https://github.com/node-ffi-napi/ref-napi) - Turn Buffer instances into "pointers"
 - [sindresorhus/env-paths](https://github.com/sindresorhus/env-paths) - Get paths for storing things like data, config, cache, etc
 - [pranesh239/use-key-capture](https://github.com/pranesh239/use-key-capture) - Makes listening to key press event easy.
