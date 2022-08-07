@@ -156,6 +156,9 @@
 
 ## Go 
 
+- [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic
+- [briandowns/spinner](https://github.com/briandowns/spinner) - Go (golang) package with 90 configurable terminal spinner/progress indicators.
+- [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [xxxserxxx/gotop](https://github.com/xxxserxxx/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [klauspost/lctime](https://github.com/klauspost/lctime) - Finally, simple, familiar, locale-based datetime formatting.
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go
