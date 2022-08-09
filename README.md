@@ -354,7 +354,7 @@
 - [ai/nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 - [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 - [signavio/react-mentions](https://github.com/signavio/react-mentions) - @mention people in a textarea
-- [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for humans
+- [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
 - [Kagami/ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Port of FFmpeg with Emscripten
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [Trott/slug](https://github.com/Trott/slug) - slugifies even utf-8 chars!
