@@ -1264,7 +1264,6 @@
 - [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 - [mayajuni/async-await-mysql](https://github.com/mayajuni/async-await-mysql) - Typescript를 이용하여 async/await mysql 모듈
 - [wix/react-native-calendars](https://github.com/wix/react-native-calendars) - React Native Calendar Components 🗓️ 📆
-- [jsdevkr/react-multi-email](https://github.com/jsdevkr/react-multi-email) - :octocat: A simple react component to format multiple email as the user types.
 - [thomasJang/axui](https://github.com/thomasJang/axui) - :octocat: DataGrid, DataSheet for React
 - [jsdevkr/axui-datagrid](https://github.com/jsdevkr/axui-datagrid) - :octocat: DataGrid, DataSheet for React
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
