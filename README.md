@@ -879,7 +879,7 @@
 - [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [738/awesome-devbook](https://github.com/738/awesome-devbook) - 📕 국내 개발 도서 리스트
-- [lubien/awesome-cerebro](https://github.com/lubien/awesome-cerebro) - Curated list of Cerebro plugins and resources
+- [cerebroapp/awesome-cerebro](https://github.com/cerebroapp/awesome-cerebro) - Curated list of Cerebro plugins and resources
 - [brave-people/brave-tech-interview](https://github.com/brave-people/brave-tech-interview) - 🙋 핵심을 질문하다. 그리고 용감하게 대답하다. 국내 IT기업부터 실리콘밸리까지 "현직자가 해설해주는 기술면접"
 - [sindresorhus/ama](https://github.com/sindresorhus/ama) - [[I'm slow at replying these days, but I hope to get back to answering questions eventually]] Ask me anything!
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
