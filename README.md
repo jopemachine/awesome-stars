@@ -61,6 +61,7 @@
 
 ## C 
 
+- [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - FreeBSD src tree (read-only mirror)
 - [HinTak/seeed-voicecard](https://github.com/HinTak/seeed-voicecard) - This is an enhancement fork with the explicit aim of supporting current shipping Raspbian/Ubuntu kernels without requiring downgrading. Please donate at https://hintak.github.io/ if it works for you.
 - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [libhangul/libhangul](https://github.com/libhangul/libhangul) - A library to support hangul input method logic
