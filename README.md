@@ -991,6 +991,7 @@
 
 ## Rust 
 
+- [jfrimmel/cargo-valgrind](https://github.com/jfrimmel/cargo-valgrind) - A cargo subcommand, that runs valgrind and displays its output in a helpful manner.
 - [mmtk/mmtk-core](https://github.com/mmtk/mmtk-core) - Memory Management ToolKit
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3
