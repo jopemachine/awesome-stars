@@ -408,7 +408,6 @@
 - [sindresorhus/srcset](https://github.com/sindresorhus/srcset) - Parse and stringify the HTML &lt;img&gt; srcset attribute
 - [sindresorhus/matcher](https://github.com/sindresorhus/matcher) - Simple wildcard matching
 - [sindresorhus/dargs](https://github.com/sindresorhus/dargs) - Reverse minimist. Convert an object of options into an array of command-line arguments
-- [substack/minimist](https://github.com/substack/minimist) - parse argument options
 - [sindresorhus/xdg-basedir](https://github.com/sindresorhus/xdg-basedir) - Get XDG Base Directory paths
 - [sindresorhus/to-fast-properties](https://github.com/sindresorhus/to-fast-properties) - Force V8 to use fast properties for an object
 - [sindresorhus/known](https://github.com/sindresorhus/known) - Allow only access to known object properties using ES2015 Proxy
@@ -553,7 +552,6 @@
 - [fallroot/copy-url-for-alfred](https://github.com/fallroot/copy-url-for-alfred) - You can copy browser's URL and title with various formats like markdown, anchor tag and your own.
 - [sindresorhus/first-run](https://github.com/sindresorhus/first-run) - Check if it's the first time the process is run
 - [sindresorhus/parse-json](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors
-- [substack/json-stable-stringify](https://github.com/substack/json-stable-stringify) - deterministic JSON.stringify() with custom sorting to get deterministic hashes from stringified results
 - [sindresorhus/onetime](https://github.com/sindresorhus/onetime) - Ensure a function is only called once
 - [tdegrunt/jsonschema](https://github.com/tdegrunt/jsonschema) - JSON Schema validation
 - [sindresorhus/p-cancelable](https://github.com/sindresorhus/p-cancelable) - Create a promise that can be canceled
@@ -751,7 +749,7 @@
 - [marpple/partial.js](https://github.com/marpple/partial.js) - (deprecated)
 - [jacklam718/react-native-dialog-component](https://github.com/jacklam718/react-native-dialog-component) - A react native dialog component support custom animation for IOS & Android.
 - [RNComponents/rn-spinner](https://github.com/RNComponents/rn-spinner) - An extensible number Spinner component for react-native.
-- [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
+- [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node/Express
 - [microsoft/Windows-universal-samples](https://github.com/microsoft/Windows-universal-samples) - API samples for the Universal Windows Platform.
 - [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - plugins to check (lint) markdown code style
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
