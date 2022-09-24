@@ -154,7 +154,7 @@
 
 ## Fennel 
 
-- [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal cognitive effort
+- [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal interruptions
 
 ## Fortran 
 
@@ -1107,6 +1107,7 @@
 
 ## TypeScript 
 
+- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [felixfbecker/cli-highlight](https://github.com/felixfbecker/cli-highlight) - Syntax highlighting for your terminal 💻✨
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
