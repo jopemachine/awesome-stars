@@ -232,6 +232,7 @@
 - [michalchudziak/react-native-geolocation](https://github.com/michalchudziak/react-native-geolocation) - Geolocation APIs for React Native
 - [avishayil/react-native-restart](https://github.com/avishayil/react-native-restart) - React Native Package With One Purpose: To Restart Your React Native Project
 - [zoontek/react-native-localize](https://github.com/zoontek/react-native-localize) - 🌍 A toolbox for your React Native app localization
+- [Instabug/Instabug-React-Native](https://github.com/Instabug/Instabug-React-Native) - In-app feedback and bug reporting tool for React Native
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [openjdk-mirror/jdk7u-jdk](https://github.com/openjdk-mirror/jdk7u-jdk) - 
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
@@ -831,7 +832,6 @@
 - [sozercan/OpenInCode](https://github.com/sozercan/OpenInCode) - :open_file_folder: macOS Finder toolbar app to open current folder in Visual Studio Code
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
 - [tonsky/AnyBar](https://github.com/tonsky/AnyBar) - OS X menubar status indicator
-- [Instabug/Instabug-React-Native](https://github.com/Instabug/Instabug-React-Native) - In-app feedback and bug reporting tool for React Native
 - [Danesz/TouchBarDisabler](https://github.com/Danesz/TouchBarDisabler) - TouchBarDisabler allows users to manually turn off the Touch Bar on 2016 MacBook Pro devices. You will be guided to turn off System Integrity Protection before using the app.
 - [niw/HapticKey](https://github.com/niw/HapticKey) - A simple utility application to trigger haptic feedback when tapping Touch Bar.
 
