@@ -459,7 +459,6 @@
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [sindresorhus/p-event](https://github.com/sindresorhus/p-event) - Promisify an event by waiting for it to be emitted
 - [sindresorhus/pify](https://github.com/sindresorhus/pify) - Promisify a callback-style function
-- [xojs/vscode-linter-xo](https://github.com/xojs/vscode-linter-xo) - Linter for XO
 - [sindresorhus/figures](https://github.com/sindresorhus/figures) - Unicode symbols with fallbacks for older terminals
 - [felixrieseberg/windows-shortcuts-ps](https://github.com/felixrieseberg/windows-shortcuts-ps) - Node.js: Read Windows shortcuts without native dependencies (Windows 7 and up)
 - [j201/windows-shortcuts](https://github.com/j201/windows-shortcuts) - A Node.js API for creating, editing, and reading Windows shortcuts (.lnk files).
@@ -1185,6 +1184,7 @@
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 - [bevry/istextorbinary](https://github.com/bevry/istextorbinary) - Determine if a filename and/or buffer is text or binary. Smarter detection than the other solutions.
 - [sindresorhus/p-progress](https://github.com/sindresorhus/p-progress) - Create a promise that reports progress
+- [xojs/vscode-linter-xo](https://github.com/xojs/vscode-linter-xo) - Linter for XO
 - [SamVerschueren/tsd](https://github.com/SamVerschueren/tsd) - Check TypeScript type definitions
 - [waitingsong/node-win32-api](https://github.com/waitingsong/node-win32-api) - win32 api
 - [piotrwitek/utility-types](https://github.com/piotrwitek/utility-types) - Collection of utility types, complementing TypeScript built-in mapped types and aliases (think "lodash" for static types).
