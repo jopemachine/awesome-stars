@@ -155,7 +155,7 @@
 
 ## Fennel 
 
-- [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal interruptions
+- [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal interruptions (predecessor of leap.nvim)
 
 ## Fortran 
 
@@ -1110,6 +1110,7 @@
 
 ## TypeScript 
 
+- [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [reactjs/ko.reactjs.org](https://github.com/reactjs/ko.reactjs.org) - (Work in progress) React documentation website in Korean
 - [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
