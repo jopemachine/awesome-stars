@@ -240,6 +240,7 @@
 
 ## JavaScript 
 
+- [apify/got-cjs](https://github.com/apify/got-cjs) - An action to release a CommonJS version of the popular library got, which is soon to be available only in an ESM format.
 - [kishanrajput23/Hacktoberfest-2022](https://github.com/kishanrajput23/Hacktoberfest-2022) - Contribute in this repository by raising genuine PR. Get verified, merged and earn the free swags from Hacktoberfest 2022.
 - [sindresorhus/p-lazy](https://github.com/sindresorhus/p-lazy) - Create a lazy promise that defers execution until it's awaited or when .then() or .catch() is called
 - [soldair/node-qrcode](https://github.com/soldair/node-qrcode) - qr code generator
@@ -662,7 +663,7 @@
 - [node-inspector/node-inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Blink Developer Tools
 - [expressjs/morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
 - [gruntjs/grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
-- [klaussinani/tusk](https://github.com/klaussinani/tusk) - Refined Evernote desktop app
+- [klaudiosinani/tusk](https://github.com/klaudiosinani/tusk) - Refined Evernote desktop app
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [sindresorhus/make-synchronous](https://github.com/sindresorhus/make-synchronous) - Make an asynchronous function synchronous
 - [micromark/micromark](https://github.com/micromark/micromark) - the smallest commonmark (optionally gfm) compliant markdown parser that exists; new foundation for @unifiedjs (hundreds of projects w/ billions of downloads for dealing w/ content)
