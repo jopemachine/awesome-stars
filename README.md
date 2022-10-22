@@ -1108,6 +1108,7 @@
 
 ## TypeScript 
 
+- [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [reactjs/ko.reactjs.org](https://github.com/reactjs/ko.reactjs.org) - (Work in progress) React documentation website in Korean
 - [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org) - The React documentation website
