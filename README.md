@@ -164,6 +164,7 @@
 
 ## Go 
 
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic
