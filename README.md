@@ -92,6 +92,7 @@
 
 ## C++ 
 
+- [ellynhan/challenge100-codingtest-study](https://github.com/ellynhan/challenge100-codingtest-study) - 누구나 참여 가능한 알고리즘 코딩테스트 문제풀이 스터디
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
 - [sharkdp/dbg-macro](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++
@@ -937,6 +938,7 @@
 
 ## Python 
 
+- [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [mkaz/termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 - [lablup/backend.ai](https://github.com/lablup/backend.ai) - Backend.AI is a streamlined, container-based computing cluster orchestrator that hosts diverse programming languages and popular computing/ML frameworks, with pluggable heterogeneous accelerator suppo
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
