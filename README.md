@@ -41,6 +41,7 @@
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Swift](#swift)
+- [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
@@ -156,6 +157,7 @@
 
 ## Fennel 
 
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 Neovim's answer to the mouse: a "clairvoyant" interface that makes on-screen navigation quicker and more natural than ever
 - [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal interruptions (predecessor of leap.nvim)
 
 ## Fortran 
@@ -1043,7 +1045,7 @@
 
 ## SCSS 
 
-- [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
+- [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 
 ## Scheme 
 
@@ -1118,6 +1120,10 @@
 - [sindresorhus/Blear](https://github.com/sindresorhus/Blear) - iOS app that transforms your photos into stunning blurry wallpapers for your device
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
 - [gureum/gureum](https://github.com/gureum/gureum) - 더 편리한 macOS 한글 입력기
+
+## TeX 
+
+- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 
 ## TypeScript 
 
