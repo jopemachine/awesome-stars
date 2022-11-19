@@ -845,6 +845,7 @@
 
 ## Others 
 
+- [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
 - [brave-people/Dev-Event](https://github.com/brave-people/Dev-Event) - 🎉🎈 개발자 {웨비나, 컨퍼런스, 해커톤} 행사를 알려드립니다. [with 남송리 삼번지]
 - [OtacilioN/awesome-hacktoberfest-2022](https://github.com/OtacilioN/awesome-hacktoberfest-2022) - A curated list of awesome Hacktoberfest 2022 repositories, guides and resources
 - [Lee-WonJun/JDD-Description](https://github.com/Lee-WonJun/JDD-Description) - Ju-Dung-A-Li Driven Development
@@ -940,6 +941,7 @@
 
 ## Python 
 
+- [CITGuru/PyInquirer](https://github.com/CITGuru/PyInquirer) - A Python module for common interactive command line user interfaces
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [mkaz/termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 - [lablup/backend.ai](https://github.com/lablup/backend.ai) - Backend.AI is a streamlined, container-based computing cluster orchestrator that hosts diverse programming languages and popular computing/ML frameworks, with pluggable heterogeneous accelerator suppo
