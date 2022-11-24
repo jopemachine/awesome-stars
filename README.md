@@ -1074,7 +1074,7 @@
 - [tj/n](https://github.com/tj/n) - Node version management
 - [ronniedroid/getnf](https://github.com/ronniedroid/getnf) - A better way to install NerdFonts
 - [puneetsl/lotion](https://github.com/puneetsl/lotion) - Unofficial Notion.so app for Linux
-- [adoyle-h/lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility library for Bash script development.
+- [adoyle-h/lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility/library for Bash script development.
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [tmux-plugins/tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) - standard pane key-bindings for tmux
 - [tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
