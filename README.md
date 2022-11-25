@@ -942,6 +942,7 @@
 
 ## Python 
 
+- [channy/korea-devculture](https://github.com/channy/korea-devculture) - 국내 IT 기업 소프트웨어 개발 문화 - 본 레포지터리는 국내 IT 기업의 소프트웨어 개발 문화에 대한 다양한 자료를 정리하고 있습니다.
 - [twisted/towncrier](https://github.com/twisted/towncrier) - Manage the release notes for your project.
 - [CITGuru/PyInquirer](https://github.com/CITGuru/PyInquirer) - A Python module for common interactive command line user interfaces
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
@@ -1131,6 +1132,7 @@
 
 ## TypeScript 
 
+- [axisj/react-multi-email](https://github.com/axisj/react-multi-email) - :octocat: A simple react component to format multiple email as the user types.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [reactjs/ko.reactjs.org](https://github.com/reactjs/ko.reactjs.org) - (Work in progress) React documentation website in Korean
