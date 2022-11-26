@@ -649,7 +649,7 @@
 - [styled-components/styled-components-native-code-mod](https://github.com/styled-components/styled-components-native-code-mod) - 
 - [styled-components/styled-components-codemods](https://github.com/styled-components/styled-components-codemods) - Automatic codemods to upgrade your styled-components code to newer versions.
 - [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native.
-- [navdeepsekhon/portfolio-generator](https://github.com/navdeepsekhon/portfolio-generator) - JS framework to dynamically generate a portfolio site from a JSON file
+- [navdeepsekhon/portfolio-generator](https://github.com/navdeepsekhon/portfolio-generator) - JS framework to dynamically generate a portfolio site from a JSON resume
 - [alanshaw/markdown-pdf](https://github.com/alanshaw/markdown-pdf) - :page_facing_up: Markdown to PDF converter
 - [typpo/quickchart](https://github.com/typpo/quickchart) - Chart image and QR code web API
 - [JaneaSystems/nodejs-mobile](https://github.com/JaneaSystems/nodejs-mobile) - Full-fledged Node.js on Android and iOS
