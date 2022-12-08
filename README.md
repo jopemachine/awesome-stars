@@ -276,7 +276,7 @@
 - [oliver-moran/jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [kevva/npm-user-packages](https://github.com/kevva/npm-user-packages) - Get packages by a npm user
 - [cutenode/good-first-issue](https://github.com/cutenode/good-first-issue) - 🖥 CLI for finding good first issues
-- [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop) - an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
+- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [sindresorhus/one-thing](https://github.com/sindresorhus/one-thing) - Set the text for the One Thing app
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
@@ -1208,7 +1208,7 @@
 - [Aminadav/react-useStateRef](https://github.com/Aminadav/react-useStateRef) - useRef and UseState together!
 - [danvk/source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
-- [bytedance/debugtron](https://github.com/bytedance/debugtron) - Debug in-production Electron based app
+- [pd4d10/debugtron](https://github.com/pd4d10/debugtron) - Debug in-production Electron based app
 - [sindresorhus/gravatar-url](https://github.com/sindresorhus/gravatar-url) - Get the URL to a Gravatar image from an identifier, such as an email
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [andywer/threads.js](https://github.com/andywer/threads.js) - 🧵 Make web workers & worker threads as simple as a function call.
