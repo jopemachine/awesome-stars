@@ -172,6 +172,7 @@
 
 ## Go 
 
+- [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
 - [lablup/backend.ai-jail](https://github.com/lablup/backend.ai-jail) - A programmable security sandbox for Backend.AI kernels
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [keybase/go-keychain](https://github.com/keybase/go-keychain) - Golang keychain package for iOS and macOS
@@ -950,6 +951,7 @@
 
 ## Python 
 
+- [lablup/aioraft-ng](https://github.com/lablup/aioraft-ng) - Unofficial implementation of RAFT consensus algorithm written in asyncio-based Python.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [channy/korea-devculture](https://github.com/channy/korea-devculture) - 국내 IT 기업 소프트웨어 개발 문화 - 본 레포지터리는 국내 IT 기업의 소프트웨어 개발 문화에 대한 다양한 자료를 정리하고 있습니다.
 - [twisted/towncrier](https://github.com/twisted/towncrier) - Manage the release notes for your project.
