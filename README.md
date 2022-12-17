@@ -667,7 +667,6 @@
 - [denoland/deno_std](https://github.com/denoland/deno_std) - Deno standard library
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [jshanson7/react-native-swipeable](https://github.com/jshanson7/react-native-swipeable) - A powerful React Native swipe component.
-- [RIAEvangelist/node-ipc](https://github.com/RIAEvangelist/node-ipc) - Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP. Giving lightning speed on Linux, Mac, and Windows. Neural Networking in Node.JS
 - [mohebifar/react-native-copilot](https://github.com/mohebifar/react-native-copilot) - Step-by-step walkthrough for your react native app
 - [kashishgrover/react-native-see-more-inline](https://github.com/kashishgrover/react-native-see-more-inline) - Show a "read more", "see more", "read less", "see less" inline with your text in React Native
 - [maxs15/react-native-modalbox](https://github.com/maxs15/react-native-modalbox) - A &lt;Modal/&gt; component for react-native
