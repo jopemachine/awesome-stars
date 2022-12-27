@@ -1321,6 +1321,7 @@
 
 ## Vim Script 
 
+- [hdima/python-syntax](https://github.com/hdima/python-syntax) - Python syntax highlighting script for Vim
 - [dag/vim-fish](https://github.com/dag/vim-fish) - Vim support for editing fish scripts
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [wakatime/vim-wakatime](https://github.com/wakatime/vim-wakatime) - Vim plugin for automatic time tracking and metrics generated from your programming activity.
