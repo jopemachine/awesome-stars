@@ -172,6 +172,7 @@
 
 ## Go 
 
+- [go-python/gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
 - [lablup/backend.ai-jail](https://github.com/lablup/backend.ai-jail) - A programmable security sandbox for Backend.AI kernels
@@ -853,6 +854,7 @@
 
 ## Others 
 
+- [ksundong/backend-interview-question](https://github.com/ksundong/backend-interview-question) - 백엔드 개발자로 입사를 준비하며 받았던 질문, 예상했던 질문, 인터넷 참고한 질문(CC BY-NC)
 - [clvrai/awesome-rl-envs](https://github.com/clvrai/awesome-rl-envs) - 
 - [innovationacademy-kr/FAQ](https://github.com/innovationacademy-kr/FAQ) - 이노베이션 아카데미 운영과 입학, 학업에 대한 자주 묻는 질문,  by
 - [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
@@ -951,6 +953,7 @@
 
 ## Python 
 
+- [ColdHeat/pybluemonday](https://github.com/ColdHeat/pybluemonday) - pybluemonday is a library for sanitizing HTML very quickly via bluemonday.
 - [lablup/aioraft-ng](https://github.com/lablup/aioraft-ng) - Unofficial implementation of RAFT consensus algorithm written in asyncio-based Python.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [channy/korea-devculture](https://github.com/channy/korea-devculture) - 국내 IT 기업 소프트웨어 개발 문화 - 본 레포지터리는 국내 IT 기업의 소프트웨어 개발 문화에 대한 다양한 자료를 정리하고 있습니다.
