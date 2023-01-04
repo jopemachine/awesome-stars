@@ -308,7 +308,7 @@
 - [joonas-yoon/boj-extended](https://github.com/joonas-yoon/boj-extended) - 백준 온라인 저지(BOJ)를 확장된 기능과 함께 사용해보세요. 기능 요청과 버그 제보는 언제나 환영합니다.
 - [tschaub/es-main](https://github.com/tschaub/es-main) - Test if an ES module is run directly (require.main replacement)
 - [bcoe/c8](https://github.com/bcoe/c8) - output coverage reports using Node.js' built in coverage
-- [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
+- [facebookarchive/draft-js](https://github.com/facebookarchive/draft-js) - A React framework for building text editors.
 - [sindresorhus/fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [deoxxa/npmrc](https://github.com/deoxxa/npmrc) - Switch between different .npmrc files with ease and grace.
@@ -482,7 +482,7 @@
 - [sindresorhus/figures](https://github.com/sindresorhus/figures) - Unicode symbols with fallbacks for older terminals
 - [felixrieseberg/windows-shortcuts-ps](https://github.com/felixrieseberg/windows-shortcuts-ps) - Node.js: Read Windows shortcuts without native dependencies (Windows 7 and up)
 - [j201/windows-shortcuts](https://github.com/j201/windows-shortcuts) - A Node.js API for creating, editing, and reading Windows shortcuts (.lnk files).
-- [kumarabhirup/pkgreview.dev](https://github.com/kumarabhirup/pkgreview.dev) - The ratings and reviews website for code package managers
+- [kumarabhirup/pkgreview.dev](https://github.com/kumarabhirup/pkgreview.dev) - The ratings and reviews website for code package managers (website now deprecated)
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [hacksparrow/safe-eval](https://github.com/hacksparrow/safe-eval) - Safer version of eval()
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
@@ -954,6 +954,8 @@
 
 ## Python 
 
+- [navytux/pygolang](https://github.com/navytux/pygolang) - Go-like features for Python and Cython. (mirror of https://lab.nexedi.com/kirr/pygolang)
+- [rgalanakis/goless](https://github.com/rgalanakis/goless) - Go-like semantics built on top of Stackless Python.
 - [ColdHeat/pybluemonday](https://github.com/ColdHeat/pybluemonday) - pybluemonday is a library for sanitizing HTML very quickly via bluemonday.
 - [lablup/aioraft-ng](https://github.com/lablup/aioraft-ng) - Unofficial implementation of RAFT consensus algorithm written in asyncio-based Python.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
@@ -1026,6 +1028,9 @@
 
 ## Rust 
 
+- [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
+- [tikv/raft-rs](https://github.com/tikv/raft-rs) - Raft distributed consensus algorithm implemented in Rust.
+- [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [jfrimmel/cargo-valgrind](https://github.com/jfrimmel/cargo-valgrind) - A cargo subcommand, that runs valgrind and displays its output in a helpful manner.
 - [mmtk/mmtk-core](https://github.com/mmtk/mmtk-core) - Memory Management ToolKit
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
