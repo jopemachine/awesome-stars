@@ -181,7 +181,6 @@
 - [go-python/gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol
-- [lablup/backend.ai-jail](https://github.com/lablup/backend.ai-jail) - A programmable security sandbox for Backend.AI kernels
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [keybase/go-keychain](https://github.com/keybase/go-keychain) - Golang keychain package for iOS and macOS
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -1036,6 +1035,7 @@
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 - [tikv/raft-rs](https://github.com/tikv/raft-rs) - Raft distributed consensus algorithm implemented in Rust.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
+- [lablup/backend.ai-jail](https://github.com/lablup/backend.ai-jail) - A programmable security sandbox for Backend.AI kernels
 - [jfrimmel/cargo-valgrind](https://github.com/jfrimmel/cargo-valgrind) - A cargo subcommand, that runs valgrind and displays its output in a helpful manner.
 - [mmtk/mmtk-core](https://github.com/mmtk/mmtk-core) - Memory Management ToolKit
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
