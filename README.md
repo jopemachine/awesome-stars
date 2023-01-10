@@ -100,6 +100,7 @@
 
 ## C++ 
 
+- [hmenyus/node-calls-python](https://github.com/hmenyus/node-calls-python) - Call Python from NodeJS directly in-process without spawning processes
 - [ellynhan/challenge100-codingtest-study](https://github.com/ellynhan/challenge100-codingtest-study) - 누구나 참여 가능한 알고리즘 코딩테스트 문제풀이 스터디  - 깃헙 잔디 채워봅시다!
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
