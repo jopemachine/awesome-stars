@@ -1018,6 +1018,7 @@
 - [KrauseFx/FxLifeSheet](https://github.com/KrauseFx/FxLifeSheet) - Tracking the key metrics of my life
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
+- [AndrewRadev/sideways.vim](https://github.com/AndrewRadev/sideways.vim) - A Vim plugin to move function arguments (and other delimited-by-something items) left and right.
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [moll/vim-node](https://github.com/moll/vim-node) - Tools and environment to make Vim superb for developing with Node.js. Like Rails.vim for Node.
 - [gjtorikian/jekyll-last-modified-at](https://github.com/gjtorikian/jekyll-last-modified-at) - A Jekyll plugin to show the last_modified_at time of a post.
@@ -1087,7 +1088,7 @@
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  MacOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
-- [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - Augment your fish command line with fzf key bindings.
+- [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - Fzf plugin for Fish shell
 - [jethrokuan/z](https://github.com/jethrokuan/z) - Pure-fish z directory jumping
 - [jethrokuan/fzf](https://github.com/jethrokuan/fzf) - Ef-🐟-ient fish keybindings for fzf
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
@@ -1376,7 +1377,6 @@
 - [sgur/ctrlp-extensions.vim](https://github.com/sgur/ctrlp-extensions.vim) - Plugins for ctrlp.vim
 - [tacahiroy/ctrlp-funky](https://github.com/tacahiroy/ctrlp-funky) - A super simple function navigator for ctrlp.vim
 - [FooSoft/vim-argwrap](https://github.com/FooSoft/vim-argwrap) - Wrap and unwrap function arguments, lists, and dictionaries in Vim
-- [AndrewRadev/sideways.vim](https://github.com/AndrewRadev/sideways.vim) - A Vim plugin to move function arguments (and other delimited-by-something items) left and right.
 - [mhinz/vim-signify](https://github.com/mhinz/vim-signify) - :heavy_plus_sign: Show a diff using Vim its sign column.
 - [chrisbra/csv.vim](https://github.com/chrisbra/csv.vim) - A Filetype plugin for csv files
 - [vim-jp/vital.vim](https://github.com/vim-jp/vital.vim) - A comprehensive Vim utility functions for Vim plugins
