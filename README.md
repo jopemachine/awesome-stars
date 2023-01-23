@@ -1296,7 +1296,7 @@
 - [SeanSobey/ChartjsNodeCanvas](https://github.com/SeanSobey/ChartjsNodeCanvas) - A node renderer for Chart.js using canvas.
 - [pankod/react-native-store-rating](https://github.com/pankod/react-native-store-rating) - Ratings and reviews influence how your app ranks in search results, and can affect whether someone downloads your app. Users can rate your app on a scale of desired amount of stars.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
-- [react-native-seoul/react-native-kakao-login](https://github.com/react-native-seoul/react-native-kakao-login) - react-native native module for Kakao sign in.
+- [crossplatformkorea/react-native-kakao-login](https://github.com/crossplatformkorea/react-native-kakao-login) - react-native native module for Kakao sign in.
 - [eveningkid/denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno
 - [cmorten/opine](https://github.com/cmorten/opine) - Minimalist web framework for Deno ported from ExpressJS.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
