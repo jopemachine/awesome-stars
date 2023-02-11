@@ -111,7 +111,7 @@
 - [node-inspector/v8-profiler](https://github.com/node-inspector/v8-profiler) - node bindings for the v8 profiler
 - [nodejs/node-addon-examples](https://github.com/nodejs/node-addon-examples) - Node.js C++ addon examples from http://nodejs.org/docs/latest/api/addons.html
 - [nodejs/nan](https://github.com/nodejs/nan) - Native Abstractions for Node.js
-- [arkenthera/electron-vibrancy](https://github.com/arkenthera/electron-vibrancy) - Make your electron windows vibrant!
+- [0x61726b/electron-vibrancy](https://github.com/0x61726b/electron-vibrancy) - Make your electron windows vibrant!
 - [pelayomendez/exe-icon-extractor](https://github.com/pelayomendez/exe-icon-extractor) - Fork of @initthink/exe-icon-extractor
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
@@ -145,6 +145,7 @@
 - [hyrious/github-markdown-css](https://github.com/hyrious/github-markdown-css) - sindresorhus/github-markdown-css, with all variants
 - [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [chenjiahan/rodal](https://github.com/chenjiahan/rodal) - A React modal with animations.
+- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [designmodo/html-website-templates](https://github.com/designmodo/html-website-templates) - Free static HTML website templates created using the Slides - https://designmodo.com/slides/
 - [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
 
@@ -225,7 +226,6 @@
 - [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
 - [tc39/template-for-proposals](https://github.com/tc39/template-for-proposals) - A template for ECMAScript proposals
 - [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
-- [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [hjson/hjson](https://github.com/hjson/hjson) - Hjson, a user interface for JSON
 - [inikulin/parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
 - [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
