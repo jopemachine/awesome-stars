@@ -1033,6 +1033,8 @@
 
 ## Rust 
 
+- [async-raft/async-raft](https://github.com/async-raft/async-raft) - An implementation of the Raft distributed consensus protocol using the Tokio framework.
+- [ritelabs/riteraft](https://github.com/ritelabs/riteraft) - RiteRaft - A raft framework, for regular people
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
