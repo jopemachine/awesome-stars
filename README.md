@@ -858,6 +858,7 @@
 
 ## Others 
 
+- [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [ksundong/backend-interview-question](https://github.com/ksundong/backend-interview-question) - 백엔드 개발자로 입사를 준비하며 받았던 질문, 예상했던 질문, 인터넷 참고한 질문(CC BY-NC)
 - [clvrai/awesome-rl-envs](https://github.com/clvrai/awesome-rl-envs) - 
 - [innovationacademy-kr/FAQ](https://github.com/innovationacademy-kr/FAQ) - 이노베이션 아카데미 운영과 입학, 학업에 대한 자주 묻는 질문,  by
@@ -913,7 +914,7 @@
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [sindresorhus/tsconfig](https://github.com/sindresorhus/tsconfig) - Shared TypeScript config for my projects
-- [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - 
+- [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app.
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [sindresorhus/alfred-xcode](https://github.com/sindresorhus/alfred-xcode) - Alfred 3 workflow to open Xcode projects, workspaces, and playgrounds
 - [sindresorhus/typescript-definition-style-guide](https://github.com/sindresorhus/typescript-definition-style-guide) - Style guide for adding type definitions to my npm packages
