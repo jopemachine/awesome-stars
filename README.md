@@ -585,7 +585,6 @@
 - [aceakash/string-similarity](https://github.com/aceakash/string-similarity) - Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance.
 - [ilearnio/module-alias](https://github.com/ilearnio/module-alias) - Register aliases of directories and custom module paths in Node
 - [isaacs/minimatch](https://github.com/isaacs/minimatch) - a glob matcher in javascript
-- [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 - [SamVerschueren/alfred-link](https://github.com/SamVerschueren/alfred-link) - Make your Alfred workflows installable from npm
 - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [megahertz/electron-log](https://github.com/megahertz/electron-log) - Just a simple logging module for your Electron application
@@ -1263,6 +1262,7 @@
 - [AlexTorresDev/custom-electron-titlebar](https://github.com/AlexTorresDev/custom-electron-titlebar) - Custom electon title bar inpire on VS Code title bar
 - [nexe/nexe](https://github.com/nexe/nexe) - 🎉 create a single executable out of your node.js apps
 - [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It's a very fast and efficient glob library for Node.js
+- [isaacs/node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [Andarist/react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) - &lt;textarea /&gt; component for React which grows with content
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
