@@ -306,7 +306,6 @@
 - [sindresorhus/file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer/Uint8Array/ArrayBuffer
 - [isaacs/node-graceful-fs](https://github.com/isaacs/node-graceful-fs) - fs with incremental backoff on EMFILE
 - [xojs/eslint-config-xo-react](https://github.com/xojs/eslint-config-xo-react) - ESLint shareable config for React to be used with eslint-config-xo
-- [vadimdemedes/ink-select-input](https://github.com/vadimdemedes/ink-select-input) - Select input component for Ink
 - [vadimdemedes/import-jsx](https://github.com/vadimdemedes/import-jsx) - Import and transpile JSX on the fly
 - [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link) - Link component for Ink
 - [sindresorhus/cpy-cli](https://github.com/sindresorhus/cpy-cli) - Copy files
@@ -1183,6 +1182,7 @@
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [dividab/tsconfig-paths](https://github.com/dividab/tsconfig-paths) - Load node modules according to tsconfig paths, in run-time or via API.
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
+- [vadimdemedes/ink-select-input](https://github.com/vadimdemedes/ink-select-input) - Select input component for Ink
 - [jaredpalmer/after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router
 - [jaredpalmer/react-fns](https://github.com/jaredpalmer/react-fns) - Browser API's turned into declarative React components and HoC's
 - [jaredpalmer/the-platform](https://github.com/jaredpalmer/the-platform) - Web. Components. 😂
