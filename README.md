@@ -1226,7 +1226,7 @@
 - [fregante/ghat](https://github.com/fregante/ghat) - 🛕 Reuse GitHub Actions workflows across repositories
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [annexare/Countries](https://github.com/annexare/Countries) - Countries, Languages & Continents data (capital and currency, native name, calling codes).
-- [gregberge/xstyled](https://github.com/gregberge/xstyled) - A utility-first CSS-in-JS framework built for React. 💅👩‍🎤⚡️
+- [styled-components/xstyled](https://github.com/styled-components/xstyled) - A utility-first CSS-in-JS framework built for React. 💅👩‍🎤⚡️
 - [Aminadav/react-useStateRef](https://github.com/Aminadav/react-useStateRef) - useRef and UseState together!
 - [danvk/source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
