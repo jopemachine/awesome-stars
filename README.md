@@ -949,6 +949,7 @@
 
 ## Python 
 
+- [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
 - [navytux/pygolang](https://github.com/navytux/pygolang) - Go-like features for Python and Cython. (mirror of https://lab.nexedi.com/kirr/pygolang)
 - [rgalanakis/goless](https://github.com/rgalanakis/goless) - Go-like semantics built on top of Stackless Python.
 - [ColdHeat/pybluemonday](https://github.com/ColdHeat/pybluemonday) - pybluemonday is a library for sanitizing HTML very quickly via bluemonday.
@@ -1024,6 +1025,8 @@
 
 ## Rust 
 
+- [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
+- [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [async-raft/async-raft](https://github.com/async-raft/async-raft) - An implementation of the Raft distributed consensus protocol using the Tokio framework.
 - [ritelabs/riteraft](https://github.com/ritelabs/riteraft) - RiteRaft - A raft framework, for regular people
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
