@@ -1158,6 +1158,7 @@
 
 ## TypeScript 
 
+- [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [axisj/react-multi-email](https://github.com/axisj/react-multi-email) - :octocat: A simple react component to format multiple email as the user types.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
