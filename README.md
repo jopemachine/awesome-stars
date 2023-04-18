@@ -458,7 +458,6 @@
 - [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 - [sindresorhus/fix-path](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS and Linux when run from a GUI app
 - [postcss/autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use
-- [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
 - [electron-userland/electron-installer-redhat](https://github.com/electron-userland/electron-installer-redhat) - Create a Red Hat / RPM package for your Electron app.
 - [automation-stack/electron-sudo](https://github.com/automation-stack/electron-sudo) - Electron subprocesses with administrative privileges, prompting the user with an OS dialog if necessary.
 - [jenslind/electron-positioner](https://github.com/jenslind/electron-positioner) - :pushpin: Helps positioning your electron windows.
@@ -1238,6 +1237,7 @@
 - [fregante/select-dom](https://github.com/fregante/select-dom) - Lightweight querySelector/All wrapper that outputs an Array
 - [microsoft/node-pty](https://github.com/microsoft/node-pty) - Fork pseudoterminals in Node.JS
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+- [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
 - [rhysd/electron-about-window](https://github.com/rhysd/electron-about-window) - 'About This App' mini-window for Electron apps
 - [getstation/electron-chrome-extension](https://github.com/getstation/electron-chrome-extension) - Implementation of Chrome extension APIs for Electron
 - [MarshallOfSound/electron-devtools-installer](https://github.com/MarshallOfSound/electron-devtools-installer) - An easy way to ensure Chrome DevTools extensions into Electron
