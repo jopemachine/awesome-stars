@@ -592,7 +592,7 @@
 - [isaacs/rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
 - [reactjs/react-transition-group](https://github.com/reactjs/react-transition-group) - An easy way to perform animations when a React component enters or leaves the DOM
 - [jorangreef/sudo-prompt](https://github.com/jorangreef/sudo-prompt) - Run a command using sudo, prompting the user with an OS dialog if necessary.
-- [jaywcjlove/hotkeys](https://github.com/jaywcjlove/hotkeys) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
+- [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [MikeMcl/big.js](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
 - [inxilpro/node-app-root-path](https://github.com/inxilpro/node-app-root-path) - Determine the root path to your project
