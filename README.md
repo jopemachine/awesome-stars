@@ -807,6 +807,7 @@
 - [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit from within neovim.
 - [abzcoding/lvim](https://github.com/abzcoding/lvim) - 🧑‍🚀 Bloated LunarVim 🚀
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
+- [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Further development has moved to https://github.com/williamboman/mason.nvim!
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
@@ -867,7 +868,6 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
-- [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [tmux-plugins/list](https://github.com/tmux-plugins/list) - A list of tmux plugins.
 - [naver/fe-news](https://github.com/naver/fe-news) - FE 기술 소식 큐레이션 뉴스레터
