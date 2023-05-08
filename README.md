@@ -600,7 +600,7 @@
 - [rocketlaunchr/electron-alert](https://github.com/rocketlaunchr/electron-alert) - SweetAlert2 for Electron applications
 - [psperber/redux-persist-electron-storage](https://github.com/psperber/redux-persist-electron-storage) - Redux persist adapter for electron-store
 - [sindresorhus/electron-store](https://github.com/sindresorhus/electron-store) - Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 - [oblador/react-native-animatable](https://github.com/oblador/react-native-animatable) - Standard set of easy to use animations and declarative transitions for React Native
 - [fram-x/FluidTransitions](https://github.com/fram-x/FluidTransitions) - Fluid Transitions for React Navigation
 - [cdvntr/react-native-confetti](https://github.com/cdvntr/react-native-confetti) - Raining confetti made with react native animations
