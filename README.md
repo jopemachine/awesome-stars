@@ -498,7 +498,6 @@
 - [vankop/jsoneditor-react](https://github.com/vankop/jsoneditor-react) - react wrapper implementation for https://github.com/josdejong/jsoneditor
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [kyungw00k/alfred-kozip-workflow](https://github.com/kyungw00k/alfred-kozip-workflow) - :package: 도로명/지번 한영 주소 검색을 Alfred에서!
-- [bchatard/alfred-jetbrains](https://github.com/bchatard/alfred-jetbrains) - Alfred4 workflow to easily open your projects with your favorite JetBrains product.
 - [pyrho/alfred-firefoxtabswitch](https://github.com/pyrho/alfred-firefoxtabswitch) - An Alfred workflow for quickly switching between Firefox tabs
 - [AndrewRedican/react-json-editor-ajrm](https://github.com/AndrewRedican/react-json-editor-ajrm) - A modular, easy to use, react component, to view, edit, and debug javascript objects.
 - [json-editor/json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
@@ -902,6 +901,7 @@
 - [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [738/awesome-devbook](https://github.com/738/awesome-devbook) - 📕 국내 개발 도서 리스트
+- [bchatard/alfred-jetbrains](https://github.com/bchatard/alfred-jetbrains) - Alfred4 workflow to easily open your projects with your favorite JetBrains product.
 - [cerebroapp/awesome-cerebro](https://github.com/cerebroapp/awesome-cerebro) - Curated list of Cerebro plugins and resources
 - [brave-people/brave-tech-interview](https://github.com/brave-people/brave-tech-interview) - 🙋 핵심을 질문하다. 그리고 용감하게 대답하다. 국내 IT기업부터 실리콘밸리까지 "현직자가 해설해주는 기술면접"
 - [sindresorhus/ama](https://github.com/sindresorhus/ama) - [[I'm slow at replying these days, but I hope to get back to answering questions eventually]] Ask me anything!
