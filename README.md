@@ -684,7 +684,7 @@
 - [abelljs/abell-renderer](https://github.com/abelljs/abell-renderer) - A template engine that lets you write variables, loops, and conditions in HTML using JavaScript Syntax.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [cyrilwanner/cli-select](https://github.com/cyrilwanner/cli-select) - :arrow_forward: Simple and interactive solution to provide a list of selectable items on the command line.
-- [sindresorhus/get-stream](https://github.com/sindresorhus/get-stream) - Get a stream as a string, buffer, or array
+- [sindresorhus/get-stream](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer
 - [mafintosh/csv-parser](https://github.com/mafintosh/csv-parser) - Streaming csv parser inspired by binary-csv that aims to be faster than everyone else
 - [nbubna/Case](https://github.com/nbubna/Case) - String case utitility: convert, identify, flip, extend
 - [sindresorhus/trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash
@@ -949,6 +949,7 @@
 
 ## Python 
 
+- [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter
 - [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
 - [navytux/pygolang](https://github.com/navytux/pygolang) - Go-like features for Python and Cython. (mirror of https://lab.nexedi.com/kirr/pygolang)
 - [rgalanakis/goless](https://github.com/rgalanakis/goless) - Go-like semantics built on top of Stackless Python.
