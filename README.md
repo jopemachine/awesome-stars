@@ -676,7 +676,7 @@
 - [klaudiosinani/tusk](https://github.com/klaudiosinani/tusk) - Refined Evernote desktop app
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [sindresorhus/make-synchronous](https://github.com/sindresorhus/make-synchronous) - Make an asynchronous function synchronous
-- [micromark/micromark](https://github.com/micromark/micromark) - the smallest commonmark (optionally gfm) compliant markdown parser that exists; new foundation for @unifiedjs (hundreds of projects w/ billions of downloads for dealing w/ content)
+- [micromark/micromark](https://github.com/micromark/micromark) - small, safe, and great commonmark (optionally gfm) compliant markdown parser
 - [codecov/codecov-node](https://github.com/codecov/codecov-node) - Global coverage report uploader for Codecov in NodeJS
 - [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
