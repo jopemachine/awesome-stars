@@ -220,7 +220,6 @@
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [tc39/proposal-error-cause](https://github.com/tc39/proposal-error-cause) - TC39 proposal for accumulating errors
 - [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
-- [tc39/template-for-proposals](https://github.com/tc39/template-for-proposals) - A template for ECMAScript proposals
 - [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 - [hjson/hjson](https://github.com/hjson/hjson) - Hjson, a user interface for JSON
 - [Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io) - My Blog / Jekyll Themes / PWA
@@ -889,6 +888,7 @@
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [bcoe/awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) - :two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code
 - [addyosmani/critical-path-css-tools](https://github.com/addyosmani/critical-path-css-tools) - Tools to prioritize above-the-fold (critical-path) CSS
+- [tc39/template-for-proposals](https://github.com/tc39/template-for-proposals) - A template for ECMAScript proposals
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
 - [sindresorhus/meta](https://github.com/sindresorhus/meta) - Meta discussions and unicorns. Not necessarily in that order.
