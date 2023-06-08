@@ -949,6 +949,7 @@
 
 ## Python 
 
+- [hpyproject/hpy](https://github.com/hpyproject/hpy) - HPy: a better API for Python
 - [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter
 - [edc/bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
 - [navytux/pygolang](https://github.com/navytux/pygolang) - Go-like features for Python and Cython. (mirror of https://lab.nexedi.com/kirr/pygolang)
