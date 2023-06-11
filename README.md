@@ -307,7 +307,6 @@
 - [isaacs/node-graceful-fs](https://github.com/isaacs/node-graceful-fs) - fs with incremental backoff on EMFILE
 - [xojs/eslint-config-xo-react](https://github.com/xojs/eslint-config-xo-react) - ESLint shareable config for React to be used with eslint-config-xo
 - [vadimdemedes/import-jsx](https://github.com/vadimdemedes/import-jsx) - Import and transpile JSX on the fly
-- [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link) - Link component for Ink
 - [sindresorhus/cpy-cli](https://github.com/sindresorhus/cpy-cli) - Copy files
 - [joonas-yoon/boj-extended](https://github.com/joonas-yoon/boj-extended) - 백준 온라인 저지(BOJ)를 확장된 기능과 함께 사용해보세요. 기능 요청과 버그 제보는 언제나 환영합니다.
 - [tschaub/es-main](https://github.com/tschaub/es-main) - Test if an ES module is run directly (require.main replacement)
@@ -1189,6 +1188,7 @@
 - [dividab/tsconfig-paths](https://github.com/dividab/tsconfig-paths) - Load node modules according to tsconfig paths, in run-time or via API.
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [vadimdemedes/ink-select-input](https://github.com/vadimdemedes/ink-select-input) - Select input component for Ink
+- [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link) - Link component for Ink
 - [jaredpalmer/after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router
 - [jaredpalmer/react-fns](https://github.com/jaredpalmer/react-fns) - Browser API's turned into declarative React components and HoC's
 - [jaredpalmer/the-platform](https://github.com/jaredpalmer/the-platform) - Web. Components. 😂
