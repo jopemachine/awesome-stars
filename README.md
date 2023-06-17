@@ -764,6 +764,7 @@
 - [marpple/FxJS](https://github.com/marpple/FxJS) - Functional Extensions Library for JavaScript
 - [jashkenas/underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
 - [marpple/partial.js](https://github.com/marpple/partial.js) - (deprecated)
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [jacklam718/react-native-dialog-component](https://github.com/jacklam718/react-native-dialog-component) - A react native dialog component support custom animation for IOS & Android.
 - [RNComponents/rn-spinner](https://github.com/RNComponents/rn-spinner) - An extensible number Spinner component for react-native.
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
@@ -1146,7 +1147,6 @@
 - [sindresorhus/run-node](https://github.com/sindresorhus/run-node) - Run the Node.js binary no matter what
 - [jenv/jenv](https://github.com/jenv/jenv) - Manage your Java environment
 - [godbout/alfred-airplay](https://github.com/godbout/alfred-airplay) - Extend your display to an AirPlay device directly from Alfred. No need for endless clicking here and there.
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 
 ## Swift 
 
