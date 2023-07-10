@@ -69,7 +69,7 @@
 
 - [saghul/python-fibers](https://github.com/saghul/python-fibers) - Lightweight cooperative microthreads for Python
 - [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
-- [HinTak/seeed-voicecard](https://github.com/HinTak/seeed-voicecard) - This is an enhancement fork with the explicit aim of supporting current shipping Raspbian/Ubuntu kernels without requiring downgrading. Please donate at https://hintak.github.io/ if it works for you.
+- [HinTak/seeed-voicecard](https://github.com/HinTak/seeed-voicecard) - This is an enhancement fork with the explicit aim of supporting current shipping Raspbian/Ubuntu kernels without requiring downgrading. Please donate at https://hintak.github.io/ if it works for you. 
 - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [libhangul/libhangul](https://github.com/libhangul/libhangul) - A library to support hangul input method logic
 - [t2linux/apple-bce-drv](https://github.com/t2linux/apple-bce-drv) - Apple BCE (Buffer Copy Engine) and associated subsystems drivers for T2-based Macs
@@ -1038,6 +1038,7 @@
 
 ## Rust 
 
+- [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with GPT-3.
