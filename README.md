@@ -942,7 +942,7 @@
 
 ## PHP 
 
-- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your GitHub profile readme or repository.
+- [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.
 - [electerious/Lychee](https://github.com/electerious/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
 - [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 - [zqzten/alfred-web-search-suggest](https://github.com/zqzten/alfred-web-search-suggest) - Alfred search suggest workflow for various popular websites.
