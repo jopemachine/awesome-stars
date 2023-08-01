@@ -506,7 +506,6 @@
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [SvanBoxel/delete-merged-branch](https://github.com/SvanBoxel/delete-merged-branch) - No more manually deleting merged branches, this lovely app does it for you.
 - [sindresorhus/p-limit](https://github.com/sindresorhus/p-limit) - Run multiple promise-returning & async functions with limited concurrency
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [mheap/octokit-commit-multiple-files](https://github.com/mheap/octokit-commit-multiple-files) - Octokit plugin to create/update multiple files at once
 - [doowb/download-stats](https://github.com/doowb/download-stats) - Get and calculate npm download stats for npm modules.
@@ -1265,6 +1264,7 @@
 - [waitingsong/node-win32-api](https://github.com/waitingsong/node-win32-api) - win32 api
 - [piotrwitek/utility-types](https://github.com/piotrwitek/utility-types) - Collection of utility types, complementing TypeScript built-in mapped types and aliases (think "lodash" for static types).
 - [algolia/algoliasearch-client-javascript](https://github.com/algolia/algoliasearch-client-javascript) - ⚡️ A fully-featured and blazing-fast JavaScript API client to interact with Algolia.
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
 - [iwatakeshi/gitly](https://github.com/iwatakeshi/gitly) - An API to download and/or extract git repositories
 - [retyui/react-native-stylex](https://github.com/retyui/react-native-stylex) - Better styling for react-native
