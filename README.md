@@ -221,6 +221,7 @@
 
 ## HTML 
 
+- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [kishanrajput23/Hacktoberfest-2022](https://github.com/kishanrajput23/Hacktoberfest-2022) - Contribute in this repository by raising genuine PR. Get verified, merged and earn the free swags from Hacktoberfest 2022.
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
@@ -958,6 +959,7 @@
 
 ## Python 
 
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [hpyproject/hpy](https://github.com/hpyproject/hpy) - HPy: a better API for Python
 - [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter
