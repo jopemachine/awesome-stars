@@ -665,7 +665,6 @@
 - [ardaogulcan/react-native-keyboard-accessory](https://github.com/ardaogulcan/react-native-keyboard-accessory) - A React Native Keyboard Accessory (View, Navigation) Component. Sticky views on keyboard.
 - [nodemailer/mailparser](https://github.com/nodemailer/mailparser) - Decode mime formatted e-mails
 - [chadxz/imap-simple](https://github.com/chadxz/imap-simple) - Wrapper over node-imap, providing a simpler api for common use cases
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [jshanson7/react-native-swipeable](https://github.com/jshanson7/react-native-swipeable) - A powerful React Native swipe component.
 - [kashishgrover/react-native-see-more-inline](https://github.com/kashishgrover/react-native-see-more-inline) - Show a "read more", "see more", "read less", "see less" inline with your text in React Native
 - [maxs15/react-native-modalbox](https://github.com/maxs15/react-native-modalbox) - A &lt;Modal/&gt; component for react-native
@@ -1320,6 +1319,7 @@
 - [SeanSobey/ChartjsNodeCanvas](https://github.com/SeanSobey/ChartjsNodeCanvas) - A node renderer for Chart.js using canvas.
 - [pankod/react-native-store-rating](https://github.com/pankod/react-native-store-rating) - Ratings and reviews influence how your app ranks in search results, and can affect whether someone downloads your app. Users can rate your app on a scale of desired amount of stars.
 - [denoland/deno_std](https://github.com/denoland/deno_std) - Deno standard library
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [mohebifar/react-native-copilot](https://github.com/mohebifar/react-native-copilot) - Step-by-step walkthrough tooltip for your react native app
 - [crossplatformkorea/react-native-kakao-login](https://github.com/crossplatformkorea/react-native-kakao-login) - react-native native module for Kakao sign in.
