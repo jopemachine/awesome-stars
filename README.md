@@ -960,6 +960,7 @@
 
 ## Python 
 
+- [achimnol/aiotools](https://github.com/achimnol/aiotools) - Idiomatic asyncio utilties
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
