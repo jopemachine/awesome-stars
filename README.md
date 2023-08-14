@@ -688,7 +688,7 @@
 - [abelljs/abell-renderer](https://github.com/abelljs/abell-renderer) - A template engine that lets you write variables, loops, and conditions in HTML using JavaScript Syntax.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [cyrilwanner/cli-select](https://github.com/cyrilwanner/cli-select) - :arrow_forward: Simple and interactive solution to provide a list of selectable items on the command line.
-- [sindresorhus/get-stream](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer
+- [sindresorhus/get-stream](https://github.com/sindresorhus/get-stream) - Get a stream as a string, Buffer, ArrayBuffer or array
 - [mafintosh/csv-parser](https://github.com/mafintosh/csv-parser) - Streaming csv parser inspired by binary-csv that aims to be faster than everyone else
 - [nbubna/Case](https://github.com/nbubna/Case) - String case utitility: convert, identify, flip, extend
 - [sindresorhus/trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash
@@ -960,6 +960,8 @@
 
 ## Python 
 
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and modular stable diffusion GUI with a graph/nodes interface.
+- [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [achimnol/aiotools](https://github.com/achimnol/aiotools) - Idiomatic asyncio utilties
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE
@@ -1042,6 +1044,7 @@
 
 ## Rust 
 
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere.
 - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
