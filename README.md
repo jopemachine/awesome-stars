@@ -123,6 +123,7 @@
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [koshort/pyeunjeon](https://github.com/koshort/pyeunjeon) - (deprecated) 은전한닢 프로젝트와 mecab 기반의 한국어 형태소 분석기의 독립형 python 인터페이스
 - [laurent22/fastcopy](https://github.com/laurent22/fastcopy) - FastCopy
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 
 ## CMake 
 
@@ -208,7 +209,7 @@
 - [lqez/awesome-hangul](https://github.com/lqez/awesome-hangul) - An awesome list of Hangul/Korean related libraries and modules
 - [mdreizin/chrome-bookmarks-alfred-workflow](https://github.com/mdreizin/chrome-bookmarks-alfred-workflow) - Chrome/Canary/Chromium/Microsoft Edge bookmarks search workflow for Alfred
 - [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
-- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
+- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go. Soon to be renamed to DarwinKit!
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [deanishe/alfred-services](https://github.com/deanishe/alfred-services) - Run macOS services from Alfred
 - [deanishe/awgo](https://github.com/deanishe/awgo) - Go library for Alfred 3 + 4 workflows
@@ -260,7 +261,6 @@
 - [openjdk-mirror/jdk7u-jdk](https://github.com/openjdk-mirror/jdk7u-jdk) - 
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [JetBrains/jdk8u_jdk](https://github.com/JetBrains/jdk8u_jdk) - 
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 
 ## JavaScript 
 
