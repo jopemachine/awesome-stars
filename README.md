@@ -8,6 +8,7 @@
 - [ANTLR](#antlr)
 - [Assembly](#assembly)
 - [AutoIt](#autoit)
+- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -64,6 +65,10 @@
 ## AutoIt 
 
 - [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
+
+## Blade 
+
+- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 AI Copilot for your own SaaS product. Open source AI sidekick for everyone.
 
 ## C 
 
@@ -181,6 +186,7 @@
 
 ## Go 
 
+- [Databingo/aih](https://github.com/Databingo/aih) - Talk to AI models in terminal. (Bard | ChatGPT | Claude 2 | Llama 2 | API | Golang | CLI | Google | HuggingChat | Command line | Together | At Same Time | Simultaneously | Concurrently | Thought2Sourc
 - [nicewook/distributed-services-with-go](https://github.com/nicewook/distributed-services-with-go) - real typing of the distributed services with go book codes
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [go-python/gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
@@ -967,7 +973,7 @@
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [achimnol/aiotools](https://github.com/achimnol/aiotools) - Idiomatic asyncio utilties
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source coding copilot—bring the power of ChatGPT to VS Code
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ the open-source copilot chat for software development—bring the power of ChatGPT to VS Code
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [hpyproject/hpy](https://github.com/hpyproject/hpy) - HPy: a better API for Python
 - [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter
