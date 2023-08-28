@@ -186,7 +186,7 @@
 
 ## Go 
 
-- [Databingo/aih](https://github.com/Databingo/aih) - Talk to AI models in terminal. (Bard | ChatGPT | Claude 2 | Llama 2 | API | Golang | CLI | Google | HuggingChat | Command line | Together | At Same Time | Simultaneously | Concurrently | Thought2Sourc
+- [Databingo/aih](https://github.com/Databingo/aih) - Talk to AI modes in terminal. (Bard|ChatGPT|Claude2|Llama2)
 - [nicewook/distributed-services-with-go](https://github.com/nicewook/distributed-services-with-go) - real typing of the distributed services with go book codes
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [go-python/gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
