@@ -187,7 +187,7 @@
 ## Go 
 
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
-- [Databingo/aih](https://github.com/Databingo/aih) - Talk to AI modes in terminal. (Bard|ChatGPT|Claude2|Llama2) | 科研神器 | 연구 슈퍼 도구 | 研究の神器 | L'artefact de recherche | El artefacto de investigación de | Das Forschungsartefakt | Артефакт исследования | Ar
+- [Databingo/aih](https://github.com/Databingo/aih) - Talk to AI modes in terminal. (Bard|ChatGPT|Claude2|Llama2) | 科研神器 | 연구 슈퍼 도구 | L'artefact de recherche | El artefacto de investigación de | Das Forschungsartefakt | Артефакт исследования | Artefato d
 - [nicewook/distributed-services-with-go](https://github.com/nicewook/distributed-services-with-go) - real typing of the distributed services with go book codes
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [go-python/gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
