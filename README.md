@@ -873,7 +873,7 @@
 - [innovationacademy-kr/FAQ](https://github.com/innovationacademy-kr/FAQ) - 이노베이션 아카데미 운영과 입학, 학업에 대한 자주 묻는 질문,  by
 - [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
 - [brave-people/Dev-Event](https://github.com/brave-people/Dev-Event) - 🎉🎈 개발자 {웨비나, 컨퍼런스, 해커톤} 행사를 알려드립니다. [with 남송리 삼번지]
-- [OtacilioN/awesome-hacktoberfest](https://github.com/OtacilioN/awesome-hacktoberfest) - A curated list of awesome Hacktoberfest 2022 repositories, guides and resources
+- [OtacilioN/awesome-hacktoberfest](https://github.com/OtacilioN/awesome-hacktoberfest) - A curated list of awesome Hacktoberfest 2023 repositories, guides and resources
 - [Lee-WonJun/JDD-Description](https://github.com/Lee-WonJun/JDD-Description) - Ju-Dung-A-Li Driven Development
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [eendroroy/alacritty-theme](https://github.com/eendroroy/alacritty-theme) - Collection of Alacritty color schemes
