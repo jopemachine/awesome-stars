@@ -186,6 +186,7 @@
 
 ## Go 
 
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [Databingo/aih](https://github.com/Databingo/aih) - Talk to AI modes in terminal. (Bard|ChatGPT|Claude2|Llama2)
 - [nicewook/distributed-services-with-go](https://github.com/nicewook/distributed-services-with-go) - real typing of the distributed services with go book codes
