@@ -8,7 +8,6 @@
 - [ANTLR](#antlr)
 - [Assembly](#assembly)
 - [AutoIt](#autoit)
-- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -66,10 +65,6 @@
 
 - [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
 
-## Blade 
-
-- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 AI Copilot for your own SaaS product. Open source AI sidekick for everyone.
-
 ## C 
 
 - [saghul/python-fibers](https://github.com/saghul/python-fibers) - Lightweight cooperative microthreads for Python
@@ -94,7 +89,7 @@
 
 ## C# # 
 
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [DynamicTranslator/DynamicTranslator](https://github.com/DynamicTranslator/DynamicTranslator) - Instant translation application for windows in .NET :circus_tent:
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [ndb796/Unity-2D-Rhythm-Game](https://github.com/ndb796/Unity-2D-Rhythm-Game) - Unity로 개발한 2D Rhythm Game Project
@@ -188,7 +183,7 @@
 
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
-- [Databingo/aih](https://github.com/Databingo/aih) - Talk to AI modes in terminal. (Bard|ChatGPT|Claude2|Llama2)
+- [Databingo/aih](https://github.com/Databingo/aih) - Talk to AI modes in terminal. Bard|GPT3.5|Claude2|Llama2|Falcon180
 - [nicewook/distributed-services-with-go](https://github.com/nicewook/distributed-services-with-go) - real typing of the distributed services with go book codes
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [go-python/gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
@@ -1194,6 +1189,7 @@
 
 ## TypeScript 
 
+- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 AI Copilot for your own SaaS product. Open source AI sidekick for everyone.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [axisj/react-multi-email](https://github.com/axisj/react-multi-email) - :octocat: A simple react component to format multiple email as the user types.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
