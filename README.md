@@ -123,7 +123,6 @@
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [koshort/pyeunjeon](https://github.com/koshort/pyeunjeon) - (deprecated) 은전한닢 프로젝트와 mecab 기반의 한국어 형태소 분석기의 독립형 python 인터페이스
 - [laurent22/fastcopy](https://github.com/laurent22/fastcopy) - FastCopy
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 
 ## CMake 
 
@@ -264,6 +263,7 @@
 - [openjdk-mirror/jdk7u-jdk](https://github.com/openjdk-mirror/jdk7u-jdk) - 
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [JetBrains/jdk8u_jdk](https://github.com/JetBrains/jdk8u_jdk) - 
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 
 ## JavaScript 
 
@@ -370,7 +370,7 @@
 - [jamiebuilds/react-loadable](https://github.com/jamiebuilds/react-loadable) - :hourglass_flowing_sand: A higher order component for loading components with promises.
 - [Elringus/DotNetJS](https://github.com/Elringus/DotNetJS) - Consume C# in JavaScript with comfort: single-file UMD library, auto-generated 2-way bindings and type definitions
 - [pablosichert/react-truncate](https://github.com/pablosichert/react-truncate) - React component for truncating multi-line spans and adding an ellipsis.
-- [evoluteur/meet-the-fans](https://github.com/evoluteur/meet-the-fans) - Query and Visualize the network graph of your GitHub repositories, followers, stargazers, and forks.
+- [evoluteur/meet-the-fans](https://github.com/evoluteur/meet-the-fans) - Query and Visualize the network graph of your GitHub repositories, followers, stargazers, and forks (using GraphQL and D3).
 - [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
 - [sindresorhus/gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin
 - [tc39/proposal-observable](https://github.com/tc39/proposal-observable) - Observables for ECMAScript
@@ -676,7 +676,7 @@
 - [maxs15/react-native-modalbox](https://github.com/maxs15/react-native-modalbox) - A &lt;Modal/&gt; component for react-native
 - [invertase/react-native-firebase](https://github.com/invertase/react-native-firebase) - 🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.
 - [tulios/kafkajs](https://github.com/tulios/kafkajs) - A modern Apache Kafka client for node.js
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 - [node-inspector/node-inspector](https://github.com/node-inspector/node-inspector) - Node.js debugger based on Blink Developer Tools
 - [expressjs/morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
