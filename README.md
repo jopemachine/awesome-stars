@@ -67,6 +67,7 @@
 
 ## C 
 
+- [bootlin/elixir](https://github.com/bootlin/elixir) - The Elixir Cross Referencer
 - [saghul/python-fibers](https://github.com/saghul/python-fibers) - Lightweight cooperative microthreads for Python
 - [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 - [HinTak/seeed-voicecard](https://github.com/HinTak/seeed-voicecard) - This is an enhancement fork with the explicit aim of supporting current shipping Raspbian/Ubuntu kernels without requiring downgrading. Please donate at https://hintak.github.io/ if it works for you. 
