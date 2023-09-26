@@ -595,7 +595,6 @@
 - [paulmillr/readdirp](https://github.com/paulmillr/readdirp) - Recursive version of fs.readdir with streaming api.
 - [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [fgnass/filewatcher](https://github.com/fgnass/filewatcher) - Wrapper around fs.watch that falls back to fs.watchFile
-- [isaacs/rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
 - [reactjs/react-transition-group](https://github.com/reactjs/react-transition-group) - An easy way to perform animations when a React component enters or leaves the DOM
 - [jorangreef/sudo-prompt](https://github.com/jorangreef/sudo-prompt) - Run a command using sudo, prompting the user with an OS dialog if necessary.
 - [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
@@ -1301,6 +1300,7 @@
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [Andarist/react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) - &lt;textarea /&gt; component for React which grows with content
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
+- [isaacs/rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
 - [beekai-oss/react-simple-animate](https://github.com/beekai-oss/react-simple-animate) - 🎯 React UI animation made easy
 - [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
