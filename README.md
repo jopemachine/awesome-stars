@@ -344,7 +344,6 @@
 - [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [DrBoolean/immutable-ext](https://github.com/DrBoolean/immutable-ext) - fantasyland extensions for immutablejs
-- [salesforce/tough-cookie](https://github.com/salesforce/tough-cookie) - RFC6265 Cookies and CookieJar for Node.js
 - [lodash-archive/lodash-cli](https://github.com/lodash-archive/lodash-cli) - The Lodash command-line interface.
 - [fisshy/react-scroll](https://github.com/fisshy/react-scroll) - React scroll component
 - [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
@@ -966,6 +965,7 @@
 
 ## Python 
 
+- [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - A Python script to effortlessly extract and format your ChatGPT conversations data export from JSON files to well-structured markdown files, with YAML metadata headers. And it all happens locally !
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
 - [morph-labs/rift](https://github.com/morph-labs/rift) - Rift: an AI-native language server for your personal AI software engineer
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - A powerful and modular stable diffusion GUI with a graph/nodes interface.
@@ -1227,6 +1227,7 @@
 - [sindresorhus/ts-extras](https://github.com/sindresorhus/ts-extras) - Essential utilities for TypeScript projects
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
+- [salesforce/tough-cookie](https://github.com/salesforce/tough-cookie) - RFC6265 Cookies and CookieJar for Node.js
 - [microsoft/vscode-js-debug](https://github.com/microsoft/vscode-js-debug) - The VS Code JavaScript debugger
 - [KennethanCeyer/browser-detect](https://github.com/KennethanCeyer/browser-detect) - :globe_with_meridians: simplify detecting your browser.
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
