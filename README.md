@@ -181,6 +181,7 @@
 
 ## Go 
 
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [Databingo/aih](https://github.com/Databingo/aih) - Talk to AI modes in terminal. Bard|GPT3.5|Claude2|Llama2|Falcon180
