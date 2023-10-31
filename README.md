@@ -344,6 +344,7 @@
 - [crabbly/Print.js](https://github.com/crabbly/Print.js) - A tiny javascript library to help printing from the web.
 - [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
+- [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 - [DrBoolean/immutable-ext](https://github.com/DrBoolean/immutable-ext) - fantasyland extensions for immutablejs
 - [lodash-archive/lodash-cli](https://github.com/lodash-archive/lodash-cli) - The Lodash command-line interface.
 - [fisshy/react-scroll](https://github.com/fisshy/react-scroll) - React scroll component
@@ -1231,7 +1232,6 @@
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [sindresorhus/ts-extras](https://github.com/sindresorhus/ts-extras) - Essential utilities for TypeScript projects
 - [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
-- [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [salesforce/tough-cookie](https://github.com/salesforce/tough-cookie) - RFC6265 Cookies and CookieJar for Node.js
 - [microsoft/vscode-js-debug](https://github.com/microsoft/vscode-js-debug) - The VS Code JavaScript debugger
