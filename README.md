@@ -344,7 +344,7 @@
 - [crabbly/Print.js](https://github.com/crabbly/Print.js) - A tiny javascript library to help printing from the web.
 - [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
-- [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
+- [browserless/browserless](https://github.com/browserless/browserless) - The browserless service in Docker. Run on our cloud or bring your own.
 - [DrBoolean/immutable-ext](https://github.com/DrBoolean/immutable-ext) - fantasyland extensions for immutablejs
 - [lodash-archive/lodash-cli](https://github.com/lodash-archive/lodash-cli) - The Lodash command-line interface.
 - [fisshy/react-scroll](https://github.com/fisshy/react-scroll) - React scroll component
