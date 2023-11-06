@@ -1125,7 +1125,7 @@
 ## Shell 
 
 - [mrodalgaard/alfred-network-workflow](https://github.com/mrodalgaard/alfred-network-workflow) - Show and change your network settings
-- [Chrede88/alfred-wireguard](https://github.com/Chrede88/alfred-wireguard) - Simple Alfred workflow for toggling WireGuard VPN tunnels on macOS
+- [chrede88/alfred-wireguard](https://github.com/chrede88/alfred-wireguard) - Simple Alfred workflow for toggling WireGuard VPN tunnels on macOS
 - [minios-linux/minios-live](https://github.com/minios-linux/minios-live) - These scripts build a bootable MiniOS ISO image.
 - [gazorby/fifc](https://github.com/gazorby/fifc) - 🐠 Configurable fzf completions for fish shell
 - [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
