@@ -426,6 +426,7 @@
 - [cedmax/youmightnotneed](https://github.com/cedmax/youmightnotneed) - 🤯 A collection of `You might not need ${something}` resources
 - [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) - 🌈 Dynamic Coloful Image Render
 - [mmazzarolo/react-native-universal-monorepo](https://github.com/mmazzarolo/react-native-universal-monorepo) - React Native boilerplate supporting multiple platforms: Android, iOS, macOS, Windows, web, browser extensions, Electron.
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [sindresorhus/get-range](https://github.com/sindresorhus/get-range) - Lazy number range generator
 - [webpack-contrib/webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 - [moxystudio/node-cross-spawn](https://github.com/moxystudio/node-cross-spawn) - A cross platform solution to node's spawn and spawnSync
@@ -1270,7 +1271,6 @@
 - [fregante/ghat](https://github.com/fregante/ghat) - 🛕 Reuse GitHub Actions workflows across repositories
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [annexare/Countries](https://github.com/annexare/Countries) - Countries, Languages & Continents data (capital and currency, native name, calling codes).
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [Aminadav/react-useStateRef](https://github.com/Aminadav/react-useStateRef) - useRef and UseState together!
 - [danvk/source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
