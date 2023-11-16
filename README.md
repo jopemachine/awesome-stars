@@ -1032,6 +1032,7 @@
 
 ## Rich Text Format 
 
+- [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) - 
 - [fabrizioschiavi/pragmatapro](https://github.com/fabrizioschiavi/pragmatapro) - PragmataPro font is designed to help pros to work better
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
 
