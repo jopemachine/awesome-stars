@@ -632,7 +632,7 @@
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [victorb/trymodule](https://github.com/victorb/trymodule) - ➰ It's never been easier to try nodejs modules!
 - [hatashiro/pen](https://github.com/hatashiro/pen) - We need a better Markdown previewer.
-- [maxogden/torrent](https://github.com/maxogden/torrent) - download torrents with node from the CLI
+- [max-mapper/torrent](https://github.com/max-mapper/torrent) - download torrents with node from the CLI
 - [danielstjules/pjs](https://github.com/danielstjules/pjs) - Pipeable javascript. Quickly filter, map, and reduce from the terminal
 - [kessler/node-bcat](https://github.com/kessler/node-bcat) - A pipe to browser utility
 - [sindresorhus/npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - Check whether a package or organization name is available on npm
