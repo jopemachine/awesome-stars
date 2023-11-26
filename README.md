@@ -783,7 +783,6 @@
 
 ## Jupyter Notebook 
 
-- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 AI Copilot for your own SaaS product. Shopify Sidekick alternative.
 - [gsurma/style_transfer](https://github.com/gsurma/style_transfer) - CNN image style transfer 🎨.
 - [ndb796/Deep-Learning-Basic-for-KISA](https://github.com/ndb796/Deep-Learning-Basic-for-KISA) - 
 - [teddylee777/machine-learning](https://github.com/teddylee777/machine-learning) - 머신러닝 입문자 혹은 스터디를 준비하시는 분들에게 도움이 되고자 만든 repository입니다. (This repository is intented for helping whom are interested in machine learning study)
@@ -1202,6 +1201,7 @@
 
 ## TypeScript 
 
+- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 AI Copilot for your own SaaS product. Shopify Sidekick alternative.
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [axisj/react-multi-email](https://github.com/axisj/react-multi-email) - :octocat: A simple react component to format multiple email as the user types.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
