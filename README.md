@@ -612,7 +612,7 @@
 - [bit2pixel/chrome-control](https://github.com/bit2pixel/chrome-control) - A JXA script and an Alfred Workflow for controlling Google Chrome
 - [kimdhoe/josa](https://github.com/kimdhoe/josa) - 명사에 맞는 조사를 찾아줍니다.
 - [shaodahong/alfred-code](https://github.com/shaodahong/alfred-code) - Use Alfred to quickly open the file in Code
-- [CharlesStover/use-force-update](https://github.com/CharlesStover/use-force-update) - React Hook to force your function component to update
+- [quisido/use-force-update](https://github.com/quisido/use-force-update) - React Hook to force your function component to update
 - [node-ffi-napi/ref-napi](https://github.com/node-ffi-napi/ref-napi) - Turn Buffer instances into "pointers"
 - [sindresorhus/env-paths](https://github.com/sindresorhus/env-paths) - Get paths for storing things like data, config, cache, etc
 - [pranesh239/use-key-capture](https://github.com/pranesh239/use-key-capture) - Makes listening to key press event easy.
@@ -689,7 +689,7 @@
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [abelljs/abell-renderer](https://github.com/abelljs/abell-renderer) - A template engine that lets you write variables, loops, and conditions in HTML using JavaScript Syntax.
-- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [cyrilwanner/cli-select](https://github.com/cyrilwanner/cli-select) - :arrow_forward: Simple and interactive solution to provide a list of selectable items on the command line.
 - [sindresorhus/get-stream](https://github.com/sindresorhus/get-stream) - Get a stream as a string, Buffer, ArrayBuffer or array
 - [mafintosh/csv-parser](https://github.com/mafintosh/csv-parser) - Streaming csv parser inspired by binary-csv that aims to be faster than everyone else
