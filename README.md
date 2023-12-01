@@ -162,7 +162,7 @@
 
 ## Dockerfile 
 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)
 
 ## Elixir 
 
@@ -172,7 +172,7 @@
 ## Fennel 
 
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
-- [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - 🌌 Next-generation motion plugin using incremental input processing, allowing for unparalleled speed with minimal interruptions (predecessor of leap.nvim)
+- [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - deprecated in favor of leap.nvim
 
 ## Fortran 
 
