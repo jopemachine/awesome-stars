@@ -984,7 +984,7 @@
 - [navytux/pygolang](https://github.com/navytux/pygolang) - Go-like features for Python and Cython. (mirror of https://lab.nexedi.com/kirr/pygolang)
 - [rgalanakis/goless](https://github.com/rgalanakis/goless) - Go-like semantics built on top of Stackless Python.
 - [ColdHeat/pybluemonday](https://github.com/ColdHeat/pybluemonday) - pybluemonday is a library for sanitizing HTML very quickly via bluemonday.
-- [lablup/aioraft-ng](https://github.com/lablup/aioraft-ng) - Unofficial implementation of RAFT consensus algorithm written in asyncio-based Python.
+- [lablup/aioraft-ng](https://github.com/lablup/aioraft-ng) - Unofficial implementation of Raft consensus algorithm written in asyncio-based Python.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [channy/korea-devculture](https://github.com/channy/korea-devculture) - 국내 IT 기업 소프트웨어 개발 문화 - 본 레포지터리는 국내 IT 기업의 소프트웨어 개발 문화에 대한 다양한 자료를 정리하고 있습니다.
 - [twisted/towncrier](https://github.com/twisted/towncrier) - Manage the release notes for your project.
