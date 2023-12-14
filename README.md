@@ -749,7 +749,7 @@
 - [swagger-api/swagger-node](https://github.com/swagger-api/swagger-node) - Swagger module for node.js
 - [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) - Source code extensions in the official PopClip Extensions directory.
 - [wix/Detox](https://github.com/wix/Detox) - Gray box end-to-end testing and automation framework for mobile apps
-- [brettstack/serverless-express](https://github.com/brettstack/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
+- [CodeGenieApp/serverless-express](https://github.com/CodeGenieApp/serverless-express) - Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
 - [e-/Hangul.js](https://github.com/e-/Hangul.js) - 한글 자음/모음 분리/조합 자바스크립트 라이브러리. 자바스크립트 한글 오토마타 구현체입니다.
 - [Evernote/evernote-sdk-js](https://github.com/Evernote/evernote-sdk-js) - Evernote SDK for JavaScript
 - [yeoman/yo](https://github.com/yeoman/yo) - CLI tool for running Yeoman generators
