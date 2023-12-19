@@ -120,7 +120,7 @@
 - [esp8266/Arduino](https://github.com/esp8266/Arduino) - ESP8266 core for Arduino
 - [facebook/folly](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook.
 - [OpenFOAM/OpenFOAM-dev](https://github.com/OpenFOAM/OpenFOAM-dev) - OpenFOAM Foundation development repository
-- [QtExcel/QXlsx](https://github.com/QtExcel/QXlsx) - Excel file(*.xlsx) reader/writer library using Qt 5 or 6. Descendant of QtXlsx.
+- [QtExcel/QXlsx](https://github.com/QtExcel/QXlsx) - Excel file(*.xlsx) reader/writer library using Qt 5 or 6. Descendant of QtXlsxWriter.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [koshort/pyeunjeon](https://github.com/koshort/pyeunjeon) - (deprecated) 은전한닢 프로젝트와 mecab 기반의 한국어 형태소 분석기의 독립형 python 인터페이스
 - [laurent22/fastcopy](https://github.com/laurent22/fastcopy) - FastCopy
@@ -400,7 +400,7 @@
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [Trott/slug](https://github.com/Trott/slug) - slugifies even utf-8 chars!
 - [sindresorhus/p-throttle](https://github.com/sindresorhus/p-throttle) - Throttle promise-returning & async functions
-- [fabiospampinato/atomically](https://github.com/fabiospampinato/atomically) - Write files atomically and reliably.
+- [fabiospampinato/atomically](https://github.com/fabiospampinato/atomically) - Read and write files atomically and reliably.
 - [sindresorhus/terminal-image-cli](https://github.com/sindresorhus/terminal-image-cli) - Display images in the terminal
 - [sindresorhus/p-state](https://github.com/sindresorhus/p-state) - Inspect the state of a promise
 - [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
