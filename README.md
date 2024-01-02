@@ -183,7 +183,6 @@
 ## Go 
 
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
-- [linhx/tbmk](https://github.com/linhx/tbmk) - A commands bookmark for terminal 🔖
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
