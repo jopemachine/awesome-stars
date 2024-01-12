@@ -1065,6 +1065,8 @@
 
 ## Rust 
 
+- [wyfo/pyo3-async](https://github.com/wyfo/pyo3-async) - PyO3 bindings to various Python asynchronous frameworks
+- [awestlake87/pyo3-asyncio](https://github.com/awestlake87/pyo3-asyncio) - 
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
 - [dtolnay/async-trait](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods
 - [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
