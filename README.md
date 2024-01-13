@@ -1065,6 +1065,7 @@
 
 ## Rust 
 
+- [tikv/fail-rs](https://github.com/tikv/fail-rs) - Fail points for rust
 - [wyfo/pyo3-async](https://github.com/wyfo/pyo3-async) - PyO3 bindings to various Python asynchronous frameworks
 - [awestlake87/pyo3-asyncio](https://github.com/awestlake87/pyo3-asyncio) - 
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3
