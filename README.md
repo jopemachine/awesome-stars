@@ -1067,7 +1067,7 @@
 
 ## Rust 
 
-- [moturus/motor-os](https://github.com/moturus/motor-os) - 
+- [moturus/motor-os](https://github.com/moturus/motor-os) - A simple, fast, and secure operating system for the cloud.
 - [tikv/fail-rs](https://github.com/tikv/fail-rs) - Fail points for rust
 - [wyfo/pyo3-async](https://github.com/wyfo/pyo3-async) - PyO3 bindings to various Python asynchronous frameworks
 - [awestlake87/pyo3-asyncio](https://github.com/awestlake87/pyo3-asyncio) - 
