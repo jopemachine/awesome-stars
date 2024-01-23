@@ -742,7 +742,6 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [sindresorhus/os-locale](https://github.com/sindresorhus/os-locale) - Get the system locale
 - [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
-- [73R3WY/react-native-svg-animations](https://github.com/73R3WY/react-native-svg-animations) - SVG Animations wrapper for react-native.
 - [glepur/react-native-swipe-gestures](https://github.com/glepur/react-native-swipe-gestures) - 4-directional swipe gestures for react-native
 - [SamVerschueren/resolve-alfred-prefs](https://github.com/SamVerschueren/resolve-alfred-prefs) - Resolve the path of Alfred.alfredpreferences
 - [manosim/alfred-react-native](https://github.com/manosim/alfred-react-native) - Access the React Native Documentation from Alfred
@@ -986,7 +985,6 @@
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [achimnol/aiotools](https://github.com/achimnol/aiotools) - Idiomatic asyncio utilties
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [hpyproject/hpy](https://github.com/hpyproject/hpy) - HPy: a better API for Python
 - [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter
@@ -1224,6 +1222,7 @@
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Mu
 - [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 Let your users chat with your product features and execute things by text - open source Shopify sidekick
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [axisj/react-multi-email](https://github.com/axisj/react-multi-email) - :octocat: A simple react component to format multiple email as the user types.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
@@ -1394,6 +1393,7 @@
 - [sindresorhus/memoize](https://github.com/sindresorhus/memoize) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- [73R3WY/react-native-svg-animations](https://github.com/73R3WY/react-native-svg-animations) - SVG Animations wrapper for react-native.
 - [codemotionapps/react-native-dynamic](https://github.com/codemotionapps/react-native-dynamic) - Helper APIs to work with dark mode in React Native
 - [react-navigation/react-native-safe-area-view](https://github.com/react-navigation/react-native-safe-area-view) - ⚠️ Deprecated: use the successor react-native-safe-area-context instead!
 - [th3rdwave/react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context) - A flexible way to handle safe area insets in JS. Also works on Android and Web!
