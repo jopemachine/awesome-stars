@@ -1065,6 +1065,7 @@
 
 ## Rust 
 
+- [etcdv3/etcd-client](https://github.com/etcdv3/etcd-client) - An etcd v3 API client
 - [moturus/motor-os](https://github.com/moturus/motor-os) - A simple, fast, and secure operating system for the cloud.
 - [tikv/fail-rs](https://github.com/tikv/fail-rs) - Fail points for rust
 - [wyfo/pyo3-async](https://github.com/wyfo/pyo3-async) - PyO3 bindings to various Python asynchronous frameworks
