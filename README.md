@@ -187,7 +187,7 @@
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
-- [Databingo/aih](https://github.com/Databingo/aih) - Talk to AI modes in terminal. Bard|GPT3.5|Claude2|Llama2|Falcon180
+- [Databingo/aih](https://github.com/Databingo/aih) - Talk to AI modes in terminal. Bard|GPT3.5|Llama2
 - [nicewook/distributed-services-with-go](https://github.com/nicewook/distributed-services-with-go) - real typing of the distributed services with go book codes
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [go-python/gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
@@ -1222,7 +1222,7 @@
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Mu
-- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 Let your users chat with your product features and execute things by text - open source Shopify sidekick
+- [openchatai/OpenCopilot](https://github.com/openchatai/OpenCopilot) - 🤖 🔥 Siri, but for your  own product. ship an AI copilot for your product in minutes.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [axisj/react-multi-email](https://github.com/axisj/react-multi-email) - :octocat: A simple react component to format multiple email as the user types.
