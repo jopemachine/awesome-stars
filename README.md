@@ -163,7 +163,7 @@
 
 ## Dockerfile 
 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
 
 ## Elixir 
 
@@ -228,6 +228,7 @@
 
 ## HTML 
 
+- [Veykril/tlborm](https://github.com/Veykril/tlborm) - The Little Book of Rust Macros (updated fork)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [kishanrajput23/Hacktoberfest-2022](https://github.com/kishanrajput23/Hacktoberfest-2022) - Contribute in this repository by raising genuine PR. Get verified, merged and earn the free swags from Hacktoberfest 2022.
 - [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
@@ -298,7 +299,7 @@
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [kevva/npm-user-packages](https://github.com/kevva/npm-user-packages) - Get packages by a npm user
 - [cutenode/good-first-issue](https://github.com/cutenode/good-first-issue) - 🖥 CLI for finding good first issues
-- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
+- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [sindresorhus/one-thing](https://github.com/sindresorhus/one-thing) - Set the text for the One Thing app
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
@@ -967,6 +968,7 @@
 
 ## Python 
 
+- [lablup/etcetra](https://github.com/lablup/etcetra) - Etcd client built with pure asyncio gRPC library
 - [bloomberg/pystack](https://github.com/bloomberg/pystack) - 🔍 🐍 Like pstack but for Python!
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
