@@ -1171,7 +1171,7 @@
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [IngoMeyer441/tmux-easy-motion](https://github.com/IngoMeyer441/tmux-easy-motion) - Vim's easy-motion for tmux
 - [tj/n](https://github.com/tj/n) - Node version management
-- [ronniedroid/getnf](https://github.com/ronniedroid/getnf) - A better way to install NerdFonts
+- [getnf/getnf](https://github.com/getnf/getnf) - A better way to install NerdFonts
 - [puneetsl/lotion](https://github.com/puneetsl/lotion) - Unofficial Notion.so app for Linux
 - [adoyle-h/lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility/library for Bash script development.
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
