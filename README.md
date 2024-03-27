@@ -1072,6 +1072,7 @@
 
 ## Rust 
 
+- [Marthog/rust-stm](https://github.com/Marthog/rust-stm) - Software transactional memory
 - [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust
