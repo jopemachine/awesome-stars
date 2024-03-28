@@ -23,6 +23,7 @@
 - [Go](#go)
 - [Groovy](#groovy)
 - [HTML](#html)
+- [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -246,6 +247,10 @@
 - [indongyoo/functional-javascript-01](https://github.com/indongyoo/functional-javascript-01) - 함수형 프로그래밍과 ES6+ 강의 예제 코드
 - [jameshamann/jekyll-material-theme](https://github.com/jameshamann/jekyll-material-theme) - A Jekyll Theme based on Material Design using Materialize.
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
+
+## Haskell 
+
+- [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 
 ## Java 
 
@@ -1072,6 +1077,7 @@
 
 ## Rust 
 
+- [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [Marthog/rust-stm](https://github.com/Marthog/rust-stm) - Software transactional memory
 - [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
