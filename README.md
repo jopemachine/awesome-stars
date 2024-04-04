@@ -1440,6 +1440,7 @@
 
 ## Vim Script 
 
+- [ojroques/vim-oscyank](https://github.com/ojroques/vim-oscyank) - A Vim plugin to copy text through SSH with OSC52
 - [hdima/python-syntax](https://github.com/hdima/python-syntax) - Python syntax highlighting script for Vim
 - [dag/vim-fish](https://github.com/dag/vim-fish) - Vim support for editing fish scripts
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
