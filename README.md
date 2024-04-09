@@ -1076,6 +1076,7 @@
 
 ## Rust 
 
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [Marthog/rust-stm](https://github.com/Marthog/rust-stm) - Software transactional memory
 - [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements
