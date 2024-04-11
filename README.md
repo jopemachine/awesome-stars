@@ -339,6 +339,7 @@
 - [yargs/cliui](https://github.com/yargs/cliui) - easily create complex multi-column command-line-interfaces.
 - [lukeed/escalade](https://github.com/lukeed/escalade) - A tiny (183B to 210B) and fast utility to ascend parent directories
 - [sindresorhus/get-stdin](https://github.com/sindresorhus/get-stdin) - Get stdin as a string or buffer
+- [nodejs/TSC](https://github.com/nodejs/TSC) - The Node.js Technical Steering Committee
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
 - [SamVerschueren/clinton](https://github.com/SamVerschueren/clinton) - Project style linter
 - [sindresorhus/sparkly](https://github.com/sindresorhus/sparkly) - Generate sparklines ▁▂▃▅▂▇
@@ -870,6 +871,7 @@
 
 ## Others 
 
+- [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) - A list of awesome resources for zellij
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [ksundong/backend-interview-question](https://github.com/ksundong/backend-interview-question) - 백엔드 개발자로 입사를 준비하며 받았던 질문, 예상했던 질문, 인터넷 참고한 질문(CC BY-NC)
@@ -898,7 +900,6 @@
 - [avajs/ava-docs](https://github.com/avajs/ava-docs) - Localized docs for AVA
 - [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser?
 - [nodejs/mentorship](https://github.com/nodejs/mentorship) - Node.js Mentorship Program Initiative
-- [nodejs/TSC](https://github.com/nodejs/TSC) - The Node.js Technical Steering Committee
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [naver/nanumfont](https://github.com/naver/nanumfont) - 
 - [uyeong/NotoSans-subset](https://github.com/uyeong/NotoSans-subset) - Lightweight Hangul web font files
@@ -1105,7 +1106,7 @@
 - [PsiACE/riteraft](https://github.com/PsiACE/riteraft) - RiteRaft - A raft framework, for regular people
 - [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
-- [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
+- [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [tikv/raft-rs](https://github.com/tikv/raft-rs) - Raft distributed consensus algorithm implemented in Rust.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [lablup/backend.ai-jail](https://github.com/lablup/backend.ai-jail) - A programmable security sandbox for Backend.AI kernels
@@ -1286,7 +1287,7 @@
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [react-pdf-viewer/react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - A React component to view a PDF document
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [PSeitz/ts-dependency-graph](https://github.com/PSeitz/ts-dependency-graph) - prints a dependency graph in dot format for your typescript/react project
+- [PSeitz/ts-dependency-graph](https://github.com/PSeitz/ts-dependency-graph) - prints a dependency graph in dot/mermaid format for your typescript/react project
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [sindresorhus/p-memoize](https://github.com/sindresorhus/p-memoize) - Memoize promise-returning & async functions
