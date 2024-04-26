@@ -429,7 +429,6 @@
 - [sindresorhus/newline-br](https://github.com/sindresorhus/newline-br) - Prepend `&lt;br&gt;` to newlines in a string
 - [sindresorhus/load-json-file](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file
 - [sindresorhus/write-json-file](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically
-- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [jonschlinkert/delete](https://github.com/jonschlinkert/delete) - Delete files and folders and any intermediate directories if they exist (sync and async).
 - [timkendrick/recursive-copy](https://github.com/timkendrick/recursive-copy) - Simple, flexible file copy utility
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
@@ -856,6 +855,7 @@
 ## Markdown 
 
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## OCaml 
@@ -1077,6 +1077,7 @@
 
 ## Rust 
 
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [Marthog/rust-stm](https://github.com/Marthog/rust-stm) - Software transactional memory
