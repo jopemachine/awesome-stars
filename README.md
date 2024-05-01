@@ -583,7 +583,7 @@
 - [sindresorhus/p-filter](https://github.com/sindresorhus/p-filter) - Filter promises concurrently
 - [sindresorhus/p-map](https://github.com/sindresorhus/p-map) - Map over promises concurrently
 - [sindresorhus/wallpaper](https://github.com/sindresorhus/wallpaper) - Manage the desktop wallpaper
-- [sindresorhus/active-win](https://github.com/sindresorhus/active-win) - Get metadata about the active window (title, id, bounds, owner, etc)
+- [sindresorhus/get-windows](https://github.com/sindresorhus/get-windows) - Get metadata about the active window and open windows (title, id, bounds, owner, etc)
 - [sindresorhus/humanize-url](https://github.com/sindresorhus/humanize-url) - Humanize a URL: https://sindresorhus.com → sindresorhus.com
 - [sindresorhus/globby](https://github.com/sindresorhus/globby) - User-friendly glob matching
 - [sindresorhus/trim-newlines](https://github.com/sindresorhus/trim-newlines) - Trim newlines from the start and/or end of a string
