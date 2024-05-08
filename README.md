@@ -256,7 +256,7 @@
 - [tlaplus/tlaplus](https://github.com/tlaplus/tlaplus) - TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.
 - [pvorb/npm-stat.com](https://github.com/pvorb/npm-stat.com) - download statistics for npm packages
 - [neolord0/hwplib](https://github.com/neolord0/hwplib) - hwp library for java
-- [react-native-video/react-native-video](https://github.com/react-native-video/react-native-video) - A &lt;Video /&gt; component for react-native
+- [TheWidlarzGroup/react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A &lt;Video /&gt; component for react-native
 - [zmxv/react-native-sound](https://github.com/zmxv/react-native-sound) - React Native module for playing sound clips
 - [revtel/react-native-nfc-manager](https://github.com/revtel/react-native-nfc-manager) - React Native NFC module for Android & iOS
 - [react-native-google-signin/google-signin](https://github.com/react-native-google-signin/google-signin) - Google Sign-in for your React Native applications
