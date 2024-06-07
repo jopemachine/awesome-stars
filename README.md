@@ -71,6 +71,7 @@
 
 - [bootlin/elixir](https://github.com/bootlin/elixir) - The Elixir Cross Referencer
 - [saghul/python-fibers](https://github.com/saghul/python-fibers) - Lightweight cooperative microthreads for Python
+- [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 - [HinTak/seeed-voicecard](https://github.com/HinTak/seeed-voicecard) - This is an enhancement fork with the explicit aim of supporting current shipping Raspbian/Ubuntu kernels without requiring downgrading. Please donate at https://hintak.github.io/ if it works for you. 
 - [universal-ctags/ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [libhangul/libhangul](https://github.com/libhangul/libhangul) - A library to support hangul input method logic
@@ -885,7 +886,6 @@
 - [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
 - [brave-people/Dev-Event](https://github.com/brave-people/Dev-Event) - 🎉🎈 개발자 {웨비나, 컨퍼런스, 해커톤} 행사를 알려드립니다. [with 남송리 삼번지]
 - [OtacilioN/awesome-hacktoberfest](https://github.com/OtacilioN/awesome-hacktoberfest) - A curated list of awesome Hacktoberfest 2023 repositories, guides and resources
-- [freebsd/freebsd-src](https://github.com/freebsd/freebsd-src) - The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....
 - [Lee-WonJun/JDD-Description](https://github.com/Lee-WonJun/JDD-Description) - Ju-Dung-A-Li Driven Development
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [eendroroy/alacritty-theme](https://github.com/eendroroy/alacritty-theme) - Collection of Alacritty color schemes
