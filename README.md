@@ -938,6 +938,7 @@
 - [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 - [sindresorhus/tsconfig](https://github.com/sindresorhus/tsconfig) - Shared TypeScript config for my projects
 - [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app.
+- [socketio/socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [sindresorhus/alfred-xcode](https://github.com/sindresorhus/alfred-xcode) - Alfred 3 workflow to open Xcode projects, workspaces, and playgrounds
 - [sindresorhus/typescript-definition-style-guide](https://github.com/sindresorhus/typescript-definition-style-guide) - Style guide for adding type definitions to my npm packages
@@ -1374,7 +1375,6 @@
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [IjzerenHein/react-navigation-shared-element](https://github.com/IjzerenHein/react-navigation-shared-element) - React Navigation bindings for react-native-shared-element 💫
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
-- [socketio/socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [azouaoui-med/react-pro-sidebar](https://github.com/azouaoui-med/react-pro-sidebar) - React Pro Sidebar provides a set of components for creating high level and customizable side navigation
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
