@@ -1403,7 +1403,7 @@
 - [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio) - Creating an automatic portfolio based on Github profile
 - [SeanSobey/ChartjsNodeCanvas](https://github.com/SeanSobey/ChartjsNodeCanvas) - A node renderer for Chart.js using canvas.
 - [pankod/react-native-store-rating](https://github.com/pankod/react-native-store-rating) - Ratings and reviews influence how your app ranks in search results, and can affect whether someone downloads your app. Users can rate your app on a scale of desired amount of stars.
-- [denoland/deno_std](https://github.com/denoland/deno_std) - The Deno Standard Library
+- [denoland/std](https://github.com/denoland/std) - The Deno Standard Library
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [mohebifar/react-native-copilot](https://github.com/mohebifar/react-native-copilot) - Step-by-step walkthrough tooltip for your react native app
 - [crossplatformkorea/react-native-kakao-login](https://github.com/crossplatformkorea/react-native-kakao-login) - react-native native module for Kakao sign in.
