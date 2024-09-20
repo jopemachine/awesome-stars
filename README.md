@@ -1397,7 +1397,7 @@
 - [reduxjs/redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for Redux
 - [tj/connect-redis](https://github.com/tj/connect-redis) - Redis session store for Connect
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
-- [r5n-dev/vscode-react-javascript-snippets](https://github.com/r5n-dev/vscode-react-javascript-snippets) - Extension for React/Javascript snippets with search supporting ES7+ and babel features
+- [r5n-labs/vscode-react-javascript-snippets](https://github.com/r5n-labs/vscode-react-javascript-snippets) - Extension for React/Javascript snippets with search supporting ES7+ and babel features
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
 - [jasonkuhrt/graffle](https://github.com/jasonkuhrt/graffle) - Simple GraphQL Client for JavaScript. Minimal. Extensible. Type Safe. Runs everywhere.
 - [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio) - Creating an automatic portfolio based on Github profile
