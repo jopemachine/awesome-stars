@@ -38,7 +38,6 @@
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
-- [PowerShell](#powershell)
 - [Python](#python)
 - [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
@@ -977,10 +976,6 @@
 - [beyondgrep/ack3](https://github.com/beyondgrep/ack3) - ack is a grep-like search tool optimized for source code.
 - [k4rthik/git-cal](https://github.com/k4rthik/git-cal) - github like contributions calendar on terminal
 
-## PowerShell 
-
-- [denoland/deno_install](https://github.com/denoland/deno_install) - Deno Binary Installer
-
 ## Python 
 
 - [aio-libs/aiobotocore](https://github.com/aio-libs/aiobotocore) - asyncio support for botocore library using aiohttp
@@ -1416,6 +1411,7 @@
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
+- [denoland/deno_install](https://github.com/denoland/deno_install) - Deno Binary Installer
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) - Visual Studio Code plugin for Deno
 - [axetroy/vscode-changelog-generator](https://github.com/axetroy/vscode-changelog-generator) - vscode extension to generate changelog.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
