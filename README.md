@@ -701,6 +701,7 @@
 - [klaudiosinani/tusk](https://github.com/klaudiosinani/tusk) - Refined Evernote desktop app
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [sindresorhus/make-synchronous](https://github.com/sindresorhus/make-synchronous) - Make an asynchronous function synchronous
+- [denoland/deno_install](https://github.com/denoland/deno_install) - Deno Binary Installer
 - [micromark/micromark](https://github.com/micromark/micromark) - small, safe, and great commonmark (optionally gfm) compliant markdown parser
 - [codecov/codecov-node](https://github.com/codecov/codecov-node) - Global coverage report uploader for Codecov in NodeJS
 - [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
@@ -1411,7 +1412,6 @@
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
-- [denoland/deno_install](https://github.com/denoland/deno_install) - Deno Binary Installer
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) - Visual Studio Code plugin for Deno
 - [axetroy/vscode-changelog-generator](https://github.com/axetroy/vscode-changelog-generator) - vscode extension to generate changelog.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
