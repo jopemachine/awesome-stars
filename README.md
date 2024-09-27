@@ -880,6 +880,7 @@
 
 ## Others 
 
+- [huggingface/chat-macOS](https://github.com/huggingface/chat-macOS) - Making the community's best AI chat models available to everyone.
 - [zellij-org/awesome-zellij](https://github.com/zellij-org/awesome-zellij) - A list of awesome resources for zellij
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
@@ -1088,7 +1089,7 @@
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [getgrit/gritql](https://github.com/getgrit/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [Marthog/rust-stm](https://github.com/Marthog/rust-stm) - Software transactional memory
-- [datafuselabs/openraft](https://github.com/datafuselabs/openraft) - rust raft with improvements
+- [databendlabs/openraft](https://github.com/databendlabs/openraft) - rust raft with improvements
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [redis-rs/redis-rs](https://github.com/redis-rs/redis-rs) - Redis library for rust
 - [etcdv3/etcd-client](https://github.com/etcdv3/etcd-client) - An etcd v3 API client
