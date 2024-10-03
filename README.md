@@ -492,7 +492,6 @@
 - [automation-stack/electron-sudo](https://github.com/automation-stack/electron-sudo) - Electron subprocesses with administrative privileges, prompting the user with an OS dialog if necessary.
 - [jenslind/electron-positioner](https://github.com/jenslind/electron-positioner) - :pushpin: Helps positioning your electron windows.
 - [getstation/electron-process-manager](https://github.com/getstation/electron-process-manager) - Process manager UI for Electron applications
-- [klarna/electron-redux](https://github.com/klarna/electron-redux) - Use redux in the main and browser processes in electron
 - [delvedor/electron-is](https://github.com/delvedor/electron-is) - An 'is' utility for Electron which provides a set of handy functions, with a self-descriptive name.
 - [sindresorhus/package-json](https://github.com/sindresorhus/package-json) - Get metadata of a package from the npm registry
 - [sindresorhus/junk](https://github.com/sindresorhus/junk) - Filter out OS junk files like .DS_Store and Thumbs.db
@@ -1127,7 +1126,7 @@
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - App framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [hyperledger/iroha](https://github.com/hyperledger/iroha) - Iroha - A simple, enterprise-grade decentralized ledger
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -1340,6 +1339,7 @@
 - [rhysd/electron-about-window](https://github.com/rhysd/electron-about-window) - 'About This App' mini-window for Electron apps
 - [getstation/electron-chrome-extension](https://github.com/getstation/electron-chrome-extension) - Implementation of Chrome extension APIs for Electron
 - [MarshallOfSound/electron-devtools-installer](https://github.com/MarshallOfSound/electron-devtools-installer) - An easy way to ensure Chrome DevTools extensions into Electron
+- [klarna/electron-redux](https://github.com/klarna/electron-redux) - Use redux in the main and browser processes in electron
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [bevry/istextorbinary](https://github.com/bevry/istextorbinary) - Determine if a filename and/or buffer is text or binary. Smarter detection than the other solutions.
 - [sindresorhus/p-progress](https://github.com/sindresorhus/p-progress) - Create a promise that reports progress
