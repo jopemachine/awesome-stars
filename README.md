@@ -1079,6 +1079,7 @@
 
 ## Rust 
 
+- [PyO3/pyo3-async-runtimes](https://github.com/PyO3/pyo3-async-runtimes) - PyO3-based bridges between Python and Rust async runtimes
 - [Jij-Inc/pyo3-stub-gen](https://github.com/Jij-Inc/pyo3-stub-gen) - Stub file (*.pyi) generator for PyO3
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
