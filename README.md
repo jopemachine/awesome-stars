@@ -1079,6 +1079,7 @@
 
 ## Rust 
 
+- [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust.
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [PyO3/pyo3-async-runtimes](https://github.com/PyO3/pyo3-async-runtimes) - PyO3-based bridges between Python and Rust async runtimes
 - [Jij-Inc/pyo3-stub-gen](https://github.com/Jij-Inc/pyo3-stub-gen) - Stub file (*.pyi) generator for PyO3
