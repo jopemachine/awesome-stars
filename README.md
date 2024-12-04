@@ -977,6 +977,8 @@
 
 ## Python 
 
+- [agronholm/typeguard](https://github.com/agronholm/typeguard) - Run-time type checker for Python
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [ahmetsait/toolgit](https://github.com/ahmetsait/toolgit) - Git Productivity Toolkit
 - [aio-libs/aiobotocore](https://github.com/aio-libs/aiobotocore) - asyncio support for botocore library using aiohttp
 - [lablup/etcetra](https://github.com/lablup/etcetra) - Etcd client built with pure asyncio gRPC library
