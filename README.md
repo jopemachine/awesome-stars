@@ -300,7 +300,7 @@
 - [apify/got-cjs](https://github.com/apify/got-cjs) - An action to release a CommonJS version of the popular library got, which is soon to be available only in an ESM format.
 - [sindresorhus/p-lazy](https://github.com/sindresorhus/p-lazy) - Create a lazy promise that defers execution until it's awaited or when .then() or .catch() is called
 - [soldair/node-qrcode](https://github.com/soldair/node-qrcode) - qr code generator
-- [yeoman/update-notifier](https://github.com/yeoman/update-notifier) - Update notifications for your CLI app
+- [sindresorhus/update-notifier](https://github.com/sindresorhus/update-notifier) - Update notifications for your CLI app
 - [ehmicky/nvexeca](https://github.com/ehmicky/nvexeca) - nvm + execa = nvexeca
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
