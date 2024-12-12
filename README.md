@@ -92,7 +92,7 @@
 ## C# # 
 
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
-- [elringus/bootsharp](https://github.com/elringus/bootsharp) - Compile C# solution into single-file ES module with auto-generated JavaScript bindings and type definitions
+- [elringus/bootsharp](https://github.com/elringus/bootsharp) - Use C# in web apps with comfort
 - [DynamicTranslator/DynamicTranslator](https://github.com/DynamicTranslator/DynamicTranslator) - Instant translation application for windows in .NET :circus_tent:
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [ndb796/Unity-2D-Rhythm-Game](https://github.com/ndb796/Unity-2D-Rhythm-Game) - Unity로 개발한 2D Rhythm Game Project
@@ -193,7 +193,7 @@
 - [alexei-led/pumba](https://github.com/alexei-led/pumba) - Chaos testing, network emulation, and stress testing tool for containers
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -805,6 +805,7 @@
 
 ## Lua 
 
+- [catppuccin/wezterm](https://github.com/catppuccin/wezterm) - :shell: Soothing pastel theme for WezTerm
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [jinh0/eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim) - 👀 Move faster with unique f/F indicators.
 - [sQVe/sort.nvim](https://github.com/sQVe/sort.nvim) - Sorting plugin for Neovim that supports line-wise and delimiter sorting.
@@ -1254,7 +1255,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code In
 - [openchatai/copilot](https://github.com/openchatai/copilot) - 🤖 🔥 Language-to-actions engine
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
