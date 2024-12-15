@@ -294,7 +294,7 @@
 - [varunshenoy/opendream](https://github.com/varunshenoy/opendream) - An extensible, easy-to-use, and portable diffusion web UI 👨‍🎨
 - [kriszyp/lmdb-js](https://github.com/kriszyp/lmdb-js) - Simple, efficient, ultra-fast, scalable data store wrapper for LMDB
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - just a GPT wrapper for git — generate commit messages by an LLM in 1 sec — works best with Claude 3.5 — supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude 3.5 — supports local models too
 - [sindresorhus/ps-list](https://github.com/sindresorhus/ps-list) - Get running processes
 - [chalk/ansi-styles](https://github.com/chalk/ansi-styles) - ANSI escape codes for styling strings in the terminal
 - [apify/got-cjs](https://github.com/apify/got-cjs) - An action to release a CommonJS version of the popular library got, which is soon to be available only in an ESM format.
